@@ -1,20 +1,20 @@
 {
-  "run_time": "2026-10-29T09:02:23.159025+00:00",
-  "run_time_sh": "2026-10-29 17:02",
-  "window_start": "2026-10-28T08:02:23.159025+00:00",
-  "window_start_sh": "2026-10-28 16:02",
-  "channels_enabled": 14,
+  "run_time": "2026-10-29T09:19:11.481155+00:00",
+  "run_time_sh": "2026-10-29 17:19",
+  "window_start": "2026-10-28T08:19:11.481155+00:00",
+  "window_start_sh": "2026-10-28 16:19",
+  "channels_enabled": 15,
   "new_count": 1,
   "videos": [
     {
-      "video_id": "4EhaAAYVCxQ",
-      "title": "ProcessTeknik 2026: WIKA innovations for the process industry",
-      "url": "https://www.youtube.com/watch?v=4EhaAAYVCxQ",
-      "published": "2026-10-28T16:15:23+00:00",
-      "views": "54",
-      "published_sh": "2026-10-29 00:15",
-      "brand": "WIKA 威卡",
-      "channel": "WIKA Group"
+      "video_id": "LoMdDY-JwNE",
+      "title": "The Next Generation of HVAC Tools Is Here | Combustion, Leak Detection & Smart Connectivity",
+      "url": "https://www.youtube.com/watch?v=LoMdDY-JwNE",
+      "published": "2026-10-28T17:02:57+00:00",
+      "views": "49",
+      "published_sh": "2026-10-29 01:02",
+      "brand": "Testo 德图",
+      "channel": "Testo USA"
     }
   ],
   "failures": [],
