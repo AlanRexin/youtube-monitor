@@ -66,11 +66,11 @@
   {
     "brand": "WIKA 威卡",
     "channel_name": "WIKA USA",
-    "handle": "WIKAUSA",
+    "handle": null,
     "user": null,
-    "channel_id": "UCQ2i-nPdbYJKGoa7avh5jXg",
+    "channel_id": "UCXEmS3f1nSRqbqpZeU_tlgw",
     "enabled": true,
-    "note": "handle 待首跑验证",
+    "note": "WIKA 美国实体官方频道（WIKA Instrument, LP，2.33K 订阅，官方描述），但 2018 年后停更；@WIKAUSA 及搜索候选均为个人娱乐号，已弃用；WIKA 日常动态由 WIKA Group 全球频道覆盖",
     "channel_id_resolved_at": "2026-10-29T09:02:23.159025+00:00",
     "last_video_published": null
   },
@@ -120,11 +120,11 @@
   {
     "brand": "Testo 德图",
     "channel_name": "Testo",
-    "handle": "testoSE",
+    "handle": "Testolimited",
     "user": null,
-    "channel_id": "UChH2PO3HeOWWAgbog24xucA",
+    "channel_id": "UCKr_-_p_3VQ4vTAief_moOQ",
     "enabled": true,
-    "note": "testo 官方频道，handle 待首跑验证（注意别配到同名小号）",
+    "note": "官方频道（testo.com 社媒页指向 https://www.youtube.com/@Testolimited），页名 Testo UK，2026-10 仍在更新；原 @testoSE 落在 0 视频同名空频道，已弃用",
     "channel_id_resolved_at": "2026-10-29T09:02:23.159025+00:00",
     "last_video_published": null
   },
@@ -140,11 +140,11 @@
   {
     "brand": "Baker Hughes（Druck 母公司）",
     "channel_name": "Baker Hughes",
-    "handle": "BakerHughes",
+    "handle": null,
     "user": null,
-    "channel_id": "UChyCf0N7JW1CY9KfU20cTWg",
+    "channel_id": "UCxhgTNB0eD0xUeeJnP9Ow4g",
     "enabled": true,
-    "note": "Druck 内容偶发出现在其官方频道，handle 待首跑验证",
+    "note": "官方频道，5.69K 订阅，描述含官方 NASDAQ: BKR 表述，2026-07 仍在更新（2026-10-29 runner 验证）；原 @BakerHughes handle 落在 0 视频空频道，已弃用",
     "channel_id_resolved_at": "2026-10-29T09:02:23.159025+00:00",
     "last_video_published": null
   },

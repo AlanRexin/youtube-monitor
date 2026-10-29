@@ -13,11 +13,10 @@ BASE = Path(__file__).resolve().parent
 OUT = BASE / "data" / "verify.json"
 
 CANDIDATES = {
-    "UCxhgTNB0eD0xUeeJnP9Ow4g": "Baker Hughes 候选1(搜索)",
-    "UCeBllYra4jc_BeiSx_mUjXg": "Baker Hughes 候选2(搜索)",
-    "UCN8zxcBlLbRT4U2GpikUGZg": "WIKA USA 候选1(搜索)",
-    "UCG9ATeOWNLhZ9yG3AWHKyXw": "Wika USA 候选2(搜索)",
-    "UCXEmS3f1nSRqbqpZeU_tlgw": "WIKA Instrument LP(@grupowika/@wikagroup 落点)",
+    "UCRSJ_cRVj4XvHERiHdkIXoA": "Omega Engineering Inc.(搜索)",
+    "UC9bRLkDgDpxM9JdluFlW3Eg": "DwyerOmega(搜索，OMEGA 已并入)",
+    "UCeDLFe-m9BFua9h7mVUmj8Q": "Omega Engineering Development(搜索)",
+    "UCwY6FJ_pUKasM-5tFOtCmjw": "Testo USA(搜索)",
 }
 
 
