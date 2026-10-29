@@ -1,8 +1,12 @@
 # YouTube 同行频道监控（GitHub Actions 版）
 
-监控 14 个活跃海外同行 YouTube 频道（Fluke / Fluke Calibration / Fluke Europe / Fluke Process Instruments / BeamexCalibration / WIKA Group / WIKA USA / Mensor / AMETEK STC (JOFRA) / AMETEK Inc. / Additel / Testo / Baker Hughes（覆盖 Druck）/ OMEGA Engineering），每天北京时间 08:00 由 GitHub Actions 境外 runner 自动采集，结果写回仓库 `data/latest.json`，并（可选）推送飞书群机器人。
+监控 15 个活跃海外同行 YouTube 频道（Fluke / Fluke Calibration / Fluke Europe / Fluke Process Instruments / BeamexCalibration / WIKA Group / WIKA USA / Mensor / AMETEK STC (JOFRA) / AMETEK Inc. / Additel / Testo / Testo USA / Baker Hughes（覆盖 Druck）/ DwyerOmega（OMEGA Engineering 已并入）），每天北京时间 08:00 由 GitHub Actions 境外 runner 自动采集，结果写回仓库 `data/latest.json`，并（可选）推送飞书群机器人。
 
-频道甄别说明：Beamex / WIKA 主频道 / AMETEK STC 的频道 ID 均经 2026-10-29 runner 实地验证（官方描述 + 订阅数 + 近期视频）；Druck 确认无独立官方频道，已停用该条目，其内容经 Baker Hughes 频道覆盖。
+频道甄别说明（2026-10-29 runner 实地验证，判据 = 官方描述 + 订阅数 + 近期视频）：
+- Beamex / WIKA Group / AMETEK STC / Baker Hughes / Testo / Testo USA / DwyerOmega 均已写死 `channel_id`
+- OMEGA Engineering 已并入 DwyerOmega，官方继任频道为 `UC9bRLkDgDpxM9JdluFlW3Eg`（22K 订阅）
+- WIKA USA 真实官方号是 WIKA Instrument, LP（`UCXEmS3f1nSRqbqpZeU_tlgw`），2018 年后停更；搜索到的 "@WIKAUSA" 是个人娱乐号，已弃用
+- Druck 确认无独立官方频道，已停用该条目，其内容经 Baker Hughes 频道覆盖
 
 ## 为什么这么绕
 

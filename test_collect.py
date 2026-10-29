@@ -97,9 +97,11 @@ items = [{"brand": "Fluke Calibration 福禄克校准", "title": "New 8270A vide
 txt = collect.build_feishu_text(items)
 check("推送文本含品牌/标题/链接", "Fluke Calibration" in txt and "New 8270A video" in txt and "https://www.youtube.com/watch?v=x" in txt)
 
-# 6. channels.json 合法且 15 个频道
+# 6. channels.json 合法且 16 条目（15 启用 + 1 停用）
 chs = json.loads((Path(__file__).parent / "channels.json").read_text(encoding="utf-8"))
-check("channels.json 共 15 个频道", len(chs) == 15, str(len(chs)))
+check("channels.json 共 16 个条目", len(chs) == 16, str(len(chs)))
+check("启用频道 15 个", sum(1 for c in chs if c.get("enabled", True)) == 15,
+      str(sum(1 for c in chs if c.get("enabled", True))))
 check("启用频道有品牌和定位键", all(
     c.get("brand") and (c.get("handle") or c.get("user") or c.get("channel_id"))
     for c in chs if c.get("enabled", True)))
