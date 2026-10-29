@@ -150,12 +150,23 @@
   },
   {
     "brand": "OMEGA Engineering（Fluke 旗下）",
-    "channel_name": "OMEGA Engineering",
-    "handle": "omegaengineering",
+    "channel_name": "DwyerOmega（OMEGA）",
+    "handle": null,
     "user": null,
-    "channel_id": "UC4pXCeP1N_5K65jAUwEdLGw",
+    "channel_id": "UC9bRLkDgDpxM9JdluFlW3Eg",
     "enabled": true,
-    "note": "过程测量/数据采集，handle 待首跑验证",
+    "note": "OMEGA Engineering 已并入 DwyerOmega（2023 合并），此为官方继任频道，22K 订阅，2026-10 仍更新（2026-10-29 runner 验证）；原 @omegaengineering handle 落在 0 视频空频道，已弃用",
+    "channel_id_resolved_at": "2026-10-29T09:02:23.159025+00:00",
+    "last_video_published": null
+  },
+  {
+    "brand": "Testo 德图",
+    "channel_name": "Testo USA",
+    "handle": null,
+    "user": null,
+    "channel_id": "UCwY6FJ_pUKasM-5tFOtCmjw",
+    "enabled": true,
+    "note": "Testo 美国官方频道，5.78K 订阅，官方描述含 Testo 全球测试测量定位，2026-10 仍在更新（2026-10-29 runner 验证）；与 Testo UK 并行监控以覆盖美国市场",
     "channel_id_resolved_at": "2026-10-29T09:02:23.159025+00:00",
     "last_video_published": null
   }
