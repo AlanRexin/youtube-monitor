@@ -1,0 +1,137 @@
+[
+  {
+    "brand": "Fluke 福禄克",
+    "channel_name": "Fluke",
+    "handle": null,
+    "user": "flukecorporation",
+    "channel_id": null,
+    "enabled": true,
+    "note": "官方渠道页给的是 user/flukecorporation（fluke.com 经销商页核实）"
+  },
+  {
+    "brand": "Fluke 福禄克",
+    "channel_name": "Fluke Europe",
+    "handle": null,
+    "user": "FlukeEurope",
+    "channel_id": null,
+    "enabled": true,
+    "note": "Fluke 欧洲频道（Fluke 官方目录页核实）"
+  },
+  {
+    "brand": "Fluke Calibration 福禄克校准",
+    "channel_name": "Fluke Calibration",
+    "handle": "FlukeCalibration",
+    "user": null,
+    "channel_id": null,
+    "enabled": true,
+    "note": "handle 待首跑验证"
+  },
+  {
+    "brand": "Fluke Process Instruments 福禄克过程仪器",
+    "channel_name": "Fluke Process Instruments",
+    "handle": "FlukeProcessInstruments",
+    "user": null,
+    "channel_id": null,
+    "enabled": true,
+    "note": "handle 待首跑验证"
+  },
+  {
+    "brand": "Beamex 贝美克斯",
+    "channel_name": "Beamex",
+    "handle": "Beamex",
+    "user": null,
+    "channel_id": null,
+    "enabled": true,
+    "note": "handle 待首跑验证"
+  },
+  {
+    "brand": "WIKA 威卡",
+    "channel_name": "WIKA Group",
+    "handle": "grupowika",
+    "user": "WIKAGroup",
+    "channel_id": null,
+    "enabled": true,
+    "note": "WIKA 官方社媒页标注 @grupowika（2026 巴西社媒报告核实）"
+  },
+  {
+    "brand": "WIKA 威卡",
+    "channel_name": "WIKA USA",
+    "handle": "WIKAUSA",
+    "user": null,
+    "channel_id": null,
+    "enabled": true,
+    "note": "handle 待首跑验证"
+  },
+  {
+    "brand": "Mensor（WIKA 校准品牌）",
+    "channel_name": "Mensor",
+    "handle": "Mensor",
+    "user": null,
+    "channel_id": null,
+    "enabled": true,
+    "note": "精密压力校准，handle 待首跑验证"
+  },
+  {
+    "brand": "AMETEK 阿美特克",
+    "channel_name": "AMETEK Calibration (JOFRA)",
+    "handle": "AMETEKCalibration",
+    "user": null,
+    "channel_id": null,
+    "enabled": true,
+    "note": "JOFRA 校准主频道，handle 待首跑验证"
+  },
+  {
+    "brand": "AMETEK 阿美特克",
+    "channel_name": "AMETEK, Inc.",
+    "handle": "AMETEKInc",
+    "user": null,
+    "channel_id": null,
+    "enabled": true,
+    "note": "集团主频道，handle 待首跑验证"
+  },
+  {
+    "brand": "Additel",
+    "channel_name": "Additel",
+    "handle": "Additel",
+    "user": null,
+    "channel_id": null,
+    "enabled": true,
+    "note": "handle 待首跑验证"
+  },
+  {
+    "brand": "Testo 德图",
+    "channel_name": "Testo",
+    "handle": "testoSE",
+    "user": null,
+    "channel_id": null,
+    "enabled": true,
+    "note": "testo 官方频道，handle 待首跑验证（注意别配到同名小号）"
+  },
+  {
+    "brand": "Druck 德鲁克",
+    "channel_name": "Druck",
+    "handle": "druck",
+    "user": null,
+    "channel_id": null,
+    "enabled": true,
+    "note": "Druck 可能无独立频道（官方视频多挂在 Baker Hughes 频道），首跑验证，失败则替换为 Baker Hughes"
+  },
+  {
+    "brand": "Baker Hughes（Druck 母公司）",
+    "channel_name": "Baker Hughes",
+    "handle": "BakerHughes",
+    "user": null,
+    "channel_id": null,
+    "enabled": true,
+    "note": "Druck 内容偶发出现在其官方频道，handle 待首跑验证"
+  },
+  {
+    "brand": "OMEGA Engineering（Fluke 旗下）",
+    "channel_name": "OMEGA Engineering",
+    "handle": "omegaengineering",
+    "user": null,
+    "channel_id": null,
+    "enabled": true,
+    "note": "过程测量/数据采集，handle 待首跑验证"
+  }
+]
