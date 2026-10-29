@@ -1,105 +1,84 @@
 {
-  "UCxhgTNB0eD0xUeeJnP9Ow4g": {
-    "label": "Baker Hughes 候选1(搜索)",
-    "og_title": "Baker Hughes",
-    "description": "Baker Hughes (NASDAQ: BKR) is an energy technology company that provides solutions to energy and industrial customers worldwide. Built on a century of experience and conducting business in over 120 co",
-    "subscribers": "5.69K",
+  "UCRSJ_cRVj4XvHERiHdkIXoA": {
+    "label": "Omega Engineering Inc.(搜索)",
+    "og_title": "Omega Engineering Inc.",
+    "description": null,
+    "subscribers": "6",
     "feed_title_recent": [
       {
-        "title": "Production Optimization with Leucipa™ automated field production solution",
-        "published": "2026-07-28T15:15:08+00:00"
+        "title": "OWAC SOSTENIBEL",
+        "published": "2019-11-10T09:25:56+00:00"
       },
       {
-        "title": "Subsea electrification",
-        "published": "2026-06-09T18:14:53+00:00"
+        "title": "OWAC Systems ES",
+        "published": "2019-01-16T12:06:43+00:00"
       },
       {
-        "title": "Baker Hughes geothermal solutions",
-        "published": "2026-06-02T21:02:17+00:00"
+        "title": "OWAC Systems",
+        "published": "2018-07-08T17:24:33+00:00"
+      }
+    ],
+    "video_count_in_feed": 6
+  },
+  "UC9bRLkDgDpxM9JdluFlW3Eg": {
+    "label": "DwyerOmega(搜索，OMEGA 已并入)",
+    "og_title": "DwyerOmega",
+    "description": "Empowering the engineering community with inspiring and creative content.\n\nDwyerOmega is a manufacturer and global provider of precision measurement solutions that improve efficiency, safety, and sust",
+    "subscribers": "22K",
+    "feed_title_recent": [
+      {
+        "title": "SF82 Dew-Point Sensor - How to Replace The Sensor Guard",
+        "published": "2026-10-13T14:57:09+00:00"
+      },
+      {
+        "title": "DwyerOmega wishes everyone a safe and productive Manufacturing Month.",
+        "published": "2026-10-06T14:51:35+00:00"
+      },
+      {
+        "title": "DwyerOmega wishes everyone a safe and productive Manufacturing Month.",
+        "published": "2026-10-06T14:16:15+00:00"
       }
     ],
     "video_count_in_feed": 15
   },
-  "UCeBllYra4jc_BeiSx_mUjXg": {
-    "label": "Baker Hughes 候选2(搜索)",
-    "og_title": "Baker Hughes",
+  "UCeDLFe-m9BFua9h7mVUmj8Q": {
+    "label": "Omega Engineering Development(搜索)",
+    "og_title": "Omega Engineering Development",
     "description": null,
-    "subscribers": "3",
+    "subscribers": "30",
     "feed_title_recent": [
       {
-        "title": "VID 20171208 WA001",
-        "published": "2017-12-11T21:24:53+00:00"
+        "title": "Omega Engineering Development Perkins",
+        "published": "2025-02-05T16:02:20+00:00"
       },
       {
-        "title": "Baker Hughes, a GE Company is fraud!",
-        "published": "2017-10-27T20:09:59+00:00"
+        "title": "omega Engineering Development Land Rover",
+        "published": "2024-12-14T15:13:07+00:00"
       },
       {
-        "title": "Martin CraigHead & Baker Hughes Wickedness to Nigerians Feb 10_0",
-        "published": "2017-03-29T09:12:32+00:00"
+        "title": "omega Engineering Development Land Rover",
+        "published": "2024-12-14T15:08:47+00:00"
       }
     ],
-    "video_count_in_feed": 10
+    "video_count_in_feed": 15
   },
-  "UCN8zxcBlLbRT4U2GpikUGZg": {
-    "label": "WIKA USA 候选1(搜索)",
-    "og_title": "Wika USA",
-    "description": "Welcome to our channel – your daily dose of laughter and entertainment! 🎉\n\nHere, you’ll find the funniest videos, crazy moments, relatable comedy, and trending entertainment content that will keep you",
-    "subscribers": null,
+  "UCwY6FJ_pUKasM-5tFOtCmjw": {
+    "label": "Testo USA(搜索)",
+    "og_title": "Testo USA",
+    "description": "Testo is a worldwide development and manufacturing company of test and measurement equipment, serving industrial, commercial, and residential requirements. Testo also provides solutions for thermal im",
+    "subscribers": "5.78K",
     "feed_title_recent": [
       {
-        "title": "#shorts #trending #park #walkwithdregon",
-        "published": "2026-08-17T09:36:59+00:00"
+        "title": "The Next Generation of HVAC Tools Is Here | Combustion, Leak Detection & Smart C",
+        "published": "2026-10-28T17:02:57+00:00"
       },
       {
-        "title": "0 gravity in kitchen || this is the future life",
-        "published": "2026-08-17T06:29:32+00:00"
+        "title": "Freeze the Version, Strengthen the Strategy: Cloud Monitoring, Validation and Da",
+        "published": "2026-10-01T15:17:05+00:00"
       },
       {
-        "title": "⚠️ Don’t Watch This Alone… 😨 | 1 Minute Horror Story That Will Haunt You",
-        "published": "2026-04-27T09:01:35+00:00"
-      }
-    ],
-    "video_count_in_feed": 4
-  },
-  "UCG9ATeOWNLhZ9yG3AWHKyXw": {
-    "label": "Wika USA 候选2(搜索)",
-    "og_title": "Wika USA",
-    "description": null,
-    "subscribers": null,
-    "feed_title_recent": [
-      {
-        "title": "Ford Edge Sport 2015",
-        "published": "2019-05-18T06:57:54+00:00"
-      },
-      {
-        "title": "Nissan 370Z",
-        "published": "2019-04-15T21:18:37+00:00"
-      },
-      {
-        "title": "Prius Prime (PlugIn) 2018",
-        "published": "2019-03-21T17:33:58+00:00"
-      }
-    ],
-    "video_count_in_feed": 11
-  },
-  "UCXEmS3f1nSRqbqpZeU_tlgw": {
-    "label": "WIKA Instrument LP(@grupowika/@wikagroup 落点)",
-    "og_title": "WIKA Instrument, LP",
-    "description": "With almost 70 years of experience, WIKA Instrument, LP is the leading global manufacturer of pressure and temperature measurement instrumentation, producing more than 43 million pressure gauges, diap",
-    "subscribers": "2.33K",
-    "feed_title_recent": [
-      {
-        "title": "WIKA Sanitary Level Demonstration, Interphex 2018",
-        "published": "2018-05-23T16:11:57+00:00"
-      },
-      {
-        "title": "WIKA USA Temperature Operations - Capabilities and Expertise",
-        "published": "2018-04-13T17:58:29+00:00"
-      },
-      {
-        "title": "Choosing Pressure Sensors for Construction Equipment",
-        "published": "2017-09-05T15:47:55+00:00"
+        "title": "How to Pair Your Testo Multifunction Handle | Step-by-Step Guide",
+        "published": "2026-08-27T20:36:30+00:00"
       }
     ],
     "video_count_in_feed": 15
