@@ -37,21 +37,21 @@
   },
   {
     "brand": "Beamex 贝美克斯",
-    "channel_name": "Beamex",
-    "handle": "Beamex",
+    "channel_name": "BeamexCalibration",
+    "handle": null,
     "user": null,
-    "channel_id": null,
+    "channel_id": "UCwQKBOxKye-nDL_dycFjq-Q",
     "enabled": true,
-    "note": "handle 待首跑验证"
+    "note": "官方校准频道，13.2K 订阅（2026-10-29 runner 验证：官方描述 + 近期视频活跃）"
   },
   {
     "brand": "WIKA 威卡",
     "channel_name": "WIKA Group",
-    "handle": "grupowika",
-    "user": "WIKAGroup",
-    "channel_id": null,
+    "handle": null,
+    "user": null,
+    "channel_id": "UCzm89EssQbaLCtxS1oXNwpA",
     "enabled": true,
-    "note": "WIKA 官方社媒页标注 @grupowika（2026 巴西社媒报告核实）"
+    "note": "官方集团主频道，活跃（2026-10-29 runner 验证；注意 @grupowika/@wikagroup 实际落在停更的 WIKA Instrument LP）"
   },
   {
     "brand": "WIKA 威卡",
@@ -73,12 +73,12 @@
   },
   {
     "brand": "AMETEK 阿美特克",
-    "channel_name": "AMETEK Calibration (JOFRA)",
-    "handle": "AMETEKCalibration",
+    "channel_name": "AMETEK STC",
+    "handle": null,
     "user": null,
-    "channel_id": null,
+    "channel_id": "UCtSsF3FPbpTLyp_8OSPYaRA",
     "enabled": true,
-    "note": "JOFRA 校准主频道，handle 待首跑验证"
+    "note": "AMETEK Sensors/Test/Calibration 事业部官方频道（JOFRA 校准线归属），1.83K 订阅（2026-10-29 runner 验证）"
   },
   {
     "brand": "AMETEK 阿美特克",
@@ -110,11 +110,11 @@
   {
     "brand": "Druck 德鲁克",
     "channel_name": "Druck",
-    "handle": "druck",
+    "handle": null,
     "user": null,
     "channel_id": null,
-    "enabled": true,
-    "note": "Druck 可能无独立频道（官方视频多挂在 Baker Hughes 频道），首跑验证，失败则替换为 Baker Hughes"
+    "enabled": false,
+    "note": "已停用：Druck 无独立官方 YouTube 频道（2026-10-29 runner 全面探测确认），相关内容由 Baker Hughes 频道覆盖"
   },
   {
     "brand": "Baker Hughes（Druck 母公司）",

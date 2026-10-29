@@ -252,6 +252,9 @@ def main():
     for v in new_videos:
         v.pop("published_dt", None)
 
+    # 回写解析出的 channel_id，下次运行不再重复解析
+    save_json(CHANNELS_FILE, channels)
+
     # 推飞书（无新视频或未配置 webhook 都跳过，不算错误）
     webhook = os.environ.get("FEISHU_WEBHOOK_URL", "").strip()
     secret = os.environ.get("FEISHU_WEBHOOK_SECRET", "").strip()

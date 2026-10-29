@@ -1,6 +1,8 @@
 # YouTube 同行频道监控（GitHub Actions 版）
 
-监控 15 个海外同行 YouTube 频道（Fluke / Fluke Calibration / Fluke Europe / Fluke Process Instruments / Beamex / WIKA / WIKA USA / Mensor / AMETEK Calibration (JOFRA) / AMETEK / Additel / Testo / Druck / Baker Hughes / OMEGA），每天北京时间 08:00 由 GitHub Actions 境外 runner 自动采集，结果写回仓库 `data/latest.json`，并（可选）推送飞书群机器人。
+监控 14 个活跃海外同行 YouTube 频道（Fluke / Fluke Calibration / Fluke Europe / Fluke Process Instruments / BeamexCalibration / WIKA Group / WIKA USA / Mensor / AMETEK STC (JOFRA) / AMETEK Inc. / Additel / Testo / Baker Hughes（覆盖 Druck）/ OMEGA Engineering），每天北京时间 08:00 由 GitHub Actions 境外 runner 自动采集，结果写回仓库 `data/latest.json`，并（可选）推送飞书群机器人。
+
+频道甄别说明：Beamex / WIKA 主频道 / AMETEK STC 的频道 ID 均经 2026-10-29 runner 实地验证（官方描述 + 订阅数 + 近期视频）；Druck 确认无独立官方频道，已停用该条目，其内容经 Baker Hughes 频道覆盖。
 
 ## 为什么这么绕
 
