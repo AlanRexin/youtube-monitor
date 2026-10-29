@@ -1,0 +1,286 @@
+{
+  "probes": [
+    {
+      "brand": "Beamex",
+      "handle": "Beamex",
+      "exists": false,
+      "error": "HTTPError: HTTP Error 404: Not Found"
+    },
+    {
+      "brand": "Beamex",
+      "handle": "BeamexOy",
+      "exists": false,
+      "error": "HTTPError: HTTP Error 404: Not Found"
+    },
+    {
+      "brand": "Beamex",
+      "handle": "Beamexfi",
+      "exists": false,
+      "error": "HTTPError: HTTP Error 404: Not Found"
+    },
+    {
+      "brand": "Beamex",
+      "handle": "beamex",
+      "exists": false,
+      "error": "HTTPError: HTTP Error 404: Not Found"
+    },
+    {
+      "brand": "WIKA",
+      "handle": "wikagroup",
+      "channel_id": "UCXEmS3f1nSRqbqpZeU_tlgw",
+      "page_title": "WIKA Group",
+      "exists": true
+    },
+    {
+      "brand": "WIKA",
+      "handle": "WIKAGroup",
+      "channel_id": "UCXEmS3f1nSRqbqpZeU_tlgw",
+      "page_title": "WIKA Group",
+      "exists": true
+    },
+    {
+      "brand": "WIKA",
+      "handle": "WIKAGlobal",
+      "exists": false,
+      "error": "HTTPError: HTTP Error 404: Not Found"
+    },
+    {
+      "brand": "WIKA",
+      "handle": "wika",
+      "channel_id": "UCB1rs4dAM_VbTyvp0WAxROg",
+      "page_title": "wika",
+      "exists": true
+    },
+    {
+      "brand": "WIKA",
+      "handle": "WIKAGermany",
+      "exists": false,
+      "error": "HTTPError: HTTP Error 404: Not Found"
+    },
+    {
+      "brand": "AMETEK Calibration (JOFRA)",
+      "handle": "AMETEKCalibration",
+      "exists": false,
+      "error": "HTTPError: HTTP Error 404: Not Found"
+    },
+    {
+      "brand": "AMETEK Calibration (JOFRA)",
+      "handle": "JOFRAcalibration",
+      "exists": false,
+      "error": "HTTPError: HTTP Error 404: Not Found"
+    },
+    {
+      "brand": "AMETEK Calibration (JOFRA)",
+      "handle": "JOFRA",
+      "exists": false,
+      "error": "HTTPError: HTTP Error 404: Not Found"
+    },
+    {
+      "brand": "AMETEK Calibration (JOFRA)",
+      "handle": "ametekcalibration",
+      "exists": false,
+      "error": "HTTPError: HTTP Error 404: Not Found"
+    },
+    {
+      "brand": "AMETEK Calibration (JOFRA)",
+      "user": "ametek",
+      "exists": true,
+      "page_title": "ametek"
+    },
+    {
+      "brand": "Druck",
+      "handle": "druck",
+      "exists": false,
+      "error": "HTTPError: HTTP Error 404: Not Found"
+    },
+    {
+      "brand": "Druck",
+      "handle": "DruckLtd",
+      "exists": false,
+      "error": "HTTPError: HTTP Error 404: Not Found"
+    },
+    {
+      "brand": "Druck",
+      "handle": "GEDruck",
+      "channel_id": "UCRFTKNWT8EdWK0MK2LvMJyQ",
+      "page_title": "Gedruck",
+      "exists": true
+    },
+    {
+      "brand": "Druck",
+      "handle": "drucksensors",
+      "exists": false,
+      "error": "HTTPError: HTTP Error 404: Not Found"
+    }
+  ],
+  "search": {
+    "beamex": [
+      {
+        "channel_id": "UCwQKBOxKye-nDL_dycFjq-Q",
+        "title": "BeamexCalibration"
+      },
+      {
+        "channel_id": "UCk4Jj1uF4O3i_6nLABZaGpQ",
+        "title": "Beamax"
+      },
+      {
+        "channel_id": "UCocvmlSve8DapqNNYe0BybA",
+        "title": "Beamex"
+      },
+      {
+        "channel_id": "UCytLplJzRQ8H5h14EAnPlOQ",
+        "title": "Beamex"
+      },
+      {
+        "channel_id": "UCSzcWhRotGmRImxnn6L7IPw",
+        "title": "Beamex"
+      },
+      {
+        "channel_id": "UC1yHU1R2o3NTc6PGP3mXaHA",
+        "title": "BEAMEX 71"
+      },
+      {
+        "channel_id": "UCFK7VVl9kN7rdbETYQnmH_Q",
+        "title": "Beamex"
+      },
+      {
+        "channel_id": "UCAHWLr2mTEa1HgcmcwGqwBQ",
+        "title": "beamex_studio"
+      },
+      {
+        "channel_id": "UCBkrWFQmbODIUjIivOpYlIg",
+        "title": "UNKNOWN-BEMAXS"
+      },
+      {
+        "channel_id": "UC520DOKM8fPqAKRN9sHsOWQ",
+        "title": "Thiết bị hiệu chuẩn- BEAMEX"
+      },
+      {
+        "channel_id": "UCVTmCKtLKYVZDZeHUkHUKKg",
+        "title": "BEAMEX"
+      },
+      {
+        "channel_id": "UCo6FhYhivzFXsFGAk81mjJg",
+        "title": "Beamex"
+      },
+      {
+        "channel_id": "UCqV2RXeZuec6sk8kSGmJVEA",
+        "title": "Os Beamex Bmx"
+      },
+      {
+        "channel_id": "UCCYgm6PD_mKcCxqjQzNTdWA",
+        "title": "Bea Mex"
+      },
+      {
+        "channel_id": "UCkJE8dVQql6gFp2KuvlJOMw",
+        "title": "TNT Calibration Solutions"
+      }
+    ],
+    "wika": [
+      {
+        "channel_id": "UCzm89EssQbaLCtxS1oXNwpA",
+        "title": "WIKA Group"
+      },
+      {
+        "channel_id": "UCZIx3SGEKANEdLpKxCTH21A",
+        "title": "Wika TV"
+      },
+      {
+        "channel_id": "UCPhDeG_VR4gf0av8x-DGMRA",
+        "title": "Wika WIKAF Mojzyk"
+      },
+      {
+        "channel_id": "UCh76hgFbbxQltu-K6qNjKjQ",
+        "title": "Wika"
+      },
+      {
+        "channel_id": "UCx2v_74lGD-5dDQpVAe25JA",
+        "title": "Wika 2.0"
+      },
+      {
+        "channel_id": "UC9BgQLSEH7ng2Il7Clw6OCw",
+        "title": "wika_mp3"
+      },
+      {
+        "channel_id": "UC75rw6sNo6duBTH_O-808PQ",
+        "title": "Wika Toriia"
+      },
+      {
+        "channel_id": "UCVnK3Xrb0Sfj0pcM6O9PV-g",
+        "title": "WIKA PROJECTS"
+      },
+      {
+        "channel_id": "UCXEmS3f1nSRqbqpZeU_tlgw",
+        "title": "WIKA Instrument, LP"
+      },
+      {
+        "channel_id": "UCFk0WfOHC7sFvC5Nt7X1ELg",
+        "title": "WIKA Crochet"
+      },
+      {
+        "channel_id": "UCyCUu7acEH5DeAIcj56vmxg",
+        "title": "WIKA YOUTUBE"
+      },
+      {
+        "channel_id": "UCnNxWxJQ0_MNQklLqP8dfcA",
+        "title": "Kartonii"
+      },
+      {
+        "channel_id": "UCMTBIdRZVzX8ZjFHg07uYlg",
+        "title": "Wika | Wikapedia"
+      },
+      {
+        "channel_id": "UCYzbSXtGV84bf9DM78D_dsQ",
+        "title": "Wika - Topic"
+      },
+      {
+        "channel_id": "UCGgoeJaNAjmeITWVQYMrKMQ",
+        "title": "Lil Wika"
+      }
+    ],
+    "ametek jofra calibration": [
+      {
+        "channel_id": "UCtSsF3FPbpTLyp_8OSPYaRA",
+        "title": "AMETEKSTC"
+      },
+      {
+        "channel_id": "UCSmtJHUZaF-jzZII0arBBZQ",
+        "title": "AMETEK STC France"
+      },
+      {
+        "channel_id": "UC-8BtlO6Qo_kT1UV6sdTkNQ",
+        "title": "US Automation Lab"
+      },
+      {
+        "channel_id": "UC3y5oJuc5Oylh5vHV2IycOA",
+        "title": "Tangent Test Technologies"
+      },
+      {
+        "channel_id": "UCsfWyx3R1ZbaYdR_NMqjaog",
+        "title": "Royce Water Technologies"
+      },
+      {
+        "channel_id": "UCiyISnBDQYwWFhdt8fN1Gwg",
+        "title": "U-Lab TV"
+      }
+    ],
+    "druck baker hughes": [
+      {
+        "channel_id": "UCHKv6NnBZBCZSh23WgAs7xA",
+        "title": "RSV Baker Hughes Channel Partner"
+      },
+      {
+        "channel_id": "UCc85uZa3OiUI7saTNr0-phw",
+        "title": "PetroGas Libya"
+      },
+      {
+        "channel_id": "UCLUiHFlGu3BO6UEfKAak91g",
+        "title": "APTOMET AG"
+      },
+      {
+        "channel_id": "UCweGJlupLanxpoF1Om7WlUA",
+        "title": "Cuthbertson Laird"
+      }
+    ]
+  }
+}
