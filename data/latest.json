@@ -1,0 +1,58 @@
+{
+  "run_time": "2026-10-29T08:53:25.593417+00:00",
+  "run_time_sh": "2026-10-29 16:53",
+  "window_start": "2026-10-28T07:53:25.593417+00:00",
+  "window_start_sh": "2026-10-28 15:53",
+  "channels_enabled": 15,
+  "new_count": 2,
+  "videos": [
+    {
+      "video_id": "Uu2ukapWY0E",
+      "title": "Back from Near Space: Recovering the Fluke 87V MAX",
+      "url": "https://www.youtube.com/shorts/Uu2ukapWY0E",
+      "published": "2026-10-28T16:54:37+00:00",
+      "views": "955",
+      "published_sh": "2026-10-29 00:54",
+      "brand": "Fluke Calibration 福禄克校准",
+      "channel": "Fluke Calibration"
+    },
+    {
+      "video_id": "DUCsxpahifg",
+      "title": "Scantalks Episode 10: GKN Aerospace",
+      "url": "https://www.youtube.com/watch?v=DUCsxpahifg",
+      "published": "2026-10-28T15:57:05+00:00",
+      "views": "43",
+      "published_sh": "2026-10-28 23:57",
+      "brand": "AMETEK 阿美特克",
+      "channel": "AMETEK, Inc."
+    }
+  ],
+  "failures": [
+    {
+      "brand": "Beamex 贝美克斯",
+      "key": "Beamex",
+      "error": "HTTPError: HTTP Error 404: Not Found"
+    },
+    {
+      "brand": "WIKA 威卡",
+      "key": "grupowika",
+      "error": "HTTPError: HTTP Error 404: Not Found"
+    },
+    {
+      "brand": "AMETEK 阿美特克",
+      "key": "AMETEKCalibration",
+      "error": "HTTPError: HTTP Error 404: Not Found"
+    },
+    {
+      "brand": "Druck 德鲁克",
+      "key": "druck",
+      "error": "HTTPError: HTTP Error 404: Not Found"
+    }
+  ],
+  "webhook": {
+    "configured": false,
+    "posted": false,
+    "response": null,
+    "note": "未配置 FEISHU_WEBHOOK_URL，仅落盘"
+  }
+}
