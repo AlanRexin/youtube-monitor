@@ -17,14 +17,13 @@ BASE = Path(__file__).resolve().parent
 OUT = BASE / "data" / "discovery.json"
 
 CANDIDATES = {
-    "Beamex": ["Beamex", "BeamexOy", "Beamexfi", "beamex"],
-    "WIKA": ["wikagroup", "WIKAGroup", "WIKAGlobal", "wika", "WIKAGermany"],
-    "AMETEK Calibration (JOFRA)": ["AMETEKCalibration", "JOFRAcalibration",
-                                   "JOFRA", "ametekcalibration"],
-    "Druck": ["druck", "DruckLtd", "GEDruck", "drucksensors"],
+    "Testo": ["testo", "testoSE", "TestoSE", "testoSECoKGaA"],
+    "Baker Hughes": ["bakerhughes", "BakerHughesCompany", "bakerhughesco"],
+    "OMEGA": ["omegaengineering", "OMEGAEngineering", "omega_eng"],
+    "WIKA USA": ["WIKAUSA", "wikausa"],
 }
 
-SEARCH_QUERIES = ["beamex", "wika", "ametek jofra calibration", "druck baker hughes"]
+SEARCH_QUERIES = ["testo", "baker hughes", "omega engineering", "wika usa"]
 
 INITIAL_RE = re.compile(r"var ytInitialData\s*=\s*(\{.*?\});", re.S)
 UA = ("Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 "
@@ -75,6 +74,13 @@ def main():
                     entry.update(channel_id=m.group(1),
                                  page_title=tm.group(1) if tm else None,
                                  exists=True)
+                    try:
+                        vids = collect.fetch_feed_videos(m.group(1))
+                        entry.update(feed_count=len(vids),
+                                     feed_latest=(vids[0]["title"][:70] if vids else None),
+                                     feed_latest_pub=(vids[0]["published"][:10] if vids else None))
+                    except Exception as exc:
+                        entry["feed_error"] = "{}: {}".format(type(exc).__name__, exc)
                 else:
                     entry.update(exists=False, note="页面存在但无 channel_id")
             except Exception as exc:

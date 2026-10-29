@@ -100,8 +100,10 @@ check("推送文本含品牌/标题/链接", "Fluke Calibration" in txt and "New
 # 6. channels.json 合法且 15 个频道
 chs = json.loads((Path(__file__).parent / "channels.json").read_text(encoding="utf-8"))
 check("channels.json 共 15 个频道", len(chs) == 15, str(len(chs)))
-check("每个频道有品牌和定位键", all(
+check("启用频道有品牌和定位键", all(
     c.get("brand") and (c.get("handle") or c.get("user") or c.get("channel_id"))
-    for c in chs))
+    for c in chs if c.get("enabled", True)))
+check("停用条目必须显式标注原因", all(
+    c.get("note") for c in chs if not c.get("enabled", True)))
 
 print("\n{} 项全部通过".format(passed))
