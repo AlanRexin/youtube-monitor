@@ -17,10 +17,10 @@ BASE = Path(__file__).resolve().parent
 OUT = BASE / "data" / "discovery.json"
 
 CANDIDATES = {
-    "Testo": ["testo", "testoSE", "TestoSE", "testoSECoKGaA"],
-    "Baker Hughes": ["bakerhughes", "BakerHughesCompany", "bakerhughesco"],
-    "OMEGA": ["omegaengineering", "OMEGAEngineering", "omega_eng"],
-    "WIKA USA": ["WIKAUSA", "wikausa"],
+    "Testo": ["Testolimited", "testo"],
+    "OMEGA": ["omega", "OMEGAEngineeringinc", "omegaeng", "omegaengineeringvideos"],
+    "Baker Hughes": ["bakerhughes", "BakerHughesCompany"],
+    "WIKA USA": ["WIKAUSA", "wikainstrument", "WIKAGroupUSA"],
 }
 
 SEARCH_QUERIES = ["testo", "baker hughes", "omega engineering", "wika usa"]

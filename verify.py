@@ -13,14 +13,11 @@ BASE = Path(__file__).resolve().parent
 OUT = BASE / "data" / "verify.json"
 
 CANDIDATES = {
-    "UCwQKBOxKye-nDL_dycFjq-Q": "BeamexCalibration?",
-    "UCocvmlSve8DapqNNYe0BybA": "Beamex?",
-    "UCSzcWhRotGmRImxnn6L7IPw": "Beamex?",
-    "UCFK7VVl9kN7rdbETYQnmH_Q": "Beamex?",
-    "UCtSsF3FPbpTLyp_8OSPYaRA": "AMETEKSTC?",
-    "UCXEmS3f1nSRqbqpZeU_tlgw": "WIKA Group",
-    "UCRFTKNWT8EdWK0MK2LvMJyQ": "Gedruck?",
-    "UCzm89EssQbaLCtxS1oXNwpA": "WIKA Group(搜索)",
+    "UCxhgTNB0eD0xUeeJnP9Ow4g": "Baker Hughes 候选1(搜索)",
+    "UCeBllYra4jc_BeiSx_mUjXg": "Baker Hughes 候选2(搜索)",
+    "UCN8zxcBlLbRT4U2GpikUGZg": "WIKA USA 候选1(搜索)",
+    "UCG9ATeOWNLhZ9yG3AWHKyXw": "Wika USA 候选2(搜索)",
+    "UCXEmS3f1nSRqbqpZeU_tlgw": "WIKA Instrument LP(@grupowika/@wikagroup 落点)",
 }
 
 
