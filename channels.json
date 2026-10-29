@@ -4,36 +4,44 @@
     "channel_name": "Fluke",
     "handle": null,
     "user": "flukecorporation",
-    "channel_id": null,
+    "channel_id": "UCDJWIiQoSFIyU2wBTS7Vn6Q",
     "enabled": true,
-    "note": "官方渠道页给的是 user/flukecorporation（fluke.com 经销商页核实）"
+    "note": "官方渠道页给的是 user/flukecorporation（fluke.com 经销商页核实）",
+    "channel_id_resolved_at": "2026-10-29T09:02:23.159025+00:00",
+    "last_video_published": "2026-10-21T04:45:26+00:00"
   },
   {
     "brand": "Fluke 福禄克",
     "channel_name": "Fluke Europe",
     "handle": null,
     "user": "FlukeEurope",
-    "channel_id": null,
+    "channel_id": "UCynGTWqOzeTcEdrB4DUgWSQ",
     "enabled": true,
-    "note": "Fluke 欧洲频道（Fluke 官方目录页核实）"
+    "note": "Fluke 欧洲频道（Fluke 官方目录页核实）",
+    "channel_id_resolved_at": "2026-10-29T09:02:23.159025+00:00",
+    "last_video_published": "2025-06-05T14:50:52+00:00"
   },
   {
     "brand": "Fluke Calibration 福禄克校准",
     "channel_name": "Fluke Calibration",
     "handle": "FlukeCalibration",
     "user": null,
-    "channel_id": null,
+    "channel_id": "UCR7ecClA4Ul6SDWFySBBLlQ",
     "enabled": true,
-    "note": "handle 待首跑验证"
+    "note": "handle 待首跑验证",
+    "channel_id_resolved_at": "2026-10-29T09:02:23.159025+00:00",
+    "last_video_published": "2026-10-28T16:54:37+00:00"
   },
   {
     "brand": "Fluke Process Instruments 福禄克过程仪器",
     "channel_name": "Fluke Process Instruments",
     "handle": "FlukeProcessInstruments",
     "user": null,
-    "channel_id": null,
+    "channel_id": "UC6iU22xge7wl4bP04KJu9dQ",
     "enabled": true,
-    "note": "handle 待首跑验证"
+    "note": "handle 待首跑验证",
+    "channel_id_resolved_at": "2026-10-29T09:02:23.159025+00:00",
+    "last_video_published": "2024-04-23T16:51:47+00:00"
   },
   {
     "brand": "Beamex 贝美克斯",
@@ -42,7 +50,8 @@
     "user": null,
     "channel_id": "UCwQKBOxKye-nDL_dycFjq-Q",
     "enabled": true,
-    "note": "官方校准频道，13.2K 订阅（2026-10-29 runner 验证：官方描述 + 近期视频活跃）"
+    "note": "官方校准频道，13.2K 订阅（2026-10-29 runner 验证：官方描述 + 近期视频活跃）",
+    "last_video_published": "2026-08-31T07:09:53+00:00"
   },
   {
     "brand": "WIKA 威卡",
@@ -51,25 +60,30 @@
     "user": null,
     "channel_id": "UCzm89EssQbaLCtxS1oXNwpA",
     "enabled": true,
-    "note": "官方集团主频道，活跃（2026-10-29 runner 验证；注意 @grupowika/@wikagroup 实际落在停更的 WIKA Instrument LP）"
+    "note": "官方集团主频道，活跃（2026-10-29 runner 验证；注意 @grupowika/@wikagroup 实际落在停更的 WIKA Instrument LP）",
+    "last_video_published": "2026-10-28T16:15:23+00:00"
   },
   {
     "brand": "WIKA 威卡",
     "channel_name": "WIKA USA",
     "handle": "WIKAUSA",
     "user": null,
-    "channel_id": null,
+    "channel_id": "UCQ2i-nPdbYJKGoa7avh5jXg",
     "enabled": true,
-    "note": "handle 待首跑验证"
+    "note": "handle 待首跑验证",
+    "channel_id_resolved_at": "2026-10-29T09:02:23.159025+00:00",
+    "last_video_published": null
   },
   {
     "brand": "Mensor（WIKA 校准品牌）",
     "channel_name": "Mensor",
     "handle": "Mensor",
     "user": null,
-    "channel_id": null,
+    "channel_id": "UC97blA8S6lVir-gdFGX9r-Q",
     "enabled": true,
-    "note": "精密压力校准，handle 待首跑验证"
+    "note": "精密压力校准，handle 待首跑验证",
+    "channel_id_resolved_at": "2026-10-29T09:02:23.159025+00:00",
+    "last_video_published": "2026-03-24T02:05:29+00:00"
   },
   {
     "brand": "AMETEK 阿美特克",
@@ -78,34 +92,41 @@
     "user": null,
     "channel_id": "UCtSsF3FPbpTLyp_8OSPYaRA",
     "enabled": true,
-    "note": "AMETEK Sensors/Test/Calibration 事业部官方频道（JOFRA 校准线归属），1.83K 订阅（2026-10-29 runner 验证）"
+    "note": "AMETEK Sensors/Test/Calibration 事业部官方频道（JOFRA 校准线归属），1.83K 订阅（2026-10-29 runner 验证）",
+    "last_video_published": "2026-10-07T12:07:19+00:00"
   },
   {
     "brand": "AMETEK 阿美特克",
     "channel_name": "AMETEK, Inc.",
     "handle": "AMETEKInc",
     "user": null,
-    "channel_id": null,
+    "channel_id": "UCDTISRIDBLatulPDz9bQXpA",
     "enabled": true,
-    "note": "集团主频道，handle 待首跑验证"
+    "note": "集团主频道，handle 待首跑验证",
+    "channel_id_resolved_at": "2026-10-29T09:02:23.159025+00:00",
+    "last_video_published": "2026-10-28T15:57:05+00:00"
   },
   {
     "brand": "Additel",
     "channel_name": "Additel",
     "handle": "Additel",
     "user": null,
-    "channel_id": null,
+    "channel_id": "UC-M9rFDKpqzFv8JWKbu1TRA",
     "enabled": true,
-    "note": "handle 待首跑验证"
+    "note": "handle 待首跑验证",
+    "channel_id_resolved_at": "2026-10-29T09:02:23.159025+00:00",
+    "last_video_published": "2026-10-20T18:04:26+00:00"
   },
   {
     "brand": "Testo 德图",
     "channel_name": "Testo",
     "handle": "testoSE",
     "user": null,
-    "channel_id": null,
+    "channel_id": "UChH2PO3HeOWWAgbog24xucA",
     "enabled": true,
-    "note": "testo 官方频道，handle 待首跑验证（注意别配到同名小号）"
+    "note": "testo 官方频道，handle 待首跑验证（注意别配到同名小号）",
+    "channel_id_resolved_at": "2026-10-29T09:02:23.159025+00:00",
+    "last_video_published": null
   },
   {
     "brand": "Druck 德鲁克",
@@ -121,17 +142,21 @@
     "channel_name": "Baker Hughes",
     "handle": "BakerHughes",
     "user": null,
-    "channel_id": null,
+    "channel_id": "UChyCf0N7JW1CY9KfU20cTWg",
     "enabled": true,
-    "note": "Druck 内容偶发出现在其官方频道，handle 待首跑验证"
+    "note": "Druck 内容偶发出现在其官方频道，handle 待首跑验证",
+    "channel_id_resolved_at": "2026-10-29T09:02:23.159025+00:00",
+    "last_video_published": null
   },
   {
     "brand": "OMEGA Engineering（Fluke 旗下）",
     "channel_name": "OMEGA Engineering",
     "handle": "omegaengineering",
     "user": null,
-    "channel_id": null,
+    "channel_id": "UC4pXCeP1N_5K65jAUwEdLGw",
     "enabled": true,
-    "note": "过程测量/数据采集，handle 待首跑验证"
+    "note": "过程测量/数据采集，handle 待首跑验证",
+    "channel_id_resolved_at": "2026-10-29T09:02:23.159025+00:00",
+    "last_video_published": null
   }
 ]
