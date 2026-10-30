@@ -1,27 +1,92 @@
 {
-  "run_time": "2026-10-29T09:19:11.481155+00:00",
-  "run_time_sh": "2026-10-29 17:19",
-  "window_start": "2026-10-28T08:19:11.481155+00:00",
-  "window_start_sh": "2026-10-28 16:19",
+  "run_time": "2026-10-30T03:07:17.700502+00:00",
+  "run_time_sh": "2026-10-30 11:07",
+  "window_start": "2026-10-29T02:07:17.700502+00:00",
+  "window_start_sh": "2026-10-29 10:07",
   "channels_enabled": 15,
-  "new_count": 1,
-  "videos": [
+  "new_count": 0,
+  "videos": [],
+  "failures": [
     {
-      "video_id": "LoMdDY-JwNE",
-      "title": "The Next Generation of HVAC Tools Is Here | Combustion, Leak Detection & Smart Connectivity",
-      "url": "https://www.youtube.com/watch?v=LoMdDY-JwNE",
-      "published": "2026-10-28T17:02:57+00:00",
-      "views": "49",
-      "published_sh": "2026-10-29 01:02",
+      "brand": "Fluke 福禄克",
+      "key": "flukecorporation",
+      "error": "HTTPError: HTTP Error 404: Not Found"
+    },
+    {
+      "brand": "Fluke 福禄克",
+      "key": "FlukeEurope",
+      "error": "HTTPError: HTTP Error 404: Not Found"
+    },
+    {
+      "brand": "Fluke Calibration 福禄克校准",
+      "key": "FlukeCalibration",
+      "error": "HTTPError: HTTP Error 404: Not Found"
+    },
+    {
+      "brand": "Fluke Process Instruments 福禄克过程仪器",
+      "key": "FlukeProcessInstruments",
+      "error": "HTTPError: HTTP Error 404: Not Found"
+    },
+    {
+      "brand": "Beamex 贝美克斯",
+      "key": "UCwQKBOxKye-nDL_dycFjq-Q",
+      "error": "HTTPError: HTTP Error 404: Not Found"
+    },
+    {
+      "brand": "WIKA 威卡",
+      "key": "UCzm89EssQbaLCtxS1oXNwpA",
+      "error": "HTTPError: HTTP Error 500: Internal Server Error"
+    },
+    {
+      "brand": "WIKA 威卡",
+      "key": "UCXEmS3f1nSRqbqpZeU_tlgw",
+      "error": "HTTPError: HTTP Error 404: Not Found"
+    },
+    {
+      "brand": "Mensor（WIKA 校准品牌）",
+      "key": "Mensor",
+      "error": "HTTPError: HTTP Error 404: Not Found"
+    },
+    {
+      "brand": "AMETEK 阿美特克",
+      "key": "UCtSsF3FPbpTLyp_8OSPYaRA",
+      "error": "HTTPError: HTTP Error 404: Not Found"
+    },
+    {
+      "brand": "AMETEK 阿美特克",
+      "key": "AMETEKInc",
+      "error": "HTTPError: HTTP Error 404: Not Found"
+    },
+    {
+      "brand": "Additel",
+      "key": "Additel",
+      "error": "HTTPError: HTTP Error 404: Not Found"
+    },
+    {
       "brand": "Testo 德图",
-      "channel": "Testo USA"
+      "key": "Testolimited",
+      "error": "HTTPError: HTTP Error 404: Not Found"
+    },
+    {
+      "brand": "Baker Hughes（Druck 母公司）",
+      "key": "UCxhgTNB0eD0xUeeJnP9Ow4g",
+      "error": "HTTPError: HTTP Error 404: Not Found"
+    },
+    {
+      "brand": "OMEGA Engineering（Fluke 旗下）",
+      "key": "UC9bRLkDgDpxM9JdluFlW3Eg",
+      "error": "HTTPError: HTTP Error 404: Not Found"
+    },
+    {
+      "brand": "Testo 德图",
+      "key": "UCwY6FJ_pUKasM-5tFOtCmjw",
+      "error": "HTTPError: HTTP Error 404: Not Found"
     }
   ],
-  "failures": [],
   "webhook": {
     "configured": false,
     "posted": false,
     "response": null,
-    "note": "未配置 FEISHU_WEBHOOK_URL，仅落盘"
+    "note": "无新视频，未推送"
   }
 }
