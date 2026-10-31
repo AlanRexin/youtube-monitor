@@ -1,8 +1,8 @@
 {
-  "run_time": "2026-10-30T03:07:17.700502+00:00",
-  "run_time_sh": "2026-10-30 11:07",
-  "window_start": "2026-10-29T02:07:17.700502+00:00",
-  "window_start_sh": "2026-10-29 10:07",
+  "run_time": "2026-10-31T02:53:37.848265+00:00",
+  "run_time_sh": "2026-10-31 10:53",
+  "window_start": "2026-10-30T01:53:37.848265+00:00",
+  "window_start_sh": "2026-10-30 09:53",
   "channels_enabled": 15,
   "new_count": 0,
   "videos": [],
@@ -35,7 +35,7 @@
     {
       "brand": "WIKA 威卡",
       "key": "UCzm89EssQbaLCtxS1oXNwpA",
-      "error": "HTTPError: HTTP Error 500: Internal Server Error"
+      "error": "HTTPError: HTTP Error 404: Not Found"
     },
     {
       "brand": "WIKA 威卡",
