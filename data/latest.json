@@ -1,8 +1,8 @@
 {
-  "run_time": "2026-10-31T02:53:37.848265+00:00",
-  "run_time_sh": "2026-10-31 10:53",
-  "window_start": "2026-10-30T01:53:37.848265+00:00",
-  "window_start_sh": "2026-10-30 09:53",
+  "run_time": "2026-11-01T02:46:51.605458+00:00",
+  "run_time_sh": "2026-11-01 10:46",
+  "window_start": "2026-10-31T01:46:51.605458+00:00",
+  "window_start_sh": "2026-10-31 09:46",
   "channels_enabled": 15,
   "new_count": 0,
   "videos": [],
@@ -35,7 +35,7 @@
     {
       "brand": "WIKA 威卡",
       "key": "UCzm89EssQbaLCtxS1oXNwpA",
-      "error": "HTTPError: HTTP Error 404: Not Found"
+      "error": "HTTPError: HTTP Error 500: Internal Server Error"
     },
     {
       "brand": "WIKA 威卡",
@@ -75,7 +75,7 @@
     {
       "brand": "OMEGA Engineering（Fluke 旗下）",
       "key": "UC9bRLkDgDpxM9JdluFlW3Eg",
-      "error": "HTTPError: HTTP Error 404: Not Found"
+      "error": "HTTPError: HTTP Error 500: Internal Server Error"
     },
     {
       "brand": "Testo 德图",
