@@ -13,12 +13,15 @@
   同时以非 0 退出（工作流转红 → 仓库所有者收到失败通知），避免静默漏采；
 - 抓取阶段与本阶段分离，因此并发 runner 互不冲突。
 """
+import base64
 import json
 import os
 import re
 import subprocess
 import sys
 import time
+import urllib.error
+import urllib.request
 from datetime import datetime, timedelta, timezone
 from pathlib import Path
 
@@ -95,10 +98,21 @@ def git(*args):
                           text=True)
 
 
+# 需要回写仓库的文件（相对仓库根）
+PUBLISH_FILES = [
+    "data/latest.json",
+    "data/state.json",
+    "data/pending.json",
+    "data/last_ok.json",
+    "channels.json",
+]
+
+
 def commit_and_push(message):
     git("config", "user.name", "youtube-monitor-bot")
     git("config", "user.email", "actions@github.com")
-    git("add", "-A", "data", "channels.json")
+    existing = [f for f in PUBLISH_FILES if (BASE / f).exists()]
+    git("add", "-f", "--", *existing)
     if git("diff", "--cached", "--quiet").returncode == 0:
         return False
     r = git("commit", "-m", message)
@@ -111,6 +125,82 @@ def commit_and_push(message):
         time.sleep(3)
         git("pull", "--rebase", "origin", "main")
     raise RuntimeError("git push 失败: {}".format(r.stderr.strip()))
+
+
+def _gh_request(method, url, token, payload=None):
+    data = json.dumps(payload).encode("utf-8") if payload is not None else None
+    req = urllib.request.Request(url, data=data, method=method, headers={
+        "Authorization": "Bearer " + token,
+        "Accept": "application/vnd.github+json",
+        "Content-Type": "application/json",
+        "User-Agent": "youtube-monitor"})
+    try:
+        with urllib.request.urlopen(req, timeout=45) as r:
+            return r.status, json.loads(r.read().decode("utf-8"))
+    except urllib.error.HTTPError as e:
+        try:
+            return e.code, json.loads(e.read().decode("utf-8"))
+        except Exception:
+            return e.code, None
+    except Exception as e:
+        return 0, {"message": str(e)}
+
+
+def publish_via_api(message):
+    """git push 失败时的兜底：用 Contents API 逐个文件回写仓库。
+
+    使用 Actions 内置的 GITHUB_TOKEN（权限 contents: write），不依赖任何 PAT。
+    """
+    token = os.environ.get("GITHUB_TOKEN", "").strip()
+    repo = os.environ.get("GITHUB_REPOSITORY", "").strip()
+    if not token or not repo:
+        return False, "缺少 GITHUB_TOKEN / GITHUB_REPOSITORY，无法用 API 回写"
+    api = "https://api.github.com/repos/{}/contents/{}"
+    ok_list, errs = [], []
+    for rel in PUBLISH_FILES:
+        p = BASE / rel
+        if not p.exists():
+            continue
+        content = base64.b64encode(p.read_bytes()).decode("ascii")
+        payload = {"message": message, "content": content, "branch": "main"}
+        st, d = _gh_request("GET", api.format(repo, rel), token)
+        if st == 200 and isinstance(d, dict):
+            payload["sha"] = d.get("sha")
+        elif st != 404:
+            errs.append("{} 读取 sha 失败({})".format(rel, st))
+            continue
+        st, d = _gh_request("PUT", api.format(repo, rel), token, payload)
+        if st in (200, 201):
+            ok_list.append(rel)
+        else:
+            msg = (d or {}).get("message") if isinstance(d, dict) else str(d)
+            errs.append("{} 回写失败({})".format(rel, msg or st))
+    if not ok_list and errs:
+        return False, "; ".join(errs)
+    if errs:
+        return True, "部分回写成功，异常: {}（已成功: {}）".format(
+            "; ".join(errs), ", ".join(ok_list))
+    return True, "API 回写成功: " + ", ".join(ok_list)
+
+
+def publish(message):
+    """回写仓库：优先 git push，失败则用 Contents API 兜底。
+
+    返回 (是否成功, 过程说明)。任何一条路径失败都必须让调用方感知，
+    否则日报会一直读到旧数据而无人察觉。
+    """
+    try:
+        changed = commit_and_push(message)
+        if changed:
+            return True, "git push 成功"
+        return True, "无文件变更，无需回写"
+    except Exception as e:
+        print("git 提交失败: {}".format(e))
+    try:
+        ok, detail = publish_via_api(message)
+    except Exception as e:
+        ok, detail = False, "{}: {}".format(type(e).__name__, e)
+    return ok, "API 兜底: " + detail
 
 
 def main():
@@ -335,22 +425,23 @@ def main():
                                  "channels_ok": channels_ok})
     save_json(CHANNELS_FILE, channels)
 
-    try:
-        committed = commit_and_push(
-            "monitor: {} new, {} ok, {} failures ({})".format(
-                len(videos_out), channels_ok, len(failures), status))
-    except Exception as e:
-        print("git 提交失败: {}".format(e))
-        committed = False
+    published, publish_detail = publish(
+        "monitor: {} new, {} ok, {} failures ({})".format(
+            len(videos_out), channels_ok, len(failures), status))
 
     print(json.dumps({"status": status, "new": len(videos_out),
                       "fresh": len(new_videos), "carry": carry_count,
                       "channels_ok": channels_ok,
                       "failures": len(failures), "catchup": catchup,
-                      "committed": committed}, ensure_ascii=False))
+                      "published": published, "publish": publish_detail},
+                     ensure_ascii=False))
     if status == "failed":
         print("全部频道失败：工作流将以失败状态结束，便于及时发现")
         return 1
+    if not published:
+        print("结果回写仓库失败（{}）：工作流以失败状态结束，"
+              "避免日报继续读取旧数据".format(publish_detail))
+        return 3
     return 0
 
 
