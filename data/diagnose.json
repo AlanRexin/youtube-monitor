@@ -1,0 +1,86 @@
+{
+  "run_time": "2026-11-04T09:11:51.291700+00:00",
+  "results": [
+    {
+      "label": "runner_ip",
+      "value": "51.57.144.44"
+    },
+    {
+      "label": "yt_root",
+      "url": "https://www.youtube.com/",
+      "status": 200,
+      "final_url": "https://www.youtube.com/",
+      "len": 970832,
+      "snippet": "<!DOCTYPE html><html style=\"font-size: 62.5%;font-family: Roboto, Arial, sans-serif;\" lang=\"en\" darker-dark-theme darker-dark-theme-deprecate system-icons color-version=\"v2_0\" typography typography-spacing><head><script data-id=\"_gd\" nonce=\"B0eso0ExiWdWmfTtYxdL3g\">window.WIZ_global_data = {\"AfY8Hf\":"
+    },
+    {
+      "label": "handle_page",
+      "url": "https://www.youtube.com/@Beamex",
+      "status": 404,
+      "error": "HTTP Error 404: Not Found",
+      "snippet": "<html lang=\"en\" dir=\"ltr\"><head><title>404 Not Found</title><style nonce=\"YKmlMyuuLY5hKlkmAyNqSA\">*{margin:0;padding:0;border:0}html,body{height:100%;}</style><link rel=\"shortcut icon\" href=\"https://www.youtube.com/img/favicon.ico\" type=\"image/x-icon\"><link rel=\"icon\" href=\"https://www.youtube.com/i"
+    },
+    {
+      "label": "channel_page",
+      "url": "https://www.youtube.com/channel/UCwQKBOxKye-nDL_dycFjq-Q",
+      "status": 200,
+      "final_url": "https://www.youtube.com/channel/UCwQKBOxKye-nDL_dycFjq-Q",
+      "len": 2020175,
+      "snippet": "<!DOCTYPE html><html style=\"font-size: 62.5%;font-family: Roboto, Arial, sans-serif;\" lang=\"en\" darker-dark-theme darker-dark-theme-deprecate system-icons color-version=\"v2_0\" typography typography-spacing><head><script data-id=\"_gd\" nonce=\"VvDeoQK33mRklRrGc8CE_Q\">window.WIZ_global_data = {\"AfY8Hf\":"
+    },
+    {
+      "label": "rss_plain",
+      "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCwQKBOxKye-nDL_dycFjq-Q",
+      "status": 200,
+      "final_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCwQKBOxKye-nDL_dycFjq-Q",
+      "len": 23990,
+      "snippet": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<feed xmlns:yt=\"http://www.youtube.com/xml/schemas/2015\" xmlns:media=\"http://search.yahoo.com/mrss/\" xmlns=\"http://www.w3.org/2005/Atom\">\n <link rel=\"self\" href=\"http://www.youtube.com/feeds/videos.xml?channel_id=UCwQKBOxKye-nDL_dycFjq-Q\"/>\n <id>yt:channel:wQKB"
+    },
+    {
+      "label": "rss_consent_cookie",
+      "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCwQKBOxKye-nDL_dycFjq-Q",
+      "status": 200,
+      "final_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCwQKBOxKye-nDL_dycFjq-Q",
+      "len": 23990,
+      "snippet": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<feed xmlns:yt=\"http://www.youtube.com/xml/schemas/2015\" xmlns:media=\"http://search.yahoo.com/mrss/\" xmlns=\"http://www.w3.org/2005/Atom\">\n <link rel=\"self\" href=\"http://www.youtube.com/feeds/videos.xml?channel_id=UCwQKBOxKye-nDL_dycFjq-Q\"/>\n <id>yt:channel:wQKB"
+    },
+    {
+      "label": "rss_curl_ua",
+      "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCwQKBOxKye-nDL_dycFjq-Q",
+      "status": 200,
+      "final_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCwQKBOxKye-nDL_dycFjq-Q",
+      "len": 23990,
+      "snippet": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<feed xmlns:yt=\"http://www.youtube.com/xml/schemas/2015\" xmlns:media=\"http://search.yahoo.com/mrss/\" xmlns=\"http://www.w3.org/2005/Atom\">\n <link rel=\"self\" href=\"http://www.youtube.com/feeds/videos.xml?channel_id=UCwQKBOxKye-nDL_dycFjq-Q\"/>\n <id>yt:channel:wQKB"
+    },
+    {
+      "label": "rss_user_param",
+      "url": "https://www.youtube.com/feeds/videos.xml?user=Beamex",
+      "status": 404,
+      "error": "HTTP Error 404: Not Found",
+      "snippet": "<!DOCTYPE html>\n<html lang=en>\n  <meta charset=utf-8>\n  <meta name=viewport content=\"initial-scale=1, minimum-scale=1, width=device-width\">\n  <title>Error 404 (Not Found)!!1</title>\n  <style>\n    *{margin:0;padding:0}html,code{font:15px/22px arial,sans-serif}html{background:#fff;color:#222;padding:1"
+    },
+    {
+      "label": "innertube_web",
+      "url": "https://www.youtube.com/youtubei/v1/browse?key=AIzaSyAO_FJ2SlqU8Q4STEHLGCilw_Y9_11qcW8",
+      "status": 200,
+      "parsed": {
+        "tabs": [
+          "Home",
+          "Videos",
+          "Shorts",
+          "Playlists",
+          null
+        ],
+        "videoRenderer_count": 0,
+        "richItemRenderer_count": 0,
+        "channelTitle": "BeamexCalibration"
+      }
+    },
+    {
+      "label": "innertube_android",
+      "url": "https://www.youtube.com/youtubei/v1/browse?key=AIzaSyAO_FJ2SlqU8Q4STEHLGCilw_Y9_11qcW8",
+      "status": 400,
+      "snippet": "{\n  \"error\": {\n    \"code\": 400,\n    \"message\": \"Request contains an invalid argument.\",\n    \"errors\": [\n      {\n        \"message\": \"Request contains an invalid argument.\",\n        \"domain\": \"global\",\n        \"reason\": \"badRequest\"\n      }\n    ],\n    \"status\": \"INVALID_ARGUMENT\"\n  }\n}\n"
+    }
+  ]
+}
