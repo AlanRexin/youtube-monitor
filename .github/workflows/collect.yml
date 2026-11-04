@@ -65,3 +65,6 @@ jobs:
           CATCHUP_FROM: ${{ inputs.catchup_from }}
           FEISHU_WEBHOOK_URL: ${{ secrets.FEISHU_WEBHOOK_URL }}
           FEISHU_WEBHOOK_SECRET: ${{ secrets.FEISHU_WEBHOOK_SECRET }}
+          # 内置令牌：git push 失败时由 merge.py 用 Contents API 兜底回写
+          GITHUB_TOKEN: ${{ github.token }}
+          GITHUB_REPOSITORY: ${{ github.repository }}
