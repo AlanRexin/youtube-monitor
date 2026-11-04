@@ -1,0 +1,212 @@
+{
+  "candidates": {
+    "mensor_lp": {
+      "channel_id": "UCQe1k4TudcvW1MVoHDaVaxQ",
+      "http": 200,
+      "og_title": "Mensor LP",
+      "og_description": "Since 1969, Mensor has been designing and manufacturing precision pressure measuring and pressure calibration instruments and systems. From the very first quartz manometer for the aerospace industry to the modern CPC6050 Modular Pressure Calibrator today, Mensor - now a part of WIKA Calibration Line - specializes in providing quality pressure products and services to a wide variety of industries around the world.",
+      "subscribers": null,
+      "videos_count": null,
+      "canonical": "/@MensorLP",
+      "vanity": "http://www.youtube.com/@MensorLP",
+      "rss": {
+        "http": 200,
+        "videos": [
+          {
+            "video_id": "ER7BzoQydQU",
+            "title": "The Lowdown on Low Pressure",
+            "published": "2026-10-09T16:34:43+00:00"
+          },
+          {
+            "video_id": "3GfrSTOpfEc",
+            "title": "The Lowdown on Low Pressure",
+            "published": "2026-10-09T14:55:34+00:00"
+          },
+          {
+            "video_id": "9UVPu6nJ5Qc",
+            "title": "How to Zero a Reference Device Against Our Premium Barometer",
+            "published": "2026-09-03T14:40:15+00:00"
+          },
+          {
+            "video_id": "42ayt5suUhQ",
+            "title": "How to Zero a Reference Device Against Our Premium Barometer",
+            "published": "2026-08-31T18:24:27+00:00"
+          },
+          {
+            "video_id": "2Gan-RfyHbI",
+            "title": "The Ultimate Pressure Regulator Guide #calibration #pressure #regulators #metrology #shorts",
+            "published": "2026-07-22T13:40:37+00:00"
+          },
+          {
+            "video_id": "5knvpaOHrZ4",
+            "title": "Measure Matters: The Ultimate Pressure Regulator Guide",
+            "published": "2026-07-22T13:00:11+00:00"
+          }
+        ]
+      }
+    },
+    "fluke_es_retry": {
+      "channel_id": "UCynGTWqOzeTecEdrB4DUgWSQ",
+      "http": 404,
+      "rss": {
+        "http": 404
+      }
+    },
+    "joemensor_retry": {
+      "channel_id": "UC97blA8S6lVir-gdGFX9r-Q",
+      "http": 200,
+      "og_title": null,
+      "og_description": null,
+      "subscribers": null,
+      "videos_count": null,
+      "canonical": null,
+      "vanity": null,
+      "rss": {
+        "http": 404
+      }
+    },
+    "ametek_inc": {
+      "channel_id": "UCJ57iRcRhWjubFCZr64Fvxg",
+      "http": 200,
+      "og_title": "AMETEK, Inc.",
+      "og_description": "AMETEK, Inc. is a leading global manufacturer of electronic instruments and electromechanical devices. We have 21,000 colleagues at more than 150 operating locations, and a global network of sales, service and support locations in 31 countries around the world.\n\nAMETEK consists of two operating groups:\n\nElectronic Instruments - a worldwide leader in the design and manufacture of advanced analytical, test and measurement instrumentation for the energy, aerospace, power, research, medical and indu",
+      "subscribers": null,
+      "videos_count": null,
+      "canonical": "/@AMETEKInc",
+      "vanity": "http://www.youtube.com/@AMETEKInc",
+      "rss": {
+        "http": 200,
+        "videos": [
+          {
+            "video_id": "AQ4UcbvgDME",
+            "title": "How AMETEK Solutions Power Today's Data Centers",
+            "published": "2026-09-17T13:19:58+00:00"
+          },
+          {
+            "video_id": "GqjPLEwbeCo",
+            "title": "Reichert Technologies | AMETEK Connect",
+            "published": "2025-11-18T12:00:38+00:00"
+          },
+          {
+            "video_id": "HMUA-jXfm7o",
+            "title": "SPECTRO Analytical Instruments | AMETEK Connect",
+            "published": "2025-10-29T11:00:40+00:00"
+          },
+          {
+            "video_id": "obtXTSyfiOk",
+            "title": "LAND | AMETEK Connect",
+            "published": "2025-08-12T11:01:42+00:00"
+          },
+          {
+            "video_id": "Y9NOn2WZ-Cs",
+            "title": "AMETEK University 2025",
+            "published": "2025-07-08T13:14:23+00:00"
+          },
+          {
+            "video_id": "QJo-OH_NgtM",
+            "title": "CAMECA | AMETEK Connect",
+            "published": "2025-06-05T11:00:44+00:00"
+          }
+        ]
+      }
+    },
+    "ametek_stc": {
+      "channel_id": "UCtSsF3FPbpTLyp_8OSPYaRA",
+      "http": 200,
+      "og_title": "AMETEKSTC",
+      "og_description": "AMETEK Sensors, Test and Calibration (STC) is one of the world&#39;s leading manufacturers and developers of calibration instruments for temperature and pressure and of materials testing instruments for testing the tensile strength, compressibility, hardness, elasticity, peel or adhesion ability of materials such as; food, rubber, metals, wood, glass, textiles, paper and plastics. \n\nOn this YouTube channel you can learn about our materials testing machines and calibration instruments and find tu",
+      "subscribers": null,
+      "videos_count": null,
+      "canonical": "/@AMETEKTCI",
+      "vanity": "http://www.youtube.com/@AMETEKTCI",
+      "rss": {
+        "http": 200,
+        "videos": [
+          {
+            "video_id": "mru7rf4r16Y",
+            "title": "From the Factory Floor to the Moon: The Chatillon Scale Behind Apollo 11",
+            "published": "2026-10-07T12:07:19+00:00"
+          },
+          {
+            "video_id": "EitU_41UHXk",
+            "title": "Texture Profile Analysis (TPA) | Measure Texture, Improve Consistency",
+            "published": "2026-09-23T09:48:14+00:00"
+          },
+          {
+            "video_id": "CBTyYmCHrI0",
+            "title": "Gemco 953 Series VMax LDT with IO-Link",
+            "published": "2026-07-21T13:50:28+00:00"
+          },
+          {
+            "video_id": "g1mkXE50Kv0",
+            "title": "XP3i Dual Display – See Pressure and Reference at the Same Time",
+            "published": "2026-05-28T12:33:59+00:00"
+          },
+          {
+            "video_id": "6itlq9-NEbE",
+            "title": "RTCt How To Dry Block Calibration",
+            "published": "2026-05-13T09:15:25+00:00"
+          },
+          {
+            "video_id": "HJgoMcynd5Y",
+            "title": "How to Perform Liquid Bath Calibration with the RTCt Series | JOFRA by AMETEK STC",
+            "published": "2026-05-13T07:29:06+00:00"
+          }
+        ]
+      }
+    },
+    "wika_group": {
+      "channel_id": "UCzm89EssQbaLCtxS1oXNwpA",
+      "http": 200,
+      "og_title": "WIKA Group",
+      "og_description": "The WIKA Group is a global market leader in pressure and temperature measurement. The company also sets the standard in the measurement of level, force and flow, and in calibration technology. The broad portfolio of high-precision instruments, IIoT solutions and comprehensive services makes WIKA a strong and reliable partner for all the requirements of industrial measurement technology. The family-run business, founded in 1946, has a global presence with 11,000 employees. This includes our own s",
+      "subscribers": null,
+      "videos_count": null,
+      "canonical": "/@WIKAGroup",
+      "vanity": "http://www.youtube.com/@WIKAGroup",
+      "rss": {
+        "http": 200,
+        "videos": [
+          {
+            "video_id": "oy5YnMwvxPw",
+            "title": "Ep. 03 | Metrologia além da calibração: toda grande decisão começa com uma medição confiável",
+            "published": "2026-11-03T10:55:33+00:00"
+          },
+          {
+            "video_id": "4EhaAAYVCxQ",
+            "title": "ProcessTeknik 2026: WIKA innovations for the process industry",
+            "published": "2026-10-28T16:15:23+00:00"
+          },
+          {
+            "video_id": "wGci9BdbI4E",
+            "title": "HVAC/R measurement solutions at Chillventa 2026 | WIKA Highlights",
+            "published": "2026-10-22T12:06:54+00:00"
+          },
+          {
+            "video_id": "W9cHpVHKU2g",
+            "title": "Welche Messtechnik sorgt für sichere und zuverlässige Prozesse in der Pharmaindustrie?",
+            "published": "2026-10-15T08:39:12+00:00"
+          },
+          {
+            "video_id": "GMsBU1gVZEs",
+            "title": "Messtechnik für die Pharmaindustrie | WIKA auf der POWTECH",
+            "published": "2026-10-12T10:57:38+00:00"
+          },
+          {
+            "video_id": "xEaBpy26lc0",
+            "title": "Program stażowy WIKA Polska | Ciśnienie na karierę",
+            "published": "2026-10-08T07:27:00+00:00"
+          }
+        ]
+      }
+    }
+  },
+  "players": {
+    "42ayt5suUhQ": {
+      "title": null,
+      "author": null,
+      "channel_id": null,
+      "view_count": null
+    }
+  }
+}
