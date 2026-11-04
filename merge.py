@@ -31,7 +31,14 @@ DATA_DIR = BASE / "data"
 STATE_FILE = DATA_DIR / "state.json"
 LATEST_FILE = DATA_DIR / "latest.json"
 LAST_OK_FILE = DATA_DIR / "last_ok.json"
+PENDING_FILE = DATA_DIR / "pending.json"
 RUNS_DIR = DATA_DIR / "runs"
+
+# 日报消费时刻（北京时区的小时数）。pending 队列在该时刻之后仍保留一段时间，
+# 超过即认为已被日报消费并清理，避免回补视频永久丢失。
+REPORT_HOUR_SH = int(os.environ.get("REPORT_HOUR_SH", "9"))
+REPORT_GRACE_H = int(os.environ.get("REPORT_GRACE_H", "2"))
+PENDING_MAX_AGE_DAYS = 7
 
 SOURCE_RANK = {"rss": 0, "rss_proxy": 1, "innertube": 2}
 
@@ -62,6 +69,14 @@ def save_json(path, obj):
 
 def channel_key(ch):
     return ch.get("channel_id") or ch.get("handle") or ch.get("user")
+
+
+def last_report_time(t_now):
+    """最近一次已过去的日报时刻（北京时区 REPORT_HOUR_SH 点）。"""
+    tz = collect.TZ_SH
+    today = t_now.astimezone(tz).replace(hour=REPORT_HOUR_SH, minute=0,
+                                         second=0, microsecond=0)
+    return today if today <= t_now else today - timedelta(days=1)
 
 
 def better(rec, cur):
@@ -173,6 +188,7 @@ def main():
                 "video_id": vid,
                 "brand": ch.get("brand", ""),
                 "channel": ch.get("channel_name") or ch.get("handle") or key,
+                "channel_id": key,
                 "title": v.get("title") or "",
                 "url": v.get("url") or "https://www.youtube.com/watch?v={}".format(vid),
                 "views": v.get("views"),
@@ -201,6 +217,7 @@ def main():
 
     new_videos.sort(key=lambda v: (v.get("published_sh") or ""), reverse=True)
 
+    # 状态判定前置：全失败时的 fallback 结果也要进入待投递队列
     status = "ok"
     note = None
     fallback = None
@@ -219,20 +236,60 @@ def main():
 
     catchup = any((t_now - w) > timedelta(hours=26) for w in windows) if windows else False
 
+    # ---------------- 待投递队列 ----------------
+    # 采集到的视频先进 pending，日报消费一次后才清理；否则回补/跨时段的视频
+    # 会在下一次运行里被「已上报」集合挡掉，日报永远看不到。
+    pending_store = load_json(PENDING_FILE, {"items": {}})
+    pending_items = pending_store.get("items", {})
+    run_stamp = t_now.isoformat()
+    fresh_ids = set()
+    for it in new_videos:
+        vid = it["video_id"]
+        fresh_ids.add(vid)
+        it["carry"] = False
+        if vid in pending_items:
+            pending_items[vid]["item"] = it      # 刷新展示信息（品牌/标题可能被修正）
+        else:
+            pending_items[vid] = {"first_seen_run": run_stamp, "item": it}
+    report_at = last_report_time(t_now)
+    shown = {}
+    carry_count = 0
+    for vid, rec in list(pending_items.items()):
+        first_seen = parse_iso(rec.get("first_seen_run") or run_stamp)
+        consumed = (first_seen < report_at
+                    and report_at + timedelta(hours=REPORT_GRACE_H) <= t_now)
+        if consumed:
+            pending_items.pop(vid, None)        # 已被日报消费
+            continue
+        if (t_now - first_seen) > timedelta(days=PENDING_MAX_AGE_DAYS):
+            pending_items.pop(vid, None)        # 超期残留清理
+            continue
+        it = dict(rec.get("item") or {})
+        if vid not in fresh_ids:
+            it["carry"] = True                  # 非本轮新采（回补/补报）
+            carry_count += 1
+        it["first_seen_run"] = rec.get("first_seen_run") or run_stamp
+        shown[vid] = it
+    for it in new_videos:
+        shown[it["video_id"]] = it
+    videos_out = sorted(shown.values(),
+                        key=lambda v: (v.get("published_sh") or ""), reverse=True)
+    # ---------------- end 待投递队列 ----------------
+
     webhook = os.environ.get("FEISHU_WEBHOOK_URL", "").strip()
     secret = os.environ.get("FEISHU_WEBHOOK_SECRET", "").strip()
     webhook_result = {"configured": bool(webhook), "posted": False,
                       "response": None, "note": None}
     if status == "failed":
         webhook_result["note"] = "本轮采集失败，未推送"
-    elif not new_videos:
+    elif not videos_out:
         webhook_result["note"] = "无新视频，未推送"
     elif not webhook:
         webhook_result["note"] = "未配置 FEISHU_WEBHOOK_URL，仅落盘"
     else:
         try:
             webhook_result["response"] = collect.post_feishu(
-                webhook, secret, collect.build_feishu_text(new_videos))
+                webhook, secret, collect.build_feishu_text(videos_out))
             webhook_result["posted"] = True
         except Exception as e:
             webhook_result["note"] = "{}: {}".format(type(e).__name__, e)
@@ -253,8 +310,11 @@ def main():
         "channels_enabled": sum(1 for c in channels if c.get("enabled", True)),
         "channels_ok": channels_ok,
         "runner_count": len(runs),
-        "new_count": len(new_videos),
-        "videos": new_videos,
+        "new_count": len(videos_out),
+        "fresh_count": len(new_videos),
+        "carry_count": carry_count,
+        "report_at_sh": fmt_sh(report_at),
+        "videos": videos_out,
         "failures": failures,
         "status": status,
         "catchup": catchup,
@@ -265,22 +325,26 @@ def main():
 
     save_json(STATE_FILE, state)
     save_json(LATEST_FILE, latest)
+    save_json(PENDING_FILE, {"updated": t_now.isoformat(),
+                             "report_at": report_at.isoformat(),
+                             "items": pending_items})
     if channels_ok:
         save_json(LAST_OK_FILE, {"run_time": t_now.isoformat(),
                                  "run_time_sh": fmt_sh(t_now),
-                                 "videos": new_videos,
+                                 "videos": videos_out,
                                  "channels_ok": channels_ok})
     save_json(CHANNELS_FILE, channels)
 
     try:
         committed = commit_and_push(
             "monitor: {} new, {} ok, {} failures ({})".format(
-                len(new_videos), channels_ok, len(failures), status))
+                len(videos_out), channels_ok, len(failures), status))
     except Exception as e:
         print("git 提交失败: {}".format(e))
         committed = False
 
-    print(json.dumps({"status": status, "new": len(new_videos),
+    print(json.dumps({"status": status, "new": len(videos_out),
+                      "fresh": len(new_videos), "carry": carry_count,
                       "channels_ok": channels_ok,
                       "failures": len(failures), "catchup": catchup,
                       "committed": committed}, ensure_ascii=False))
