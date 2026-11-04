@@ -39,6 +39,10 @@ def write(path, obj):
 
 # 在临时目录里搭一套工作区，指向 merge.py 的模块级路径
 tmp = Path(tempfile.mkdtemp())
+# 沙箱内没有可用的 git 远端，测试中把「回写仓库」打桩
+_publish_calls = []
+merge.publish = lambda message: (_publish_calls.append(message),
+                                  (True, "stub"))[1]
 orig = (merge.BASE, merge.CHANNELS_FILE, merge.DATA_DIR, merge.STATE_FILE,
         merge.LATEST_FILE, merge.LAST_OK_FILE, merge.RUNS_DIR,
         merge.PENDING_FILE)
@@ -202,6 +206,16 @@ try:
     check("待投递：pending 队列已清空", len(pend["items"]) == 0, str(pend["items"]))
 finally:
     merge.now_utc = real_now
+
+# --- 场景 7：回写仓库失败必须显式失败（避免日报静默读旧数据） ---
+merge.publish = lambda message: (False, "stub-fail")
+rc = merge.main()
+check("回写失败：退出码非 0（工作流转红）", rc == 3, str(rc))
+latest7 = json.loads(merge.LATEST_FILE.read_text(encoding="utf-8"))
+check("回写失败：数据仍已落盘（便于人工补写）",
+      latest7.get("run_time_sh") is not None, str(latest7.get("run_time_sh")))
+merge.publish = lambda message: (_publish_calls.append(message),
+                                  (True, "stub"))[1]
 
 # 还原模块路径
 (merge.BASE, merge.CHANNELS_FILE, merge.DATA_DIR, merge.STATE_FILE,
