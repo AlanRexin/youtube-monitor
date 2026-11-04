@@ -1,0 +1,62 @@
+{
+  "run_time": "2026-11-04T09:24:20.577131+00:00",
+  "run_time_sh": "2026-11-04 17:24",
+  "videos": [
+    {
+      "video_id": "YwY0O6G__Pk",
+      "brand": "Fluke Calibration 福禄克校准",
+      "channel": "Fluke Calibration",
+      "title": "Fluke VoltAlert™",
+      "url": "https://www.youtube.com/shorts/YwY0O6G__Pk",
+      "views": "471",
+      "source": "rss",
+      "published_sh": "2026-11-04 00:55",
+      "published_approx": false
+    },
+    {
+      "video_id": "oy5YnMwvxPw",
+      "brand": "WIKA 威卡",
+      "channel": "WIKA Group",
+      "title": "Ep. 03 | Metrologia além da calibração: toda grande decisão começa com uma medição confiável",
+      "url": "https://www.youtube.com/watch?v=oy5YnMwvxPw",
+      "views": "31",
+      "source": "rss",
+      "published_sh": "2026-11-03 18:55",
+      "published_approx": false
+    },
+    {
+      "video_id": "emEvP3owQUU",
+      "brand": "Fluke Calibration 福禄克校准",
+      "channel": "Fluke Calibration",
+      "title": "Fluke Acoustic Imager ii1030 ii1050",
+      "url": "https://www.youtube.com/shorts/emEvP3owQUU",
+      "views": "417",
+      "source": "rss",
+      "published_sh": "2026-11-02 23:03",
+      "published_approx": false
+    },
+    {
+      "video_id": "eciUd1_zuSs",
+      "brand": "Fluke Calibration 福禄克校准",
+      "channel": "Fluke Calibration",
+      "title": "NECA 2026 Recap | Innovation, Insights & Highlights from Fluke",
+      "url": "https://www.youtube.com/watch?v=eciUd1_zuSs",
+      "views": "433",
+      "source": "rss",
+      "published_sh": "2026-10-30 23:20",
+      "published_approx": false
+    },
+    {
+      "video_id": "wjyCSyy_1rs",
+      "brand": "Testo 德图",
+      "channel": "Testo USA",
+      "title": "Faster Measurements. Smarter Workflows. Meet the New testo 320 & 330",
+      "url": "https://www.youtube.com/watch?v=wjyCSyy_1rs",
+      "views": "45",
+      "source": "rss",
+      "published_sh": "2026-10-30 01:24",
+      "published_approx": false
+    }
+  ],
+  "channels_ok": 15
+}
