@@ -4,26 +4,64 @@ on:
   schedule:
     # UTC 00:00 = 北京时间 08:00，赶在 09:00 日报之前出结果
     - cron: "0 0 * * *"
-  workflow_dispatch: {}
+    # UTC 21:30 = 北京时间 05:30（次日）：另一批 runner IP，避开同一时间段的
+    # IP 段封锁，与 00:00 那次互为备份
+    - cron: "30 21 * * *"
+  workflow_dispatch:
+    inputs:
+      catchup_from:
+        description: '窗口回溯起点(ISO8601)，故障后追平用；留空按各频道 last_ok 窗口'
+        required: false
+        type: string
 
 permissions:
   contents: write
 
 concurrency:
   group: youtube-monitor
-  cancel-in-progress: true
+  cancel-in-progress: false
 
 jobs:
-  collect:
-    runs-on: ubuntu-latest
+  # 抓取阶段：多 runner 并行，各自产出独立结果文件（IP 段封锁时互相兜底）
+  fetch:
+    strategy:
+      fail-fast: false
+      matrix:
+        os: [ubuntu-latest, ubuntu-24.04]
+    runs-on: ${{ matrix.os }}
     timeout-minutes: 15
     steps:
       - uses: actions/checkout@v4
       - uses: actions/setup-python@v5
         with:
           python-version: "3.12"
-      - name: Collect and report
-        run: python collect.py
+      - name: Fetch on ${{ matrix.os }}
+        run: python collect.py --runner "${{ matrix.os }}" --out "data/run-${{ matrix.os }}.json"
+      - uses: actions/upload-artifact@v4
+        with:
+          name: run-${{ matrix.os }}
+          path: data/run-${{ matrix.os }}.json
+          retention-days: 7
+
+  # 合并发布阶段：汇总所有 runner 结果，去重 + 写状态 + 提交回仓库
+  merge:
+    needs: fetch
+    if: always()
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - uses: actions/download-artifact@v4
+        with:
+          pattern: run-*
+          path: data/runs
+          merge-multiple: true
+      - name: Merge and publish
+        run: python merge.py
         env:
+          CATCHUP_FROM: ${{ inputs.catchup_from }}
           FEISHU_WEBHOOK_URL: ${{ secrets.FEISHU_WEBHOOK_URL }}
           FEISHU_WEBHOOK_SECRET: ${{ secrets.FEISHU_WEBHOOK_SECRET }}
