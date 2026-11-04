@@ -1,0 +1,98 @@
+{
+  "run_time": "2026-11-04T09:15:43.193747+00:00",
+  "probes": {
+    "rss_repeat": [
+      {
+        "try": 1,
+        "status": 200,
+        "len": 23990,
+        "head": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<feed xmlns:yt=\"http://www.youtube.com/xm"
+      },
+      {
+        "try": 2,
+        "status": 200,
+        "len": 23990,
+        "head": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<feed xmlns:yt=\"http://www.youtube.com/xm"
+      },
+      {
+        "try": 3,
+        "status": 200,
+        "len": 23990,
+        "head": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<feed xmlns:yt=\"http://www.youtube.com/xm"
+      }
+    ],
+    "innertube_videos_tab": {
+      "status": 200,
+      "videos_tab_found": true
+    },
+    "resolve_url": [
+      {
+        "handle": "FlukeCalibration",
+        "status": 200,
+        "browseId": "UCDJWIiQoSFIyU2wBTS7Vn6Q",
+        "title": null,
+        "payload_keys": [
+          "responseContext",
+          "endpoint"
+        ]
+      },
+      {
+        "handle": "Additel",
+        "status": 200,
+        "browseId": "UC-M9rFDKpqzFv8JWKbu1TRA",
+        "title": null,
+        "payload_keys": [
+          "responseContext",
+          "endpoint"
+        ]
+      },
+      {
+        "handle": "Mensor",
+        "status": 200,
+        "browseId": "UC97blA8S6lVir-gdFGX9r-Q",
+        "title": null,
+        "payload_keys": [
+          "responseContext",
+          "endpoint"
+        ]
+      },
+      {
+        "handle": "AMETEKInc",
+        "status": 200,
+        "browseId": "UCJ57iRcRhWjubFCZr64Fvxg",
+        "title": null,
+        "payload_keys": [
+          "responseContext",
+          "endpoint"
+        ]
+      },
+      {
+        "handle": "Testolimited",
+        "status": 200,
+        "browseId": "UCKr_-_p_3VQ4vTAief_moOQ",
+        "title": null,
+        "payload_keys": [
+          "responseContext",
+          "endpoint"
+        ]
+      }
+    ],
+    "mirrors": {
+      "allorigins": {
+        "status": 520,
+        "len": 16,
+        "head": "error code: 520\n"
+      },
+      "codetabs": {
+        "status": 522,
+        "len": 16,
+        "head": "error code: 522\n"
+      },
+      "jina": {
+        "status": 200,
+        "len": 471,
+        "head": "Title: BeamexCalibration\n\nURL Source: https://www.youtube.com/feeds/videos.xml?channel_id=UCwQKBOxKye-nDL_dycFjq-Q\n\nMark"
+      }
+    }
+  }
+}
