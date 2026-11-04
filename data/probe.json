@@ -1,0 +1,350 @@
+{
+  "probe_time": "run",
+  "meta": {
+    "ametek_handle_target": {
+      "channel_id": "UCJ57iRcRhWjubFCZr64Fvxg",
+      "http": 200,
+      "og_title": "AMETEK, Inc.",
+      "og_description": "AMETEK, Inc. is a leading global manufacturer of electronic instruments and electromechanical devices. We have 21,000 colleagues at more than 150 operating locations, and a global network of sales, service and support locations in 31 countries around the world.\n\nAMETEK consists of two operating groups:\n\nElectronic Instruments - a worldwide leader in the design and manufacture of advanced analytica",
+      "subscribers": null,
+      "videos_count": null,
+      "vanity": "http://www.youtube.com/@AMETEKInc",
+      "canonical": "/@AMETEKInc",
+      "rss": {
+        "http": 200,
+        "videos": [
+          {
+            "title": "How AMETEK Solutions Power Today's Data Centers",
+            "published": "2026-09-17T13:19:58+00:00"
+          },
+          {
+            "title": "Reichert Technologies | AMETEK Connect",
+            "published": "2025-11-18T12:00:38+00:00"
+          },
+          {
+            "title": "SPECTRO Analytical Instruments | AMETEK Connect",
+            "published": "2025-10-29T11:00:40+00:00"
+          }
+        ]
+      }
+    },
+    "ametek_current": {
+      "channel_id": "UCDTISRIDBLatulPDz9bQXpA",
+      "http": 200,
+      "og_title": "FARO CREAFORM",
+      "og_description": "With headquarters in Lévis, Québec, Canada and Lake Mary, Florida, USA, FARO CREAFORM is the result of the combination of FARO’s renowned 3D Measurement business segment and Creaform’s innovative metrology solutions. \n\nWith roots dating back to 1981, FARO has been a global leader in portable measurement arms, laser trackers, and reality capture technologies. Creaform, founded in 2002 in Lévis, Qué",
+      "subscribers": null,
+      "videos_count": null,
+      "vanity": "http://www.youtube.com/@farocreaform",
+      "canonical": "/@farocreaform",
+      "rss": {
+        "http": 200,
+        "videos": [
+          {
+            "title": "Scantalks Episode 10: GKN Aerospace",
+            "published": "2026-10-28T15:57:05+00:00"
+          },
+          {
+            "title": "Les nouveautés FARO CREAFORM : HandySCAN 3D EVO, MAX et MetraSCAN 3D",
+            "published": "2026-10-22T13:35:50+00:00"
+          },
+          {
+            "title": "Scanning Halloween in 3D with the HandySCAN 3D EVO",
+            "published": "2026-10-19T13:36:46+00:00"
+          }
+        ]
+      }
+    },
+    "mensor_current": {
+      "channel_id": "UC97blA8S6lVir-gdGFX9r-Q",
+      "http": 200,
+      "og_title": null,
+      "og_description": null,
+      "subscribers": null,
+      "videos_count": null,
+      "vanity": null,
+      "canonical": null,
+      "rss": {
+        "http": 404
+      }
+    },
+    "fluke_main": {
+      "channel_id": "UCR7ecClA4Ul6SDWFySBBLlQ",
+      "http": 200,
+      "og_title": "Fluke Corporation",
+      "og_description": "Welcome to the official Fluke YouTube channel.\n\nFluke Corporation is the world leader in the manufacture, distribution and service of electronic test tools and software. \n\nSince 1948, we&#39;ve helped define and grow a unique technology market, providing testing and troubleshooting capabilities that have grown to mission critical status in manufacturing and service industries. Every new manufactur",
+      "subscribers": null,
+      "videos_count": null,
+      "vanity": "http://www.youtube.com/@fluke",
+      "canonical": "/@fluke",
+      "rss": {
+        "http": 200,
+        "videos": [
+          {
+            "title": "Fluke VoltAlert™",
+            "published": "2026-11-03T16:55:26+00:00"
+          },
+          {
+            "title": "Fluke Acoustic Imager ii1030 ii1050",
+            "published": "2026-11-02T15:03:31+00:00"
+          },
+          {
+            "title": "NECA 2026 Recap | Innovation, Insights &amp; Highlights from Fluke",
+            "published": "2026-10-30T15:20:09+00:00"
+          }
+        ]
+      }
+    },
+    "fluke_cal": {
+      "channel_id": "UCDJWIiQoSFIyU2wBTS7Vn6Q",
+      "http": 200,
+      "og_title": "Fluke Calibration",
+      "og_description": "Fluke Calibration is a global leader in precision calibration instrumentation and software for electrical, RF, temperature, pressure and flow measurements. Our YouTube channel contains a wide variety of videos representing these disciplines. Some are introductory, others demonstrate products or measurement concepts. To learn more about calibration, visit us on the web at http://www.fluke.com.",
+      "subscribers": null,
+      "videos_count": null,
+      "vanity": "http://www.youtube.com/@FlukeCalibration",
+      "canonical": "/@FlukeCalibration",
+      "rss": {
+        "http": 200,
+        "videos": [
+          {
+            "title": "What's New in CalStudio - October 2026",
+            "published": "2026-10-21T04:45:26+00:00"
+          },
+          {
+            "title": "Fluke Software User Group Webinar with Michael Johnston | NCSLI 2026",
+            "published": "2026-10-02T09:55:49+00:00"
+          },
+          {
+            "title": "How to Change the Set Point on the Fluke 7512 Refrigerated Temperature Calibration Bath",
+            "published": "2026-09-16T15:24:34+00:00"
+          }
+        ]
+      }
+    },
+    "fluke_es": {
+      "channel_id": "UCynGTWqOzeTecEdrB4DUgWSQ",
+      "http": 404,
+      "rss": {
+        "http": 404
+      }
+    },
+    "handle_AMETEKInc": {
+      "key": "@AMETEKInc",
+      "channel_id": null
+    },
+    "handle_Mensor": {
+      "key": "@Mensor",
+      "channel_id": null
+    },
+    "handle_FlukeCalibration": {
+      "key": "@FlukeCalibration",
+      "channel_id": null
+    },
+    "handle_FlukeCorporation": {
+      "key": "@FlukeCorporation",
+      "channel_id": null
+    },
+    "handle_MensorGmbH": {
+      "key": "@MensorGmbH",
+      "channel_id": null
+    },
+    "handle_MensorInstruments": {
+      "key": "@MensorInstruments",
+      "channel_id": null
+    }
+  },
+  "search": {
+    "Mensor": [
+      {
+        "channel_id": "UCQe1k4TudcvW1MVoHDaVaxQ",
+        "title": "Mensor LP",
+        "subs": "@MensorLP",
+        "videos": "2.39K subscribers",
+        "desc": "Since 1969, Mensor has been designing and manufacturing precision pressure measuring and pressure calibration instruments ...",
+        "handle": "/@MensorLP"
+      },
+      {
+        "channel_id": "UCzSVGgl84XMWZLWyRY4tsxQ",
+        "title": "Diego Mensor",
+        "subs": "@diegomensor",
+        "videos": "734 subscribers",
+        "desc": "VIDA REAL DE DONO DE OFICINA! Sou Diego Mensor, empresário do setor automotivo há mais de 24 anos e mentor de donos ...",
+        "handle": "/@diegomensor"
+      },
+      {
+        "channel_id": "UCl8Txgx-dMUh4bstacuAO0Q",
+        "title": "mensor",
+        "subs": "@realmensor",
+        "videos": "",
+        "desc": "Unheard piano pieces, some old, some new but never previously shared. A new piece will be released every week. Please ...",
+        "handle": "/@realmensor"
+      },
+      {
+        "channel_id": "UCwMQ8-KC4HdsVCfRaL29_Tw",
+        "title": "Manoella Mensor",
+        "subs": "@manoellamensor7683",
+        "videos": "",
+        "desc": "",
+        "handle": "/@manoellamensor7683"
+      },
+      {
+        "channel_id": "UCq-G7ARxN1CN5341G0g5BYw",
+        "title": "Abdelhakim AIT MENSOR",
+        "subs": "@abdelhakimaitmensor0001",
+        "videos": "11 subscribers",
+        "desc": "",
+        "handle": "/@abdelhakimaitmensor0001"
+      },
+      {
+        "channel_id": "UCCaYgtfW11pPvxxA8kJvrRQ",
+        "title": "Skarp Mensor",
+        "subs": "@PlayerTunser",
+        "videos": "8 subscribers",
+        "desc": "",
+        "handle": "/@PlayerTunser"
+      },
+      {
+        "channel_id": "UCot_BTu-2FNM_8qmGzP3ivw",
+        "title": "Tales of the Mensor",
+        "subs": "@TalesoftheMensor",
+        "videos": "20 subscribers",
+        "desc": "Tales of the Mensor is a motivational storytelling channel dedicated to powerful short stories that inspire, uplift, and transform the ...",
+        "handle": "/@TalesoftheMensor"
+      },
+      {
+        "channel_id": "UCnttkxYicagxLq7f-ScfufQ",
+        "title": "Mary Mensor",
+        "subs": "@marymensor3241",
+        "videos": "",
+        "desc": "",
+        "handle": "/@marymensor3241"
+      }
+    ],
+    "Mensor Instruments": [
+      {
+        "channel_id": "UCQe1k4TudcvW1MVoHDaVaxQ",
+        "title": "Mensor LP",
+        "subs": "@MensorLP",
+        "videos": "2.39K subscribers",
+        "desc": "Since 1969, Mensor has been designing and manufacturing precision pressure measuring and pressure calibration instruments ...",
+        "handle": "/@MensorLP"
+      },
+      {
+        "channel_id": "UC4D0uLQBK0-1U9NgxGGUqrw",
+        "title": "mensor kepler",
+        "subs": "@mensorkepler6299",
+        "videos": "",
+        "desc": "",
+        "handle": "/@mensorkepler6299"
+      },
+      {
+        "channel_id": "UC-IbBTclKPZB-ZkNMADQ74w",
+        "title": "Alex Mensor",
+        "subs": "@alexmensor834",
+        "videos": "1 subscriber",
+        "desc": "",
+        "handle": "/@alexmensor834"
+      },
+      {
+        "channel_id": "UCO4p1jCAfRykkz4V5TPrXLA",
+        "title": "mohamed mansour Brahimi",
+        "subs": "@mohamedmansourbrahimi3216",
+        "videos": "2.46K subscribers",
+        "desc": "chaine musical.",
+        "handle": "/@mohamedmansourbrahimi3216"
+      }
+    ],
+    "Mensor GmbH": [],
+    "AMETEK": [
+      {
+        "channel_id": "UCmxDxurDfBDqNi8rraK6mdw",
+        "title": "Crank | AMETEK",
+        "subs": "@Cranksoftwareinc",
+        "videos": "1.3K subscribers",
+        "desc": "Crank Software is a global innovator in embedded GUI solutions that accelerate the design and development of modern UX for ...",
+        "handle": "/@Cranksoftwareinc"
+      },
+      {
+        "channel_id": "UCJ57iRcRhWjubFCZr64Fvxg",
+        "title": "AMETEK, Inc.",
+        "subs": "@AMETEKInc",
+        "videos": "1.23K subscribers",
+        "desc": "AMETEK, Inc. is a leading global manufacturer of electronic instruments and electromechanical devices. We have 21000 ...",
+        "handle": "/@AMETEKInc"
+      },
+      {
+        "channel_id": "UCK7CwzdqN-cDrvICyZKZ7EQ",
+        "title": "AMETEK Brookfield",
+        "subs": "@AMETEKBrookfield",
+        "videos": "2.35K subscribers",
+        "desc": "With a legacy dating back to 1934, AMETEK Brookfield is synonymous with viscosity as the pioneer of the viscosity measurement ...",
+        "handle": "/@AMETEKBrookfield"
+      },
+      {
+        "channel_id": "UCKQW-MyBKkZ032UilszVmLw",
+        "title": "AMETEK Solidstate Controls",
+        "subs": "@ameteksolidstatecontrols4657",
+        "videos": "2.13K subscribers",
+        "desc": "Keeping businesses in business with highly customized inverters, uninterruptible Power Supply (UPS) systems, and battery ...",
+        "handle": "/@ameteksolidstatecontrols4657"
+      },
+      {
+        "channel_id": "UCZa40gIVS8eTogFE7jC2GuQ",
+        "title": "AMETEK Reichert® | Eye Care & Biotechnology",
+        "subs": "@ReichertEye",
+        "videos": "1.04K subscribers",
+        "desc": "Reichert® shares in your passion to personalize and improve eye care, and its comprehensive family of refraction, tonometry, and ...",
+        "handle": "/@ReichertEye"
+      },
+      {
+        "channel_id": "UCO5M6-5Sd5Kv_r26vcZMNQw",
+        "title": "AMETEK Specialty Metal Products",
+        "subs": "@ametekspecialtymetalproducts",
+        "videos": "53 subscribers",
+        "desc": "AMETEK Specialty Metal Products consists of six leading manufacturers of advanced metal materials including: • Fine Tubes ...",
+        "handle": "/@ametekspecialtymetalproducts"
+      },
+      {
+        "channel_id": "UC097jwTdkoqfIBDequuNBZg",
+        "title": "Rauland AMETEK",
+        "subs": "@RaulandBorg",
+        "videos": "365 subscribers",
+        "desc": "Rauland, a division of AMETEK, Inc., is a respected leader in the design and delivery of critical communications, workflow and ...",
+        "handle": "/@RaulandBorg"
+      },
+      {
+        "channel_id": "UCg5SZNxheZA4aYxKsJIJAPA",
+        "title": "AMETEK Programmable Power",
+        "subs": "@AMETEKProgrammablePower",
+        "videos": "761 subscribers",
+        "desc": "Located in San Diego, CA, AMETEK Programmable Power designs, manufactures, and markets precision, AC and DC ...",
+        "handle": "/@AMETEKProgrammablePower"
+      }
+    ]
+  },
+  "sites": {
+    "https://www.mensor.com/": {
+      "http": 200,
+      "links": [
+        "https://www.youtube.com/embed/42ayt5suUhQ",
+        "https://www.youtube.com/embed/42ayt5suUhQ?enablejsapi=1&hl=en&cc_lang_pref=en"
+      ]
+    },
+    "https://www.mensor.com/en-us/": {
+      "http": 200,
+      "links": [
+        "https://www.youtube.com/embed/42ayt5suUhQ",
+        "https://www.youtube.com/embed/42ayt5suUhQ?enablejsapi=1&hl=en&cc_lang_pref=en"
+      ]
+    },
+    "https://www.ametek.com/": {
+      "http": 200,
+      "links": []
+    },
+    "https://www.mensor.com/en-us/contact-us": {
+      "http": 410,
+      "links": []
+    }
+  }
+}
