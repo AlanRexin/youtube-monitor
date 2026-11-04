@@ -1,22 +1,28 @@
 {
-  "run_time": "2026-11-04T09:24:20.577131+00:00",
-  "run_time_sh": "2026-11-04 17:24",
-  "window_start_sh": "2026-10-29 17:00",
+  "run_time": "2026-11-04T09:50:50.936414+00:00",
+  "run_time_sh": "2026-11-04 17:50",
+  "window_start_sh": "2026-11-03 16:50",
   "channels_enabled": 15,
   "channels_ok": 15,
   "runner_count": 2,
   "new_count": 5,
+  "fresh_count": 0,
+  "carry_count": 5,
+  "report_at_sh": "2026-11-04 09:00",
   "videos": [
     {
       "video_id": "YwY0O6G__Pk",
-      "brand": "Fluke Calibration 福禄克校准",
-      "channel": "Fluke Calibration",
+      "brand": "Fluke 福禄克",
+      "channel": "Fluke Corporation",
       "title": "Fluke VoltAlert™",
       "url": "https://www.youtube.com/shorts/YwY0O6G__Pk",
       "views": "471",
       "source": "rss",
       "published_sh": "2026-11-04 00:55",
-      "published_approx": false
+      "published_approx": false,
+      "channel_id": "UCR7ecClA4Ul6SDWFySBBLlQ",
+      "carry": true,
+      "first_seen_run": "2026-11-04T09:24:20.577131+00:00"
     },
     {
       "video_id": "oy5YnMwvxPw",
@@ -27,29 +33,38 @@
       "views": "31",
       "source": "rss",
       "published_sh": "2026-11-03 18:55",
-      "published_approx": false
+      "published_approx": false,
+      "channel_id": "UCzm89EssQbaLCtxS1oXNwpA",
+      "carry": true,
+      "first_seen_run": "2026-11-04T09:24:20.577131+00:00"
     },
     {
       "video_id": "emEvP3owQUU",
-      "brand": "Fluke Calibration 福禄克校准",
-      "channel": "Fluke Calibration",
+      "brand": "Fluke 福禄克",
+      "channel": "Fluke Corporation",
       "title": "Fluke Acoustic Imager ii1030 ii1050",
       "url": "https://www.youtube.com/shorts/emEvP3owQUU",
       "views": "417",
       "source": "rss",
       "published_sh": "2026-11-02 23:03",
-      "published_approx": false
+      "published_approx": false,
+      "channel_id": "UCR7ecClA4Ul6SDWFySBBLlQ",
+      "carry": true,
+      "first_seen_run": "2026-11-04T09:24:20.577131+00:00"
     },
     {
       "video_id": "eciUd1_zuSs",
-      "brand": "Fluke Calibration 福禄克校准",
-      "channel": "Fluke Calibration",
+      "brand": "Fluke 福禄克",
+      "channel": "Fluke Corporation",
       "title": "NECA 2026 Recap | Innovation, Insights & Highlights from Fluke",
       "url": "https://www.youtube.com/watch?v=eciUd1_zuSs",
       "views": "433",
       "source": "rss",
       "published_sh": "2026-10-30 23:20",
-      "published_approx": false
+      "published_approx": false,
+      "channel_id": "UCR7ecClA4Ul6SDWFySBBLlQ",
+      "carry": true,
+      "first_seen_run": "2026-11-04T09:24:20.577131+00:00"
     },
     {
       "video_id": "wjyCSyy_1rs",
@@ -60,12 +75,15 @@
       "views": "45",
       "source": "rss",
       "published_sh": "2026-10-30 01:24",
-      "published_approx": false
+      "published_approx": false,
+      "channel_id": "UCwY6FJ_pUKasM-5tFOtCmjw",
+      "carry": true,
+      "first_seen_run": "2026-11-04T09:24:20.577131+00:00"
     }
   ],
   "failures": [],
   "status": "ok",
-  "catchup": true,
+  "catchup": false,
   "sources": {
     "rss": 15
   },

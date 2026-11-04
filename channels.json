@@ -9,10 +9,10 @@
     "note": "Fluke 校准线官方频道（2026-11-04 runner 实测：og:title=Fluke Calibration，canonical=/@FlukeCalibration）。此前被标成 Fluke 主频道，本次已修正。",
     "channel_id_resolved_at": "2026-10-29T09:02:23.159025+00:00",
     "last_video_published": "2026-10-21T04:45:26+00:00",
-    "last_ok": "2026-11-04T09:24:20.577131+00:00",
+    "last_ok": "2026-11-04T09:50:50.936414+00:00",
     "last_ok_source": "rss",
     "title_now": "Fluke Calibration",
-    "title_checked_at": "2026-11-04T09:24:20.577131+00:00"
+    "title_checked_at": "2026-11-04T09:50:50.936414+00:00"
   },
   {
     "brand": "Fluke 福禄克",
@@ -24,10 +24,10 @@
     "note": "Fluke 西班牙官方频道（2026-11-04 实测 og:title=Fluke España；该频道偶发 404 属 runner IP 段封锁，非频道失效）。",
     "channel_id_resolved_at": "2026-10-29T09:02:23.159025+00:00",
     "last_video_published": "2025-06-05T14:50:52+00:00",
-    "last_ok": "2026-11-04T09:24:20.577131+00:00",
+    "last_ok": "2026-11-04T09:50:50.936414+00:00",
     "last_ok_source": "rss",
     "title_now": "Fluke España",
-    "title_checked_at": "2026-11-04T09:24:20.577131+00:00"
+    "title_checked_at": "2026-11-04T09:50:50.936414+00:00"
   },
   {
     "brand": "Fluke 福禄克",
@@ -39,10 +39,10 @@
     "note": "Fluke 集团主频道（2026-11-04 runner 实测：og:title=Fluke Corporation，canonical=/@fluke）。此前与 Fluke Calibration 的标签互换了，本次已修正。",
     "channel_id_resolved_at": "2026-10-29T09:02:23.159025+00:00",
     "last_video_published": "2026-11-03T16:55:26+00:00",
-    "last_ok": "2026-11-04T09:24:20.577131+00:00",
+    "last_ok": "2026-11-04T09:50:50.936414+00:00",
     "last_ok_source": "rss",
     "title_now": "Fluke Corporation",
-    "title_checked_at": "2026-11-04T09:24:20.577131+00:00"
+    "title_checked_at": "2026-11-04T09:50:50.936414+00:00"
   },
   {
     "brand": "Fluke Process Instruments 福禄克过程仪器",
@@ -54,10 +54,10 @@
     "note": "handle 待首跑验证",
     "channel_id_resolved_at": "2026-10-29T09:02:23.159025+00:00",
     "last_video_published": "2024-04-23T16:51:47+00:00",
-    "last_ok": "2026-11-04T09:24:20.577131+00:00",
+    "last_ok": "2026-11-04T09:50:50.936414+00:00",
     "last_ok_source": "rss",
     "title_now": "Fluke Process Instruments",
-    "title_checked_at": "2026-11-04T09:24:20.577131+00:00"
+    "title_checked_at": "2026-11-04T09:50:50.936414+00:00"
   },
   {
     "brand": "Beamex 贝美克斯",
@@ -68,10 +68,10 @@
     "enabled": true,
     "note": "官方校准频道，13.2K 订阅（2026-10-29 runner 验证：官方描述 + 近期视频活跃）",
     "last_video_published": "2026-08-31T07:09:53+00:00",
-    "last_ok": "2026-11-04T09:24:20.577131+00:00",
+    "last_ok": "2026-11-04T09:50:50.936414+00:00",
     "last_ok_source": "rss",
     "title_now": "BeamexCalibration",
-    "title_checked_at": "2026-11-04T09:24:20.577131+00:00"
+    "title_checked_at": "2026-11-04T09:50:50.936414+00:00"
   },
   {
     "brand": "WIKA 威卡",
@@ -82,10 +82,10 @@
     "enabled": true,
     "note": "官方集团主频道，活跃（2026-10-29 runner 验证；注意 @grupowika/@wikagroup 实际落在停更的 WIKA Instrument LP）",
     "last_video_published": "2026-11-03T10:55:33+00:00",
-    "last_ok": "2026-11-04T09:24:20.577131+00:00",
+    "last_ok": "2026-11-04T09:50:50.936414+00:00",
     "last_ok_source": "rss",
     "title_now": "WIKA Group",
-    "title_checked_at": "2026-11-04T09:24:20.577131+00:00"
+    "title_checked_at": "2026-11-04T09:50:50.936414+00:00"
   },
   {
     "brand": "WIKA 威卡",
@@ -97,10 +97,10 @@
     "note": "WIKA 美国实体官方频道（WIKA Instrument, LP，2.33K 订阅，官方描述），但 2018 年后停更；@WIKAUSA 及搜索候选均为个人娱乐号，已弃用；WIKA 日常动态由 WIKA Group 全球频道覆盖",
     "channel_id_resolved_at": "2026-10-29T09:02:23.159025+00:00",
     "last_video_published": "2018-05-23T16:11:57+00:00",
-    "last_ok": "2026-11-04T09:24:20.577131+00:00",
+    "last_ok": "2026-11-04T09:50:50.936414+00:00",
     "last_ok_source": "rss",
     "title_now": "WIKA Instrument, LP",
-    "title_checked_at": "2026-11-04T09:24:20.577131+00:00"
+    "title_checked_at": "2026-11-04T09:50:50.936414+00:00"
   },
   {
     "brand": "Mensor（WIKA 校准品牌）",
@@ -111,11 +111,11 @@
     "enabled": true,
     "note": "Mensor（压力校准，WIKA 旗下）官方频道 UCQe1k4TudcvW1MVoHDaVaxQ / @MensorLP（2026-11-04 runner 实测：og:title=Mensor LP，描述为 Mensor 官方定位，2026-10-09 仍有更新）。原 UC97blA8S6lVir-gdGFX9r-Q 实为个人号 joemensor2008，已弃用。",
     "channel_id_resolved_at": "2026-11-04T09:31:00+00:00",
-    "last_video_published": "2026-03-24T02:05:29+00:00",
-    "last_ok": "2026-11-04T09:24:20.577131+00:00",
+    "last_video_published": "2026-10-09T16:34:43+00:00",
+    "last_ok": "2026-11-04T09:50:50.936414+00:00",
     "last_ok_source": "rss",
     "title_now": "Mensor LP",
-    "title_checked_at": "2026-11-04T09:24:20.577131+00:00"
+    "title_checked_at": "2026-11-04T09:50:50.936414+00:00"
   },
   {
     "brand": "AMETEK 阿美特克",
@@ -126,10 +126,10 @@
     "enabled": true,
     "note": "AMETEK Sensors/Test/Calibration 事业部官方频道（JOFRA 校准线归属），1.83K 订阅（2026-10-29 runner 验证）",
     "last_video_published": "2026-10-07T12:07:19+00:00",
-    "last_ok": "2026-11-04T09:24:20.577131+00:00",
+    "last_ok": "2026-11-04T09:50:50.936414+00:00",
     "last_ok_source": "rss",
     "title_now": "AMETEKSTC",
-    "title_checked_at": "2026-11-04T09:24:20.577131+00:00"
+    "title_checked_at": "2026-11-04T09:50:50.936414+00:00"
   },
   {
     "brand": "AMETEK 阿美特克",
@@ -140,11 +140,11 @@
     "enabled": true,
     "note": "AMETEK 集团主频道 UCJ57iRcRhWjubFCZr64Fvxg / @AMETEKInc（2026-11-04 runner 实测：og:title=AMETEK, Inc.，canonical=/@AMETEKInc）。原 UCDTISRIDBLatulPDz9bQXpA 实为 FARO CREAFORM（AMETEK 2025 年收购），不在本次监控清单内，已移出。",
     "channel_id_resolved_at": "2026-11-04T09:31:00+00:00",
-    "last_video_published": "2026-10-28T15:57:05+00:00",
-    "last_ok": "2026-11-04T09:24:20.577131+00:00",
+    "last_video_published": "2026-09-17T13:19:58+00:00",
+    "last_ok": "2026-11-04T09:50:50.936414+00:00",
     "last_ok_source": "rss",
     "title_now": "AMETEK, Inc.",
-    "title_checked_at": "2026-11-04T09:24:20.577131+00:00"
+    "title_checked_at": "2026-11-04T09:50:50.936414+00:00"
   },
   {
     "brand": "Additel",
@@ -156,10 +156,10 @@
     "note": "handle 待首跑验证",
     "channel_id_resolved_at": "2026-10-29T09:02:23.159025+00:00",
     "last_video_published": "2026-10-20T18:04:26+00:00",
-    "last_ok": "2026-11-04T09:24:20.577131+00:00",
+    "last_ok": "2026-11-04T09:50:50.936414+00:00",
     "last_ok_source": "rss",
     "title_now": "Additel",
-    "title_checked_at": "2026-11-04T09:24:20.577131+00:00"
+    "title_checked_at": "2026-11-04T09:50:50.936414+00:00"
   },
   {
     "brand": "Testo 德图",
@@ -171,10 +171,10 @@
     "note": "官方频道（testo.com 社媒页指向 https://www.youtube.com/@Testolimited），页名 Testo UK，2026-10 仍在更新；原 @testoSE 落在 0 视频同名空频道，已弃用",
     "channel_id_resolved_at": "2026-10-29T09:02:23.159025+00:00",
     "last_video_published": "2026-10-01T13:00:13+00:00",
-    "last_ok": "2026-11-04T09:24:20.577131+00:00",
+    "last_ok": "2026-11-04T09:50:50.936414+00:00",
     "last_ok_source": "rss",
     "title_now": "Testo UK",
-    "title_checked_at": "2026-11-04T09:24:20.577131+00:00"
+    "title_checked_at": "2026-11-04T09:50:50.936414+00:00"
   },
   {
     "brand": "Druck 德鲁克",
@@ -195,10 +195,10 @@
     "note": "官方频道，5.69K 订阅，描述含官方 NASDAQ: BKR 表述，2026-07 仍在更新（2026-10-29 runner 验证）；原 @BakerHughes handle 落在 0 视频空频道，已弃用",
     "channel_id_resolved_at": "2026-10-29T09:02:23.159025+00:00",
     "last_video_published": "2026-07-28T15:15:08+00:00",
-    "last_ok": "2026-11-04T09:24:20.577131+00:00",
+    "last_ok": "2026-11-04T09:50:50.936414+00:00",
     "last_ok_source": "rss",
     "title_now": "Baker Hughes",
-    "title_checked_at": "2026-11-04T09:24:20.577131+00:00"
+    "title_checked_at": "2026-11-04T09:50:50.936414+00:00"
   },
   {
     "brand": "OMEGA Engineering（Fluke 旗下）",
@@ -210,10 +210,10 @@
     "note": "OMEGA Engineering 已并入 DwyerOmega（2023 合并），此为官方继任频道，22K 订阅，2026-10 仍更新（2026-10-29 runner 验证）；原 @omegaengineering handle 落在 0 视频空频道，已弃用",
     "channel_id_resolved_at": "2026-10-29T09:02:23.159025+00:00",
     "last_video_published": "2026-10-13T14:57:09+00:00",
-    "last_ok": "2026-11-04T09:24:20.577131+00:00",
+    "last_ok": "2026-11-04T09:50:50.936414+00:00",
     "last_ok_source": "rss",
     "title_now": "DwyerOmega",
-    "title_checked_at": "2026-11-04T09:24:20.577131+00:00"
+    "title_checked_at": "2026-11-04T09:50:50.936414+00:00"
   },
   {
     "brand": "Testo 德图",
@@ -225,9 +225,9 @@
     "note": "Testo 美国官方频道，5.78K 订阅，官方描述含 Testo 全球测试测量定位，2026-10 仍在更新（2026-10-29 runner 验证）；与 Testo UK 并行监控以覆盖美国市场",
     "channel_id_resolved_at": "2026-10-29T09:02:23.159025+00:00",
     "last_video_published": "2026-10-29T17:24:17+00:00",
-    "last_ok": "2026-11-04T09:24:20.577131+00:00",
+    "last_ok": "2026-11-04T09:50:50.936414+00:00",
     "last_ok_source": "rss",
     "title_now": "Testo USA",
-    "title_checked_at": "2026-11-04T09:24:20.577131+00:00"
+    "title_checked_at": "2026-11-04T09:50:50.936414+00:00"
   }
 ]
