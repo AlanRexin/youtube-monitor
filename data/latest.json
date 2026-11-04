@@ -1,8 +1,8 @@
 {
-  "run_time": "2026-11-03T04:12:38.731373+00:00",
-  "run_time_sh": "2026-11-03 12:12",
-  "window_start": "2026-11-02T01:54:29.276432+00:00",
-  "window_start_sh": "2026-11-02 09:54",
+  "run_time": "2026-11-04T03:30:01.781826+00:00",
+  "run_time_sh": "2026-11-04 11:30",
+  "window_start": "2026-11-03T02:30:01.781826+00:00",
+  "window_start_sh": "2026-11-03 10:30",
   "channels_enabled": 15,
   "new_count": 0,
   "videos": [],
@@ -15,7 +15,7 @@
     {
       "brand": "Fluke 福禄克",
       "key": "FlukeEurope",
-      "error": "HTTPError: HTTP Error 500: Internal Server Error"
+      "error": "HTTPError: HTTP Error 404: Not Found"
     },
     {
       "brand": "Fluke Calibration 福禄克校准",
@@ -40,7 +40,7 @@
     {
       "brand": "WIKA 威卡",
       "key": "UCXEmS3f1nSRqbqpZeU_tlgw",
-      "error": "HTTPError: HTTP Error 404: Not Found"
+      "error": "HTTPError: HTTP Error 500: Internal Server Error"
     },
     {
       "brand": "Mensor（WIKA 校准品牌）",
@@ -75,7 +75,7 @@
     {
       "brand": "OMEGA Engineering（Fluke 旗下）",
       "key": "UC9bRLkDgDpxM9JdluFlW3Eg",
-      "error": "HTTPError: HTTP Error 500: Internal Server Error"
+      "error": "HTTPError: HTTP Error 404: Not Found"
     },
     {
       "brand": "Testo 德图",
