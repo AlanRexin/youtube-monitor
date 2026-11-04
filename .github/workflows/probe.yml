@@ -16,11 +16,11 @@ jobs:
         with:
           python-version: "3.12"
       - name: Probe channel identities
-        run: python probe.py
+        run: python probe2.py
       - name: Commit probe result
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add data/probe.json
-          git commit -m "chore: 频道身份探测结果" || echo "no change"
+          git add data/probe2.json
+          git commit -m "chore: 频道身份探测结果 round2" || echo "no change"
           git push
