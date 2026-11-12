@@ -1,15 +1,28 @@
 {
-  "run_time": "2026-11-11T03:21:31.783540+00:00",
-  "run_time_sh": "2026-11-11 11:21",
-  "window_start_sh": "2026-11-05 10:53",
+  "run_time": "2026-11-12T02:21:16.873082+00:00",
+  "run_time_sh": "2026-11-12 10:21",
+  "window_start_sh": "2026-11-11 09:21",
   "channels_enabled": 15,
   "channels_ok": 15,
   "runner_count": 2,
-  "new_count": 291,
-  "fresh_count": 291,
-  "carry_count": 0,
-  "report_at_sh": "2026-11-11 09:00",
+  "new_count": 292,
+  "fresh_count": 1,
+  "carry_count": 291,
+  "report_at_sh": "2026-11-12 09:00",
   "videos": [
+    {
+      "video_id": "I1hpNPQMPDU",
+      "brand": "Fluke 福禄克",
+      "channel": "Fluke Corporation",
+      "channel_id": "UCR7ecClA4Ul6SDWFySBBLlQ",
+      "title": "Honoring Our Veterans | A Legacy of Service at Fluke | Veterans Day 2026",
+      "url": "https://www.youtube.com/watch?v=I1hpNPQMPDU",
+      "views": "148",
+      "source": "rss",
+      "published_sh": "2026-11-12 01:13",
+      "published_approx": false,
+      "carry": false
+    },
     {
       "video_id": "9q78ZzNoTfs",
       "brand": "Fluke 福禄克",
@@ -21,7 +34,8 @@
       "source": "innertube",
       "published_sh": "2026-05-13 15:47",
       "published_approx": true,
-      "carry": false
+      "carry": true,
+      "first_seen_run": "2026-11-11T03:21:31.783540+00:00"
     },
     {
       "video_id": "Xqk3nQrT6m8",
@@ -34,7 +48,8 @@
       "source": "innertube",
       "published_sh": "2026-05-13 15:47",
       "published_approx": true,
-      "carry": false
+      "carry": true,
+      "first_seen_run": "2026-11-11T03:21:31.783540+00:00"
     },
     {
       "video_id": "IS2KI_cbU2I",
@@ -47,7 +62,8 @@
       "source": "innertube",
       "published_sh": "2026-05-13 15:47",
       "published_approx": true,
-      "carry": false
+      "carry": true,
+      "first_seen_run": "2026-11-11T03:21:31.783540+00:00"
     },
     {
       "video_id": "FRYvCD8b1Wc",
@@ -60,7 +76,8 @@
       "source": "innertube",
       "published_sh": "2026-05-13 15:47",
       "published_approx": true,
-      "carry": false
+      "carry": true,
+      "first_seen_run": "2026-11-11T03:21:31.783540+00:00"
     },
     {
       "video_id": "LZnEJ24IoPY",
@@ -73,7 +90,8 @@
       "source": "innertube",
       "published_sh": "2026-05-13 15:47",
       "published_approx": true,
-      "carry": false
+      "carry": true,
+      "first_seen_run": "2026-11-11T03:21:31.783540+00:00"
     },
     {
       "video_id": "Puxzr2dHvt8",
@@ -86,7 +104,8 @@
       "source": "innertube",
       "published_sh": "2026-05-13 15:47",
       "published_approx": true,
-      "carry": false
+      "carry": true,
+      "first_seen_run": "2026-11-11T03:21:31.783540+00:00"
     },
     {
       "video_id": "aRl8Lo6xH3s",
@@ -99,7 +118,8 @@
       "source": "innertube",
       "published_sh": "2026-05-13 15:47",
       "published_approx": true,
-      "carry": false
+      "carry": true,
+      "first_seen_run": "2026-11-11T03:21:31.783540+00:00"
     },
     {
       "video_id": "0eG3krYltqw",
@@ -112,7 +132,8 @@
       "source": "innertube",
       "published_sh": "2026-05-13 15:47",
       "published_approx": true,
-      "carry": false
+      "carry": true,
+      "first_seen_run": "2026-11-11T03:21:31.783540+00:00"
     },
     {
       "video_id": "OrlpgX_1y3o",
@@ -125,7 +146,8 @@
       "source": "innertube",
       "published_sh": "2026-05-13 15:47",
       "published_approx": true,
-      "carry": false
+      "carry": true,
+      "first_seen_run": "2026-11-11T03:21:31.783540+00:00"
     },
     {
       "video_id": "gYJSinW48tA",
@@ -138,7 +160,8 @@
       "source": "innertube",
       "published_sh": "2026-05-13 15:47",
       "published_approx": true,
-      "carry": false
+      "carry": true,
+      "first_seen_run": "2026-11-11T03:21:31.783540+00:00"
     },
     {
       "video_id": "PQTEYCPvkEc",
@@ -151,7 +174,8 @@
       "source": "innertube",
       "published_sh": "2026-05-13 15:47",
       "published_approx": true,
-      "carry": false
+      "carry": true,
+      "first_seen_run": "2026-11-11T03:21:31.783540+00:00"
     },
     {
       "video_id": "9GVmqYmSz6w",
@@ -164,7 +188,8 @@
       "source": "innertube",
       "published_sh": "2026-05-13 15:47",
       "published_approx": true,
-      "carry": false
+      "carry": true,
+      "first_seen_run": "2026-11-11T03:21:31.783540+00:00"
     },
     {
       "video_id": "gIPGRHa6rIk",
@@ -177,7 +202,8 @@
       "source": "innertube",
       "published_sh": "2026-05-13 15:47",
       "published_approx": true,
-      "carry": false
+      "carry": true,
+      "first_seen_run": "2026-11-11T03:21:31.783540+00:00"
     },
     {
       "video_id": "GDyXYOESNQI",
@@ -190,7 +216,8 @@
       "source": "innertube",
       "published_sh": "2026-05-13 15:47",
       "published_approx": true,
-      "carry": false
+      "carry": true,
+      "first_seen_run": "2026-11-11T03:21:31.783540+00:00"
     },
     {
       "video_id": "jszXOwB7wnA",
@@ -203,7 +230,8 @@
       "source": "innertube",
       "published_sh": "2026-05-13 15:47",
       "published_approx": true,
-      "carry": false
+      "carry": true,
+      "first_seen_run": "2026-11-11T03:21:31.783540+00:00"
     },
     {
       "video_id": "Mb_Zgs5ww_4",
@@ -216,7 +244,8 @@
       "source": "innertube",
       "published_sh": "2026-05-13 15:47",
       "published_approx": true,
-      "carry": false
+      "carry": true,
+      "first_seen_run": "2026-11-11T03:21:31.783540+00:00"
     },
     {
       "video_id": "AjeY8q3UPeA",
@@ -229,7 +258,8 @@
       "source": "innertube",
       "published_sh": "2026-05-13 15:47",
       "published_approx": true,
-      "carry": false
+      "carry": true,
+      "first_seen_run": "2026-11-11T03:21:31.783540+00:00"
     },
     {
       "video_id": "-4PJwHOg-YI",
@@ -242,7 +272,8 @@
       "source": "innertube",
       "published_sh": "2026-05-13 15:47",
       "published_approx": true,
-      "carry": false
+      "carry": true,
+      "first_seen_run": "2026-11-11T03:21:31.783540+00:00"
     },
     {
       "video_id": "jyXaZSUzhYc",
@@ -255,7 +286,8 @@
       "source": "innertube",
       "published_sh": "2026-05-13 15:47",
       "published_approx": true,
-      "carry": false
+      "carry": true,
+      "first_seen_run": "2026-11-11T03:21:31.783540+00:00"
     },
     {
       "video_id": "Zs5uQt8Hb64",
@@ -268,7 +300,8 @@
       "source": "innertube",
       "published_sh": "2026-05-13 15:47",
       "published_approx": true,
-      "carry": false
+      "carry": true,
+      "first_seen_run": "2026-11-11T03:21:31.783540+00:00"
     },
     {
       "video_id": "YP4Y_oKJ--s",
@@ -281,7 +314,8 @@
       "source": "innertube",
       "published_sh": "2026-05-13 15:47",
       "published_approx": true,
-      "carry": false
+      "carry": true,
+      "first_seen_run": "2026-11-11T03:21:31.783540+00:00"
     },
     {
       "video_id": "Yht17S5rwBA",
@@ -294,7 +328,8 @@
       "source": "innertube",
       "published_sh": "2026-05-13 15:47",
       "published_approx": true,
-      "carry": false
+      "carry": true,
+      "first_seen_run": "2026-11-11T03:21:31.783540+00:00"
     },
     {
       "video_id": "dqyNsRYf6UI",
@@ -307,7 +342,8 @@
       "source": "innertube",
       "published_sh": "2026-05-13 15:47",
       "published_approx": true,
-      "carry": false
+      "carry": true,
+      "first_seen_run": "2026-11-11T03:21:31.783540+00:00"
     },
     {
       "video_id": "gOdQ40O_s_U",
@@ -320,7 +356,8 @@
       "source": "innertube",
       "published_sh": "2026-05-13 15:47",
       "published_approx": true,
-      "carry": false
+      "carry": true,
+      "first_seen_run": "2026-11-11T03:21:31.783540+00:00"
     },
     {
       "video_id": "9AehRLLUgfg",
@@ -333,7 +370,8 @@
       "source": "innertube",
       "published_sh": "2026-05-13 15:47",
       "published_approx": true,
-      "carry": false
+      "carry": true,
+      "first_seen_run": "2026-11-11T03:21:31.783540+00:00"
     },
     {
       "video_id": "PG0kWc0Rc-g",
@@ -346,7 +384,8 @@
       "source": "innertube",
       "published_sh": "2026-05-13 15:47",
       "published_approx": true,
-      "carry": false
+      "carry": true,
+      "first_seen_run": "2026-11-11T03:21:31.783540+00:00"
     },
     {
       "video_id": "CsVSbLMMGes",
@@ -359,7 +398,8 @@
       "source": "innertube",
       "published_sh": "2026-05-13 15:47",
       "published_approx": true,
-      "carry": false
+      "carry": true,
+      "first_seen_run": "2026-11-11T03:21:31.783540+00:00"
     },
     {
       "video_id": "MS1un9I4SLQ",
@@ -372,7 +412,8 @@
       "source": "innertube",
       "published_sh": "2026-05-13 15:47",
       "published_approx": true,
-      "carry": false
+      "carry": true,
+      "first_seen_run": "2026-11-11T03:21:31.783540+00:00"
     },
     {
       "video_id": "H7rx92JNUrg",
@@ -385,7 +426,8 @@
       "source": "innertube",
       "published_sh": "2026-05-13 15:47",
       "published_approx": true,
-      "carry": false
+      "carry": true,
+      "first_seen_run": "2026-11-11T03:21:31.783540+00:00"
     },
     {
       "video_id": "NxLc4OQcv8o",
@@ -398,7 +440,8 @@
       "source": "innertube",
       "published_sh": "2026-05-13 15:47",
       "published_approx": true,
-      "carry": false
+      "carry": true,
+      "first_seen_run": "2026-11-11T03:21:31.783540+00:00"
     },
     {
       "video_id": "RYNTZ8AfWEU",
@@ -411,7 +454,8 @@
       "source": "innertube",
       "published_sh": "2026-05-13 15:47",
       "published_approx": true,
-      "carry": false
+      "carry": true,
+      "first_seen_run": "2026-11-11T03:21:31.783540+00:00"
     },
     {
       "video_id": "_Hs1CRTBDjg",
@@ -424,7 +468,8 @@
       "source": "innertube",
       "published_sh": "2026-05-13 15:47",
       "published_approx": true,
-      "carry": false
+      "carry": true,
+      "first_seen_run": "2026-11-11T03:21:31.783540+00:00"
     },
     {
       "video_id": "Y66jnh0K76g",
@@ -437,7 +482,8 @@
       "source": "innertube",
       "published_sh": "2026-05-13 15:47",
       "published_approx": true,
-      "carry": false
+      "carry": true,
+      "first_seen_run": "2026-11-11T03:21:31.783540+00:00"
     },
     {
       "video_id": "VZRZZP24l6Y",
@@ -450,7 +496,8 @@
       "source": "innertube",
       "published_sh": "2026-05-13 15:47",
       "published_approx": true,
-      "carry": false
+      "carry": true,
+      "first_seen_run": "2026-11-11T03:21:31.783540+00:00"
     },
     {
       "video_id": "Q6SnuAQG6Wc",
@@ -463,7 +510,8 @@
       "source": "innertube",
       "published_sh": "2026-05-13 15:47",
       "published_approx": true,
-      "carry": false
+      "carry": true,
+      "first_seen_run": "2026-11-11T03:21:31.783540+00:00"
     },
     {
       "video_id": "DILtMzIYGBU",
@@ -476,7 +524,8 @@
       "source": "innertube",
       "published_sh": "2026-05-13 15:47",
       "published_approx": true,
-      "carry": false
+      "carry": true,
+      "first_seen_run": "2026-11-11T03:21:31.783540+00:00"
     },
     {
       "video_id": "Jl-AXeDpbKs",
@@ -489,7 +538,8 @@
       "source": "innertube",
       "published_sh": "2026-05-13 15:47",
       "published_approx": true,
-      "carry": false
+      "carry": true,
+      "first_seen_run": "2026-11-11T03:21:31.783540+00:00"
     },
     {
       "video_id": "Ov8SYTG3VZ4",
@@ -502,7 +552,8 @@
       "source": "innertube",
       "published_sh": "2026-05-13 15:47",
       "published_approx": true,
-      "carry": false
+      "carry": true,
+      "first_seen_run": "2026-11-11T03:21:31.783540+00:00"
     },
     {
       "video_id": "5aoKezlH3lo",
@@ -515,7 +566,8 @@
       "source": "innertube",
       "published_sh": "2026-05-13 15:47",
       "published_approx": true,
-      "carry": false
+      "carry": true,
+      "first_seen_run": "2026-11-11T03:21:31.783540+00:00"
     },
     {
       "video_id": "MgE01gSAG_U",
@@ -528,7 +580,8 @@
       "source": "innertube",
       "published_sh": "2026-05-13 15:47",
       "published_approx": true,
-      "carry": false
+      "carry": true,
+      "first_seen_run": "2026-11-11T03:21:31.783540+00:00"
     },
     {
       "video_id": "SNAHM7R8vY8",
@@ -541,7 +594,8 @@
       "source": "innertube",
       "published_sh": "2026-05-13 15:47",
       "published_approx": true,
-      "carry": false
+      "carry": true,
+      "first_seen_run": "2026-11-11T03:21:31.783540+00:00"
     },
     {
       "video_id": "7nDx7veTuek",
@@ -554,7 +608,8 @@
       "source": "innertube",
       "published_sh": "2026-05-13 15:47",
       "published_approx": true,
-      "carry": false
+      "carry": true,
+      "first_seen_run": "2026-11-11T03:21:31.783540+00:00"
     },
     {
       "video_id": "LwgMrNh7O0w",
@@ -567,7 +622,8 @@
       "source": "innertube",
       "published_sh": "2026-05-13 15:47",
       "published_approx": true,
-      "carry": false
+      "carry": true,
+      "first_seen_run": "2026-11-11T03:21:31.783540+00:00"
     },
     {
       "video_id": "-Yz5ptx62t4",
@@ -580,7 +636,8 @@
       "source": "innertube",
       "published_sh": "2026-05-13 15:47",
       "published_approx": true,
-      "carry": false
+      "carry": true,
+      "first_seen_run": "2026-11-11T03:21:31.783540+00:00"
     },
     {
       "video_id": "HzL0k60eDmU",
@@ -593,7 +650,8 @@
       "source": "innertube",
       "published_sh": "2026-05-13 15:47",
       "published_approx": true,
-      "carry": false
+      "carry": true,
+      "first_seen_run": "2026-11-11T03:21:31.783540+00:00"
     },
     {
       "video_id": "I6Bhfgq4gOA",
@@ -606,7 +664,8 @@
       "source": "innertube",
       "published_sh": "2026-05-13 15:47",
       "published_approx": true,
-      "carry": false
+      "carry": true,
+      "first_seen_run": "2026-11-11T03:21:31.783540+00:00"
     },
     {
       "video_id": "tEl6rnBMHCM",
@@ -619,7 +678,8 @@
       "source": "innertube",
       "published_sh": "2026-05-13 15:47",
       "published_approx": true,
-      "carry": false
+      "carry": true,
+      "first_seen_run": "2026-11-11T03:21:31.783540+00:00"
     },
     {
       "video_id": "LvP1MQX1aeY",
@@ -632,7 +692,8 @@
       "source": "innertube",
       "published_sh": "2026-05-13 15:47",
       "published_approx": true,
-      "carry": false
+      "carry": true,
+      "first_seen_run": "2026-11-11T03:21:31.783540+00:00"
     },
     {
       "video_id": "ACBsPlNnkCw",
@@ -645,7 +706,8 @@
       "source": "innertube",
       "published_sh": "2026-05-13 15:47",
       "published_approx": true,
-      "carry": false
+      "carry": true,
+      "first_seen_run": "2026-11-11T03:21:31.783540+00:00"
     },
     {
       "video_id": "wWTF46L-fMw",
@@ -658,7 +720,8 @@
       "source": "innertube",
       "published_sh": "2026-05-13 15:47",
       "published_approx": true,
-      "carry": false
+      "carry": true,
+      "first_seen_run": "2026-11-11T03:21:31.783540+00:00"
     },
     {
       "video_id": "3rvhjEFXCpo",
@@ -671,7 +734,8 @@
       "source": "innertube",
       "published_sh": "2026-05-13 15:47",
       "published_approx": true,
-      "carry": false
+      "carry": true,
+      "first_seen_run": "2026-11-11T03:21:31.783540+00:00"
     },
     {
       "video_id": "h4gYtsNnjTQ",
@@ -684,7 +748,8 @@
       "source": "innertube",
       "published_sh": "2026-05-13 15:47",
       "published_approx": true,
-      "carry": false
+      "carry": true,
+      "first_seen_run": "2026-11-11T03:21:31.783540+00:00"
     },
     {
       "video_id": "fp1nPF5y9oE",
@@ -697,7 +762,8 @@
       "source": "innertube",
       "published_sh": "2026-05-13 15:47",
       "published_approx": true,
-      "carry": false
+      "carry": true,
+      "first_seen_run": "2026-11-11T03:21:31.783540+00:00"
     },
     {
       "video_id": "YazgRGkUodw",
@@ -710,7 +776,8 @@
       "source": "innertube",
       "published_sh": "2026-05-13 15:47",
       "published_approx": true,
-      "carry": false
+      "carry": true,
+      "first_seen_run": "2026-11-11T03:21:31.783540+00:00"
     },
     {
       "video_id": "9pVRwrAYCzc",
@@ -723,7 +790,8 @@
       "source": "innertube",
       "published_sh": "2026-05-13 15:47",
       "published_approx": true,
-      "carry": false
+      "carry": true,
+      "first_seen_run": "2026-11-11T03:21:31.783540+00:00"
     },
     {
       "video_id": "tnLmFf1cRMM",
@@ -736,7 +804,8 @@
       "source": "innertube",
       "published_sh": "2026-05-13 15:47",
       "published_approx": true,
-      "carry": false
+      "carry": true,
+      "first_seen_run": "2026-11-11T03:21:31.783540+00:00"
     },
     {
       "video_id": "p9BpicGOY90",
@@ -749,7 +818,8 @@
       "source": "innertube",
       "published_sh": "2026-05-13 15:47",
       "published_approx": true,
-      "carry": false
+      "carry": true,
+      "first_seen_run": "2026-11-11T03:21:31.783540+00:00"
     },
     {
       "video_id": "c59CTraP3js",
@@ -762,7 +832,8 @@
       "source": "innertube",
       "published_sh": "2026-05-13 15:47",
       "published_approx": true,
-      "carry": false
+      "carry": true,
+      "first_seen_run": "2026-11-11T03:21:31.783540+00:00"
     },
     {
       "video_id": "0O20i3_ChxU",
@@ -775,7 +846,8 @@
       "source": "innertube",
       "published_sh": "2026-05-13 15:47",
       "published_approx": true,
-      "carry": false
+      "carry": true,
+      "first_seen_run": "2026-11-11T03:21:31.783540+00:00"
     },
     {
       "video_id": "VRF3NVTl438",
@@ -788,7 +860,8 @@
       "source": "innertube",
       "published_sh": "2026-05-13 15:47",
       "published_approx": true,
-      "carry": false
+      "carry": true,
+      "first_seen_run": "2026-11-11T03:21:31.783540+00:00"
     },
     {
       "video_id": "zcfvKkR_Z-Y",
@@ -801,7 +874,8 @@
       "source": "innertube",
       "published_sh": "2026-05-13 15:47",
       "published_approx": true,
-      "carry": false
+      "carry": true,
+      "first_seen_run": "2026-11-11T03:21:31.783540+00:00"
     },
     {
       "video_id": "rtia9WYsDrA",
@@ -814,7 +888,8 @@
       "source": "innertube",
       "published_sh": "2026-05-13 15:47",
       "published_approx": true,
-      "carry": false
+      "carry": true,
+      "first_seen_run": "2026-11-11T03:21:31.783540+00:00"
     },
     {
       "video_id": "oG-pQDy7uls",
@@ -827,7 +902,8 @@
       "source": "innertube",
       "published_sh": "2026-05-13 15:47",
       "published_approx": true,
-      "carry": false
+      "carry": true,
+      "first_seen_run": "2026-11-11T03:21:31.783540+00:00"
     },
     {
       "video_id": "oFqfRG7LQjI",
@@ -840,7 +916,8 @@
       "source": "innertube",
       "published_sh": "2026-05-13 15:47",
       "published_approx": true,
-      "carry": false
+      "carry": true,
+      "first_seen_run": "2026-11-11T03:21:31.783540+00:00"
     },
     {
       "video_id": "jhG64DH56t4",
@@ -853,7 +930,8 @@
       "source": "innertube",
       "published_sh": "2026-05-13 15:47",
       "published_approx": true,
-      "carry": false
+      "carry": true,
+      "first_seen_run": "2026-11-11T03:21:31.783540+00:00"
     },
     {
       "video_id": "flOL8dZsP2M",
@@ -866,7 +944,8 @@
       "source": "innertube",
       "published_sh": "2026-05-13 15:47",
       "published_approx": true,
-      "carry": false
+      "carry": true,
+      "first_seen_run": "2026-11-11T03:21:31.783540+00:00"
     },
     {
       "video_id": "afNRXB2XSxM",
@@ -879,7 +958,8 @@
       "source": "innertube",
       "published_sh": "2026-05-13 15:47",
       "published_approx": true,
-      "carry": false
+      "carry": true,
+      "first_seen_run": "2026-11-11T03:21:31.783540+00:00"
     },
     {
       "video_id": "2oiw9Z0E-jw",
@@ -892,7 +972,8 @@
       "source": "innertube",
       "published_sh": "2026-05-13 15:47",
       "published_approx": true,
-      "carry": false
+      "carry": true,
+      "first_seen_run": "2026-11-11T03:21:31.783540+00:00"
     },
     {
       "video_id": "chJMn--eHHU",
@@ -905,7 +986,8 @@
       "source": "innertube",
       "published_sh": "2026-05-13 15:47",
       "published_approx": true,
-      "carry": false
+      "carry": true,
+      "first_seen_run": "2026-11-11T03:21:31.783540+00:00"
     },
     {
       "video_id": "JM7yBcPRY-4",
@@ -918,7 +1000,8 @@
       "source": "innertube",
       "published_sh": "2026-05-13 15:47",
       "published_approx": true,
-      "carry": false
+      "carry": true,
+      "first_seen_run": "2026-11-11T03:21:31.783540+00:00"
     },
     {
       "video_id": "bEl3NOj-3cY",
@@ -931,7 +1014,8 @@
       "source": "innertube",
       "published_sh": "2026-05-13 15:47",
       "published_approx": true,
-      "carry": false
+      "carry": true,
+      "first_seen_run": "2026-11-11T03:21:31.783540+00:00"
     },
     {
       "video_id": "BXAMvlqdvX4",
@@ -944,7 +1028,8 @@
       "source": "innertube",
       "published_sh": "2026-05-13 15:47",
       "published_approx": true,
-      "carry": false
+      "carry": true,
+      "first_seen_run": "2026-11-11T03:21:31.783540+00:00"
     },
     {
       "video_id": "Cx_zVpYUkKc",
@@ -957,7 +1042,8 @@
       "source": "innertube",
       "published_sh": "2026-05-13 15:47",
       "published_approx": true,
-      "carry": false
+      "carry": true,
+      "first_seen_run": "2026-11-11T03:21:31.783540+00:00"
     },
     {
       "video_id": "T1YlIEwosuE",
@@ -970,7 +1056,8 @@
       "source": "innertube",
       "published_sh": "2026-05-13 15:47",
       "published_approx": true,
-      "carry": false
+      "carry": true,
+      "first_seen_run": "2026-11-11T03:21:31.783540+00:00"
     },
     {
       "video_id": "Ln7QEpx28_E",
@@ -983,7 +1070,8 @@
       "source": "innertube",
       "published_sh": "2026-05-13 15:47",
       "published_approx": true,
-      "carry": false
+      "carry": true,
+      "first_seen_run": "2026-11-11T03:21:31.783540+00:00"
     },
     {
       "video_id": "kwyKHFD96pg",
@@ -996,7 +1084,8 @@
       "source": "innertube",
       "published_sh": "2026-05-13 15:47",
       "published_approx": true,
-      "carry": false
+      "carry": true,
+      "first_seen_run": "2026-11-11T03:21:31.783540+00:00"
     },
     {
       "video_id": "0cu2bT6fdZY",
@@ -1009,7 +1098,8 @@
       "source": "innertube",
       "published_sh": "2026-05-13 15:47",
       "published_approx": true,
-      "carry": false
+      "carry": true,
+      "first_seen_run": "2026-11-11T03:21:31.783540+00:00"
     },
     {
       "video_id": "j1LDCQzeiF8",
@@ -1022,7 +1112,8 @@
       "source": "innertube",
       "published_sh": "2026-05-13 15:47",
       "published_approx": true,
-      "carry": false
+      "carry": true,
+      "first_seen_run": "2026-11-11T03:21:31.783540+00:00"
     },
     {
       "video_id": "M1Sed3gLl3k",
@@ -1035,7 +1126,8 @@
       "source": "innertube",
       "published_sh": "2026-05-13 15:47",
       "published_approx": true,
-      "carry": false
+      "carry": true,
+      "first_seen_run": "2026-11-11T03:21:31.783540+00:00"
     },
     {
       "video_id": "_w-84sWywBE",
@@ -1048,7 +1140,8 @@
       "source": "innertube",
       "published_sh": "2026-05-13 15:47",
       "published_approx": true,
-      "carry": false
+      "carry": true,
+      "first_seen_run": "2026-11-11T03:21:31.783540+00:00"
     },
     {
       "video_id": "A7XsZdGQyYA",
@@ -1061,7 +1154,8 @@
       "source": "innertube",
       "published_sh": "2026-05-13 15:47",
       "published_approx": true,
-      "carry": false
+      "carry": true,
+      "first_seen_run": "2026-11-11T03:21:31.783540+00:00"
     },
     {
       "video_id": "GWnH9JJJbgU",
@@ -1074,7 +1168,8 @@
       "source": "innertube",
       "published_sh": "2026-05-13 15:47",
       "published_approx": true,
-      "carry": false
+      "carry": true,
+      "first_seen_run": "2026-11-11T03:21:31.783540+00:00"
     },
     {
       "video_id": "1IKskBmuPFU",
@@ -1087,7 +1182,8 @@
       "source": "innertube",
       "published_sh": "2026-05-13 15:47",
       "published_approx": true,
-      "carry": false
+      "carry": true,
+      "first_seen_run": "2026-11-11T03:21:31.783540+00:00"
     },
     {
       "video_id": "NfoaVffi8r0",
@@ -1100,7 +1196,8 @@
       "source": "innertube",
       "published_sh": "2026-05-13 15:47",
       "published_approx": true,
-      "carry": false
+      "carry": true,
+      "first_seen_run": "2026-11-11T03:21:31.783540+00:00"
     },
     {
       "video_id": "3uBxa-X-U-E",
@@ -1113,7 +1210,8 @@
       "source": "innertube",
       "published_sh": "2026-05-13 15:47",
       "published_approx": true,
-      "carry": false
+      "carry": true,
+      "first_seen_run": "2026-11-11T03:21:31.783540+00:00"
     },
     {
       "video_id": "nv7R0MnZsBE",
@@ -1126,7 +1224,8 @@
       "source": "innertube",
       "published_sh": "2026-05-13 15:47",
       "published_approx": true,
-      "carry": false
+      "carry": true,
+      "first_seen_run": "2026-11-11T03:21:31.783540+00:00"
     },
     {
       "video_id": "p9QFv97JAIE",
@@ -1139,7 +1238,8 @@
       "source": "innertube",
       "published_sh": "2026-05-13 15:47",
       "published_approx": true,
-      "carry": false
+      "carry": true,
+      "first_seen_run": "2026-11-11T03:21:31.783540+00:00"
     },
     {
       "video_id": "_zl7CJ2zy-8",
@@ -1152,7 +1252,8 @@
       "source": "innertube",
       "published_sh": "2026-05-13 15:47",
       "published_approx": true,
-      "carry": false
+      "carry": true,
+      "first_seen_run": "2026-11-11T03:21:31.783540+00:00"
     },
     {
       "video_id": "uz4kFpXjYjo",
@@ -1165,7 +1266,8 @@
       "source": "innertube",
       "published_sh": "2026-05-13 15:47",
       "published_approx": true,
-      "carry": false
+      "carry": true,
+      "first_seen_run": "2026-11-11T03:21:31.783540+00:00"
     },
     {
       "video_id": "_MRLFTOyXBY",
@@ -1178,7 +1280,8 @@
       "source": "innertube",
       "published_sh": "2026-05-13 15:47",
       "published_approx": true,
-      "carry": false
+      "carry": true,
+      "first_seen_run": "2026-11-11T03:21:31.783540+00:00"
     },
     {
       "video_id": "VfFZWL2Byg0",
@@ -1191,7 +1294,8 @@
       "source": "innertube",
       "published_sh": "2026-05-13 15:47",
       "published_approx": true,
-      "carry": false
+      "carry": true,
+      "first_seen_run": "2026-11-11T03:21:31.783540+00:00"
     },
     {
       "video_id": "2cXX-VT_lE0",
@@ -1204,7 +1308,8 @@
       "source": "innertube",
       "published_sh": "2026-05-13 15:47",
       "published_approx": true,
-      "carry": false
+      "carry": true,
+      "first_seen_run": "2026-11-11T03:21:31.783540+00:00"
     },
     {
       "video_id": "1lW2ikPa3_s",
@@ -1217,7 +1322,8 @@
       "source": "innertube",
       "published_sh": "2026-05-13 15:47",
       "published_approx": true,
-      "carry": false
+      "carry": true,
+      "first_seen_run": "2026-11-11T03:21:31.783540+00:00"
     },
     {
       "video_id": "KigEiW1SUBY",
@@ -1230,7 +1336,8 @@
       "source": "innertube",
       "published_sh": "2026-05-13 15:47",
       "published_approx": true,
-      "carry": false
+      "carry": true,
+      "first_seen_run": "2026-11-11T03:21:31.783540+00:00"
     },
     {
       "video_id": "Nr0GrrfpGQE",
@@ -1243,7 +1350,8 @@
       "source": "innertube",
       "published_sh": "2026-05-13 15:47",
       "published_approx": true,
-      "carry": false
+      "carry": true,
+      "first_seen_run": "2026-11-11T03:21:31.783540+00:00"
     },
     {
       "video_id": "p0hHUcAoJpk",
@@ -1256,7 +1364,8 @@
       "source": "innertube",
       "published_sh": "2026-05-13 15:47",
       "published_approx": true,
-      "carry": false
+      "carry": true,
+      "first_seen_run": "2026-11-11T03:21:31.783540+00:00"
     },
     {
       "video_id": "pDShKfr9kW0",
@@ -1269,7 +1378,8 @@
       "source": "innertube",
       "published_sh": "2026-05-13 15:47",
       "published_approx": true,
-      "carry": false
+      "carry": true,
+      "first_seen_run": "2026-11-11T03:21:31.783540+00:00"
     },
     {
       "video_id": "mOCBBmNAZpY",
@@ -1282,7 +1392,8 @@
       "source": "innertube",
       "published_sh": "2026-05-13 15:47",
       "published_approx": true,
-      "carry": false
+      "carry": true,
+      "first_seen_run": "2026-11-11T03:21:31.783540+00:00"
     },
     {
       "video_id": "ln44cUvVHpE",
@@ -1295,7 +1406,8 @@
       "source": "innertube",
       "published_sh": "2026-05-13 15:47",
       "published_approx": true,
-      "carry": false
+      "carry": true,
+      "first_seen_run": "2026-11-11T03:21:31.783540+00:00"
     },
     {
       "video_id": "xBoSnRZTFeE",
@@ -1308,7 +1420,8 @@
       "source": "innertube",
       "published_sh": "2026-05-13 15:47",
       "published_approx": true,
-      "carry": false
+      "carry": true,
+      "first_seen_run": "2026-11-11T03:21:31.783540+00:00"
     },
     {
       "video_id": "XxFHJTiTSxs",
@@ -1321,7 +1434,8 @@
       "source": "innertube",
       "published_sh": "2026-05-13 15:47",
       "published_approx": true,
-      "carry": false
+      "carry": true,
+      "first_seen_run": "2026-11-11T03:21:31.783540+00:00"
     },
     {
       "video_id": "QsxZ1KJ-XV0",
@@ -1334,7 +1448,8 @@
       "source": "innertube",
       "published_sh": "2026-05-13 15:47",
       "published_approx": true,
-      "carry": false
+      "carry": true,
+      "first_seen_run": "2026-11-11T03:21:31.783540+00:00"
     },
     {
       "video_id": "f-z-91cR11E",
@@ -1347,7 +1462,8 @@
       "source": "innertube",
       "published_sh": "2026-05-13 15:47",
       "published_approx": true,
-      "carry": false
+      "carry": true,
+      "first_seen_run": "2026-11-11T03:21:31.783540+00:00"
     },
     {
       "video_id": "JH3_UzjJNpQ",
@@ -1360,7 +1476,8 @@
       "source": "innertube",
       "published_sh": "2026-05-13 15:47",
       "published_approx": true,
-      "carry": false
+      "carry": true,
+      "first_seen_run": "2026-11-11T03:21:31.783540+00:00"
     },
     {
       "video_id": "mirewAWlkfE",
@@ -1373,7 +1490,8 @@
       "source": "innertube",
       "published_sh": "2026-05-13 15:47",
       "published_approx": true,
-      "carry": false
+      "carry": true,
+      "first_seen_run": "2026-11-11T03:21:31.783540+00:00"
     },
     {
       "video_id": "FqN9A0vpvb0",
@@ -1386,7 +1504,8 @@
       "source": "innertube",
       "published_sh": "2026-05-13 15:47",
       "published_approx": true,
-      "carry": false
+      "carry": true,
+      "first_seen_run": "2026-11-11T03:21:31.783540+00:00"
     },
     {
       "video_id": "9t5_CK8z3sA",
@@ -1399,7 +1518,8 @@
       "source": "innertube",
       "published_sh": "2026-05-13 15:47",
       "published_approx": true,
-      "carry": false
+      "carry": true,
+      "first_seen_run": "2026-11-11T03:21:31.783540+00:00"
     },
     {
       "video_id": "EMBND4PflRE",
@@ -1412,7 +1532,8 @@
       "source": "innertube",
       "published_sh": "2026-05-13 15:47",
       "published_approx": true,
-      "carry": false
+      "carry": true,
+      "first_seen_run": "2026-11-11T03:21:31.783540+00:00"
     },
     {
       "video_id": "_ppX0uF-CBc",
@@ -1425,7 +1546,8 @@
       "source": "innertube",
       "published_sh": "2026-05-13 15:47",
       "published_approx": true,
-      "carry": false
+      "carry": true,
+      "first_seen_run": "2026-11-11T03:21:31.783540+00:00"
     },
     {
       "video_id": "8df7RFu4HgI",
@@ -1438,7 +1560,8 @@
       "source": "innertube",
       "published_sh": "2026-05-13 15:47",
       "published_approx": true,
-      "carry": false
+      "carry": true,
+      "first_seen_run": "2026-11-11T03:21:31.783540+00:00"
     },
     {
       "video_id": "NF2M9kKGcho",
@@ -1451,7 +1574,8 @@
       "source": "innertube",
       "published_sh": "2026-05-13 15:47",
       "published_approx": true,
-      "carry": false
+      "carry": true,
+      "first_seen_run": "2026-11-11T03:21:31.783540+00:00"
     },
     {
       "video_id": "sbJanuiv9EQ",
@@ -1464,7 +1588,8 @@
       "source": "innertube",
       "published_sh": "2026-05-13 15:47",
       "published_approx": true,
-      "carry": false
+      "carry": true,
+      "first_seen_run": "2026-11-11T03:21:31.783540+00:00"
     },
     {
       "video_id": "2RNX2gu3Chc",
@@ -1477,7 +1602,8 @@
       "source": "innertube",
       "published_sh": "2026-05-13 15:47",
       "published_approx": true,
-      "carry": false
+      "carry": true,
+      "first_seen_run": "2026-11-11T03:21:31.783540+00:00"
     },
     {
       "video_id": "xW_QyphNeNU",
@@ -1490,7 +1616,8 @@
       "source": "innertube",
       "published_sh": "2026-05-13 15:47",
       "published_approx": true,
-      "carry": false
+      "carry": true,
+      "first_seen_run": "2026-11-11T03:21:31.783540+00:00"
     },
     {
       "video_id": "oqSpA1SeqmI",
@@ -1503,7 +1630,8 @@
       "source": "innertube",
       "published_sh": "2026-05-13 15:47",
       "published_approx": true,
-      "carry": false
+      "carry": true,
+      "first_seen_run": "2026-11-11T03:21:31.783540+00:00"
     },
     {
       "video_id": "t4lcpNq41Dk",
@@ -1516,7 +1644,8 @@
       "source": "innertube",
       "published_sh": "2026-05-13 15:47",
       "published_approx": true,
-      "carry": false
+      "carry": true,
+      "first_seen_run": "2026-11-11T03:21:31.783540+00:00"
     },
     {
       "video_id": "iy6tunChFxU",
@@ -1529,7 +1658,8 @@
       "source": "innertube",
       "published_sh": "2026-05-13 15:47",
       "published_approx": true,
-      "carry": false
+      "carry": true,
+      "first_seen_run": "2026-11-11T03:21:31.783540+00:00"
     },
     {
       "video_id": "hW2saxSWnUM",
@@ -1542,7 +1672,8 @@
       "source": "innertube",
       "published_sh": "2026-05-13 15:47",
       "published_approx": true,
-      "carry": false
+      "carry": true,
+      "first_seen_run": "2026-11-11T03:21:31.783540+00:00"
     },
     {
       "video_id": "CnOKhJSDSuU",
@@ -1555,7 +1686,8 @@
       "source": "innertube",
       "published_sh": "2026-05-13 15:47",
       "published_approx": true,
-      "carry": false
+      "carry": true,
+      "first_seen_run": "2026-11-11T03:21:31.783540+00:00"
     },
     {
       "video_id": "iV56KMqxHRU",
@@ -1568,7 +1700,8 @@
       "source": "innertube",
       "published_sh": "2026-05-13 15:47",
       "published_approx": true,
-      "carry": false
+      "carry": true,
+      "first_seen_run": "2026-11-11T03:21:31.783540+00:00"
     },
     {
       "video_id": "A8yLieQVyeI",
@@ -1581,7 +1714,8 @@
       "source": "innertube",
       "published_sh": "2026-05-13 15:47",
       "published_approx": true,
-      "carry": false
+      "carry": true,
+      "first_seen_run": "2026-11-11T03:21:31.783540+00:00"
     },
     {
       "video_id": "zRkeOx2X8qE",
@@ -1594,7 +1728,8 @@
       "source": "innertube",
       "published_sh": "2026-05-13 15:47",
       "published_approx": true,
-      "carry": false
+      "carry": true,
+      "first_seen_run": "2026-11-11T03:21:31.783540+00:00"
     },
     {
       "video_id": "wGci9BdbI4E",
@@ -1607,7 +1742,8 @@
       "source": "innertube",
       "published_sh": "2026-05-13 15:47",
       "published_approx": true,
-      "carry": false
+      "carry": true,
+      "first_seen_run": "2026-11-11T03:21:31.783540+00:00"
     },
     {
       "video_id": "GMsBU1gVZEs",
@@ -1620,7 +1756,8 @@
       "source": "innertube",
       "published_sh": "2026-05-13 15:47",
       "published_approx": true,
-      "carry": false
+      "carry": true,
+      "first_seen_run": "2026-11-11T03:21:31.783540+00:00"
     },
     {
       "video_id": "xEaBpy26lc0",
@@ -1633,7 +1770,8 @@
       "source": "innertube",
       "published_sh": "2026-05-13 15:47",
       "published_approx": true,
-      "carry": false
+      "carry": true,
+      "first_seen_run": "2026-11-11T03:21:31.783540+00:00"
     },
     {
       "video_id": "lUq6ztD5pjA",
@@ -1646,7 +1784,8 @@
       "source": "innertube",
       "published_sh": "2026-05-13 15:47",
       "published_approx": true,
-      "carry": false
+      "carry": true,
+      "first_seen_run": "2026-11-11T03:21:31.783540+00:00"
     },
     {
       "video_id": "zAwdEYCjB5Y",
@@ -1659,7 +1798,8 @@
       "source": "innertube",
       "published_sh": "2026-05-13 15:47",
       "published_approx": true,
-      "carry": false
+      "carry": true,
+      "first_seen_run": "2026-11-11T03:21:31.783540+00:00"
     },
     {
       "video_id": "BUdOgaZJWpQ",
@@ -1672,7 +1812,8 @@
       "source": "innertube",
       "published_sh": "2026-05-13 15:47",
       "published_approx": true,
-      "carry": false
+      "carry": true,
+      "first_seen_run": "2026-11-11T03:21:31.783540+00:00"
     },
     {
       "video_id": "BPsUuJKT42c",
@@ -1685,7 +1826,8 @@
       "source": "innertube",
       "published_sh": "2026-05-13 15:47",
       "published_approx": true,
-      "carry": false
+      "carry": true,
+      "first_seen_run": "2026-11-11T03:21:31.783540+00:00"
     },
     {
       "video_id": "9SMEBgoPUOQ",
@@ -1698,7 +1840,8 @@
       "source": "innertube",
       "published_sh": "2026-05-13 15:47",
       "published_approx": true,
-      "carry": false
+      "carry": true,
+      "first_seen_run": "2026-11-11T03:21:31.783540+00:00"
     },
     {
       "video_id": "LhMqSHi1yk0",
@@ -1711,7 +1854,8 @@
       "source": "innertube",
       "published_sh": "2026-05-13 15:47",
       "published_approx": true,
-      "carry": false
+      "carry": true,
+      "first_seen_run": "2026-11-11T03:21:31.783540+00:00"
     },
     {
       "video_id": "B7QlVqsX20A",
@@ -1724,7 +1868,8 @@
       "source": "innertube",
       "published_sh": "2026-05-13 15:47",
       "published_approx": true,
-      "carry": false
+      "carry": true,
+      "first_seen_run": "2026-11-11T03:21:31.783540+00:00"
     },
     {
       "video_id": "FK6cp6wnFTg",
@@ -1737,7 +1882,8 @@
       "source": "innertube",
       "published_sh": "2026-05-13 15:47",
       "published_approx": true,
-      "carry": false
+      "carry": true,
+      "first_seen_run": "2026-11-11T03:21:31.783540+00:00"
     },
     {
       "video_id": "EEV4nhswQ9g",
@@ -1750,7 +1896,8 @@
       "source": "innertube",
       "published_sh": "2026-05-13 15:47",
       "published_approx": true,
-      "carry": false
+      "carry": true,
+      "first_seen_run": "2026-11-11T03:21:31.783540+00:00"
     },
     {
       "video_id": "SDn9AAu3JHw",
@@ -1763,7 +1910,8 @@
       "source": "innertube",
       "published_sh": "2026-05-13 15:47",
       "published_approx": true,
-      "carry": false
+      "carry": true,
+      "first_seen_run": "2026-11-11T03:21:31.783540+00:00"
     },
     {
       "video_id": "ZjPPI3GufW4",
@@ -1776,7 +1924,8 @@
       "source": "innertube",
       "published_sh": "2026-05-13 15:47",
       "published_approx": true,
-      "carry": false
+      "carry": true,
+      "first_seen_run": "2026-11-11T03:21:31.783540+00:00"
     },
     {
       "video_id": "z4fr-pQY_hA",
@@ -1789,7 +1938,8 @@
       "source": "innertube",
       "published_sh": "2026-05-13 15:47",
       "published_approx": true,
-      "carry": false
+      "carry": true,
+      "first_seen_run": "2026-11-11T03:21:31.783540+00:00"
     },
     {
       "video_id": "qH14puKPJ2A",
@@ -1802,7 +1952,8 @@
       "source": "innertube",
       "published_sh": "2026-05-13 15:47",
       "published_approx": true,
-      "carry": false
+      "carry": true,
+      "first_seen_run": "2026-11-11T03:21:31.783540+00:00"
     },
     {
       "video_id": "Go_L2-tIdMU",
@@ -1815,7 +1966,8 @@
       "source": "innertube",
       "published_sh": "2026-05-13 15:47",
       "published_approx": true,
-      "carry": false
+      "carry": true,
+      "first_seen_run": "2026-11-11T03:21:31.783540+00:00"
     },
     {
       "video_id": "NxkOVOF6qB4",
@@ -1828,7 +1980,8 @@
       "source": "innertube",
       "published_sh": "2026-05-13 15:47",
       "published_approx": true,
-      "carry": false
+      "carry": true,
+      "first_seen_run": "2026-11-11T03:21:31.783540+00:00"
     },
     {
       "video_id": "B0_crT0Udbg",
@@ -1841,7 +1994,8 @@
       "source": "innertube",
       "published_sh": "2026-05-13 15:47",
       "published_approx": true,
-      "carry": false
+      "carry": true,
+      "first_seen_run": "2026-11-11T03:21:31.783540+00:00"
     },
     {
       "video_id": "J-s9LkL9dX0",
@@ -1854,7 +2008,8 @@
       "source": "innertube",
       "published_sh": "2026-05-13 15:47",
       "published_approx": true,
-      "carry": false
+      "carry": true,
+      "first_seen_run": "2026-11-11T03:21:31.783540+00:00"
     },
     {
       "video_id": "mLCH7iQU024",
@@ -1867,7 +2022,8 @@
       "source": "innertube",
       "published_sh": "2026-05-13 15:47",
       "published_approx": true,
-      "carry": false
+      "carry": true,
+      "first_seen_run": "2026-11-11T03:21:31.783540+00:00"
     },
     {
       "video_id": "T6N4BG6unqI",
@@ -1880,7 +2036,8 @@
       "source": "innertube",
       "published_sh": "2026-05-13 15:47",
       "published_approx": true,
-      "carry": false
+      "carry": true,
+      "first_seen_run": "2026-11-11T03:21:31.783540+00:00"
     },
     {
       "video_id": "nxry7CLUz64",
@@ -1893,7 +2050,8 @@
       "source": "innertube",
       "published_sh": "2026-05-13 15:47",
       "published_approx": true,
-      "carry": false
+      "carry": true,
+      "first_seen_run": "2026-11-11T03:21:31.783540+00:00"
     },
     {
       "video_id": "ydvjLqZ3Mbs",
@@ -1906,7 +2064,8 @@
       "source": "innertube",
       "published_sh": "2026-05-13 15:47",
       "published_approx": true,
-      "carry": false
+      "carry": true,
+      "first_seen_run": "2026-11-11T03:21:31.783540+00:00"
     },
     {
       "video_id": "ekR2Z11Uc4c",
@@ -1919,7 +2078,8 @@
       "source": "innertube",
       "published_sh": "2026-05-06 22:30",
       "published_approx": true,
-      "carry": false
+      "carry": true,
+      "first_seen_run": "2026-11-11T03:21:31.783540+00:00"
     },
     {
       "video_id": "Zz2ROGW3LfA",
@@ -1932,7 +2092,8 @@
       "source": "innertube",
       "published_sh": "2026-05-06 22:30",
       "published_approx": true,
-      "carry": false
+      "carry": true,
+      "first_seen_run": "2026-11-11T03:21:31.783540+00:00"
     },
     {
       "video_id": "3xEXiAE9k5o",
@@ -1945,7 +2106,8 @@
       "source": "innertube",
       "published_sh": "2026-05-06 22:30",
       "published_approx": true,
-      "carry": false
+      "carry": true,
+      "first_seen_run": "2026-11-11T03:21:31.783540+00:00"
     },
     {
       "video_id": "M5_6wkp336Y",
@@ -1958,7 +2120,8 @@
       "source": "innertube",
       "published_sh": "2026-05-06 22:30",
       "published_approx": true,
-      "carry": false
+      "carry": true,
+      "first_seen_run": "2026-11-11T03:21:31.783540+00:00"
     },
     {
       "video_id": "_n0nUz7DhSg",
@@ -1971,7 +2134,8 @@
       "source": "innertube",
       "published_sh": "2026-05-06 22:30",
       "published_approx": true,
-      "carry": false
+      "carry": true,
+      "first_seen_run": "2026-11-11T03:21:31.783540+00:00"
     },
     {
       "video_id": "Mu2MrQoNlDQ",
@@ -1984,7 +2148,8 @@
       "source": "innertube",
       "published_sh": "2026-05-06 22:30",
       "published_approx": true,
-      "carry": false
+      "carry": true,
+      "first_seen_run": "2026-11-11T03:21:31.783540+00:00"
     },
     {
       "video_id": "y6NWPsGFhvc",
@@ -1997,7 +2162,8 @@
       "source": "innertube",
       "published_sh": "2026-05-06 22:30",
       "published_approx": true,
-      "carry": false
+      "carry": true,
+      "first_seen_run": "2026-11-11T03:21:31.783540+00:00"
     },
     {
       "video_id": "hGagqFyv2xk",
@@ -2010,7 +2176,8 @@
       "source": "innertube",
       "published_sh": "2026-05-06 22:30",
       "published_approx": true,
-      "carry": false
+      "carry": true,
+      "first_seen_run": "2026-11-11T03:21:31.783540+00:00"
     },
     {
       "video_id": "LSIGT_m6BSY",
@@ -2023,7 +2190,8 @@
       "source": "innertube",
       "published_sh": "2026-05-06 22:30",
       "published_approx": true,
-      "carry": false
+      "carry": true,
+      "first_seen_run": "2026-11-11T03:21:31.783540+00:00"
     },
     {
       "video_id": "TSaiUm6AuD8",
@@ -2036,7 +2204,8 @@
       "source": "innertube",
       "published_sh": "2026-05-06 22:30",
       "published_approx": true,
-      "carry": false
+      "carry": true,
+      "first_seen_run": "2026-11-11T03:21:31.783540+00:00"
     },
     {
       "video_id": "mGILdUJMcuU",
@@ -2049,7 +2218,8 @@
       "source": "innertube",
       "published_sh": "2026-05-06 22:30",
       "published_approx": true,
-      "carry": false
+      "carry": true,
+      "first_seen_run": "2026-11-11T03:21:31.783540+00:00"
     },
     {
       "video_id": "GCfICU_yH1E",
@@ -2062,7 +2232,8 @@
       "source": "innertube",
       "published_sh": "2026-05-06 22:30",
       "published_approx": true,
-      "carry": false
+      "carry": true,
+      "first_seen_run": "2026-11-11T03:21:31.783540+00:00"
     },
     {
       "video_id": "3wsMgVFl6TI",
@@ -2075,7 +2246,8 @@
       "source": "innertube",
       "published_sh": "2026-05-06 22:30",
       "published_approx": true,
-      "carry": false
+      "carry": true,
+      "first_seen_run": "2026-11-11T03:21:31.783540+00:00"
     },
     {
       "video_id": "JwdKpUZ_Jsk",
@@ -2088,7 +2260,8 @@
       "source": "innertube",
       "published_sh": "2026-05-06 22:30",
       "published_approx": true,
-      "carry": false
+      "carry": true,
+      "first_seen_run": "2026-11-11T03:21:31.783540+00:00"
     },
     {
       "video_id": "nDcltMdH5lo",
@@ -2101,7 +2274,8 @@
       "source": "innertube",
       "published_sh": "2026-05-06 22:30",
       "published_approx": true,
-      "carry": false
+      "carry": true,
+      "first_seen_run": "2026-11-11T03:21:31.783540+00:00"
     },
     {
       "video_id": "2O4lmiLVlKc",
@@ -2114,7 +2288,8 @@
       "source": "innertube",
       "published_sh": "2026-05-06 22:30",
       "published_approx": true,
-      "carry": false
+      "carry": true,
+      "first_seen_run": "2026-11-11T03:21:31.783540+00:00"
     },
     {
       "video_id": "AwdCmz0w0IY",
@@ -2127,7 +2302,8 @@
       "source": "innertube",
       "published_sh": "2026-05-06 22:30",
       "published_approx": true,
-      "carry": false
+      "carry": true,
+      "first_seen_run": "2026-11-11T03:21:31.783540+00:00"
     },
     {
       "video_id": "hXkMYT1TmiU",
@@ -2140,7 +2316,8 @@
       "source": "innertube",
       "published_sh": "2026-05-06 22:30",
       "published_approx": true,
-      "carry": false
+      "carry": true,
+      "first_seen_run": "2026-11-11T03:21:31.783540+00:00"
     },
     {
       "video_id": "ocqmfSJsHA4",
@@ -2153,7 +2330,8 @@
       "source": "innertube",
       "published_sh": "2026-05-06 22:30",
       "published_approx": true,
-      "carry": false
+      "carry": true,
+      "first_seen_run": "2026-11-11T03:21:31.783540+00:00"
     },
     {
       "video_id": "r87wHKccWxg",
@@ -2166,7 +2344,8 @@
       "source": "innertube",
       "published_sh": "2026-05-06 22:30",
       "published_approx": true,
-      "carry": false
+      "carry": true,
+      "first_seen_run": "2026-11-11T03:21:31.783540+00:00"
     },
     {
       "video_id": "J0ofaNL8kOU",
@@ -2179,7 +2358,8 @@
       "source": "innertube",
       "published_sh": "2026-05-06 22:30",
       "published_approx": true,
-      "carry": false
+      "carry": true,
+      "first_seen_run": "2026-11-11T03:21:31.783540+00:00"
     },
     {
       "video_id": "I_YeNUP2ar4",
@@ -2192,7 +2372,8 @@
       "source": "innertube",
       "published_sh": "2026-05-06 22:30",
       "published_approx": true,
-      "carry": false
+      "carry": true,
+      "first_seen_run": "2026-11-11T03:21:31.783540+00:00"
     },
     {
       "video_id": "F0TpMEdMciw",
@@ -2205,7 +2386,8 @@
       "source": "innertube",
       "published_sh": "2026-05-06 22:30",
       "published_approx": true,
-      "carry": false
+      "carry": true,
+      "first_seen_run": "2026-11-11T03:21:31.783540+00:00"
     },
     {
       "video_id": "BCm9hIHot7o",
@@ -2218,7 +2400,8 @@
       "source": "innertube",
       "published_sh": "2026-05-06 22:30",
       "published_approx": true,
-      "carry": false
+      "carry": true,
+      "first_seen_run": "2026-11-11T03:21:31.783540+00:00"
     },
     {
       "video_id": "4d25jiSLYUs",
@@ -2231,7 +2414,8 @@
       "source": "innertube",
       "published_sh": "2026-05-06 22:30",
       "published_approx": true,
-      "carry": false
+      "carry": true,
+      "first_seen_run": "2026-11-11T03:21:31.783540+00:00"
     },
     {
       "video_id": "plJ4tJyGYoc",
@@ -2244,7 +2428,8 @@
       "source": "innertube",
       "published_sh": "2026-05-06 22:30",
       "published_approx": true,
-      "carry": false
+      "carry": true,
+      "first_seen_run": "2026-11-11T03:21:31.783540+00:00"
     },
     {
       "video_id": "X_YN6Ii311U",
@@ -2257,7 +2442,8 @@
       "source": "innertube",
       "published_sh": "2026-05-06 22:30",
       "published_approx": true,
-      "carry": false
+      "carry": true,
+      "first_seen_run": "2026-11-11T03:21:31.783540+00:00"
     },
     {
       "video_id": "vwYPTr5gkuA",
@@ -2270,7 +2456,8 @@
       "source": "innertube",
       "published_sh": "2026-05-06 22:30",
       "published_approx": true,
-      "carry": false
+      "carry": true,
+      "first_seen_run": "2026-11-11T03:21:31.783540+00:00"
     },
     {
       "video_id": "-suqYgXiBkY",
@@ -2283,7 +2470,8 @@
       "source": "innertube",
       "published_sh": "2026-05-06 22:30",
       "published_approx": true,
-      "carry": false
+      "carry": true,
+      "first_seen_run": "2026-11-11T03:21:31.783540+00:00"
     },
     {
       "video_id": "YbBjTh5fkLE",
@@ -2296,7 +2484,8 @@
       "source": "innertube",
       "published_sh": "2026-05-06 22:30",
       "published_approx": true,
-      "carry": false
+      "carry": true,
+      "first_seen_run": "2026-11-11T03:21:31.783540+00:00"
     },
     {
       "video_id": "ER7BzoQydQU",
@@ -2309,7 +2498,8 @@
       "source": "innertube",
       "published_sh": "2013-03-12 01:43",
       "published_approx": true,
-      "carry": false
+      "carry": true,
+      "first_seen_run": "2026-11-11T03:21:31.783540+00:00"
     },
     {
       "video_id": "3GfrSTOpfEc",
@@ -2322,7 +2512,8 @@
       "source": "innertube",
       "published_sh": "2013-03-12 01:43",
       "published_approx": true,
-      "carry": false
+      "carry": true,
+      "first_seen_run": "2026-11-11T03:21:31.783540+00:00"
     },
     {
       "video_id": "42ayt5suUhQ",
@@ -2335,7 +2526,8 @@
       "source": "innertube",
       "published_sh": "2013-03-12 01:43",
       "published_approx": true,
-      "carry": false
+      "carry": true,
+      "first_seen_run": "2026-11-11T03:21:31.783540+00:00"
     },
     {
       "video_id": "5knvpaOHrZ4",
@@ -2348,7 +2540,8 @@
       "source": "innertube",
       "published_sh": "2013-03-12 01:43",
       "published_approx": true,
-      "carry": false
+      "carry": true,
+      "first_seen_run": "2026-11-11T03:21:31.783540+00:00"
     },
     {
       "video_id": "NDS3Ucpzy70",
@@ -2361,7 +2554,8 @@
       "source": "innertube",
       "published_sh": "2013-03-12 01:43",
       "published_approx": true,
-      "carry": false
+      "carry": true,
+      "first_seen_run": "2026-11-11T03:21:31.783540+00:00"
     },
     {
       "video_id": "kqp7g_nkomM",
@@ -2374,7 +2568,8 @@
       "source": "innertube",
       "published_sh": "2013-03-12 01:43",
       "published_approx": true,
-      "carry": false
+      "carry": true,
+      "first_seen_run": "2026-11-11T03:21:31.783540+00:00"
     },
     {
       "video_id": "CMhGcAukGMs",
@@ -2387,7 +2582,8 @@
       "source": "innertube",
       "published_sh": "2013-03-12 01:43",
       "published_approx": true,
-      "carry": false
+      "carry": true,
+      "first_seen_run": "2026-11-11T03:21:31.783540+00:00"
     },
     {
       "video_id": "ERiixNNLsFg",
@@ -2400,7 +2596,8 @@
       "source": "innertube",
       "published_sh": "2013-03-12 01:43",
       "published_approx": true,
-      "carry": false
+      "carry": true,
+      "first_seen_run": "2026-11-11T03:21:31.783540+00:00"
     },
     {
       "video_id": "WKFAqJ6460I",
@@ -2413,7 +2610,8 @@
       "source": "innertube",
       "published_sh": "2013-03-12 01:43",
       "published_approx": true,
-      "carry": false
+      "carry": true,
+      "first_seen_run": "2026-11-11T03:21:31.783540+00:00"
     },
     {
       "video_id": "mIp-gC0tk10",
@@ -2426,7 +2624,8 @@
       "source": "innertube",
       "published_sh": "2013-03-12 01:43",
       "published_approx": true,
-      "carry": false
+      "carry": true,
+      "first_seen_run": "2026-11-11T03:21:31.783540+00:00"
     },
     {
       "video_id": "3bhK9DZ-VlQ",
@@ -2439,7 +2638,8 @@
       "source": "innertube",
       "published_sh": "2013-03-12 01:43",
       "published_approx": true,
-      "carry": false
+      "carry": true,
+      "first_seen_run": "2026-11-11T03:21:31.783540+00:00"
     },
     {
       "video_id": "bWf9bBhdVTE",
@@ -2452,7 +2652,8 @@
       "source": "innertube",
       "published_sh": "2013-03-12 01:43",
       "published_approx": true,
-      "carry": false
+      "carry": true,
+      "first_seen_run": "2026-11-11T03:21:31.783540+00:00"
     },
     {
       "video_id": "G6_Cxh2tKIQ",
@@ -2465,7 +2666,8 @@
       "source": "innertube",
       "published_sh": "2013-03-12 01:43",
       "published_approx": true,
-      "carry": false
+      "carry": true,
+      "first_seen_run": "2026-11-11T03:21:31.783540+00:00"
     },
     {
       "video_id": "s7EyZZHrO4I",
@@ -2478,7 +2680,8 @@
       "source": "innertube",
       "published_sh": "2013-03-12 01:43",
       "published_approx": true,
-      "carry": false
+      "carry": true,
+      "first_seen_run": "2026-11-11T03:21:31.783540+00:00"
     },
     {
       "video_id": "4srIfMTThZg",
@@ -2491,7 +2694,8 @@
       "source": "innertube",
       "published_sh": "2013-03-12 01:43",
       "published_approx": true,
-      "carry": false
+      "carry": true,
+      "first_seen_run": "2026-11-11T03:21:31.783540+00:00"
     },
     {
       "video_id": "SEmH8Bh13wc",
@@ -2504,7 +2708,8 @@
       "source": "innertube",
       "published_sh": "2013-03-12 01:43",
       "published_approx": true,
-      "carry": false
+      "carry": true,
+      "first_seen_run": "2026-11-11T03:21:31.783540+00:00"
     },
     {
       "video_id": "zvZKVLEpwi8",
@@ -2517,7 +2722,8 @@
       "source": "innertube",
       "published_sh": "2013-03-12 01:43",
       "published_approx": true,
-      "carry": false
+      "carry": true,
+      "first_seen_run": "2026-11-11T03:21:31.783540+00:00"
     },
     {
       "video_id": "k_WvhkGGL54",
@@ -2530,7 +2736,8 @@
       "source": "innertube",
       "published_sh": "2013-03-12 01:43",
       "published_approx": true,
-      "carry": false
+      "carry": true,
+      "first_seen_run": "2026-11-11T03:21:31.783540+00:00"
     },
     {
       "video_id": "OI8eSQHDpyk",
@@ -2543,7 +2750,8 @@
       "source": "innertube",
       "published_sh": "2013-03-12 01:43",
       "published_approx": true,
-      "carry": false
+      "carry": true,
+      "first_seen_run": "2026-11-11T03:21:31.783540+00:00"
     },
     {
       "video_id": "CRHC4ORT8Zc",
@@ -2556,7 +2764,8 @@
       "source": "innertube",
       "published_sh": "2013-03-12 01:43",
       "published_approx": true,
-      "carry": false
+      "carry": true,
+      "first_seen_run": "2026-11-11T03:21:31.783540+00:00"
     },
     {
       "video_id": "UKBbWeozCc4",
@@ -2569,7 +2778,8 @@
       "source": "innertube",
       "published_sh": "2013-03-12 01:43",
       "published_approx": true,
-      "carry": false
+      "carry": true,
+      "first_seen_run": "2026-11-11T03:21:31.783540+00:00"
     },
     {
       "video_id": "CcA186BhmGs",
@@ -2582,7 +2792,8 @@
       "source": "innertube",
       "published_sh": "2013-03-12 01:43",
       "published_approx": true,
-      "carry": false
+      "carry": true,
+      "first_seen_run": "2026-11-11T03:21:31.783540+00:00"
     },
     {
       "video_id": "4A88xll6b9w",
@@ -2595,7 +2806,8 @@
       "source": "innertube",
       "published_sh": "2013-03-12 01:43",
       "published_approx": true,
-      "carry": false
+      "carry": true,
+      "first_seen_run": "2026-11-11T03:21:31.783540+00:00"
     },
     {
       "video_id": "Ad1SZAZa2_8",
@@ -2608,7 +2820,8 @@
       "source": "innertube",
       "published_sh": "2013-03-12 01:43",
       "published_approx": true,
-      "carry": false
+      "carry": true,
+      "first_seen_run": "2026-11-11T03:21:31.783540+00:00"
     },
     {
       "video_id": "xIiHoC_WccY",
@@ -2621,7 +2834,8 @@
       "source": "innertube",
       "published_sh": "2013-03-12 01:43",
       "published_approx": true,
-      "carry": false
+      "carry": true,
+      "first_seen_run": "2026-11-11T03:21:31.783540+00:00"
     },
     {
       "video_id": "RkKdHv8MMhk",
@@ -2634,7 +2848,8 @@
       "source": "innertube",
       "published_sh": "2013-03-12 01:43",
       "published_approx": true,
-      "carry": false
+      "carry": true,
+      "first_seen_run": "2026-11-11T03:21:31.783540+00:00"
     },
     {
       "video_id": "DNHTjzTpERg",
@@ -2647,7 +2862,8 @@
       "source": "innertube",
       "published_sh": "2013-03-12 01:43",
       "published_approx": true,
-      "carry": false
+      "carry": true,
+      "first_seen_run": "2026-11-11T03:21:31.783540+00:00"
     },
     {
       "video_id": "7WS4I4QWKtM",
@@ -2660,7 +2876,8 @@
       "source": "innertube",
       "published_sh": "2013-03-12 01:43",
       "published_approx": true,
-      "carry": false
+      "carry": true,
+      "first_seen_run": "2026-11-11T03:21:31.783540+00:00"
     },
     {
       "video_id": "agIH1qzgvxk",
@@ -2673,7 +2890,8 @@
       "source": "innertube",
       "published_sh": "2013-03-12 01:43",
       "published_approx": true,
-      "carry": false
+      "carry": true,
+      "first_seen_run": "2026-11-11T03:21:31.783540+00:00"
     },
     {
       "video_id": "s6zeLLAr0t0",
@@ -2686,7 +2904,8 @@
       "source": "innertube",
       "published_sh": "2013-03-12 01:43",
       "published_approx": true,
-      "carry": false
+      "carry": true,
+      "first_seen_run": "2026-11-11T03:21:31.783540+00:00"
     },
     {
       "video_id": "mru7rf4r16Y",
@@ -2699,7 +2918,8 @@
       "source": "innertube",
       "published_sh": "2013-03-12 01:43",
       "published_approx": true,
-      "carry": false
+      "carry": true,
+      "first_seen_run": "2026-11-11T03:21:31.783540+00:00"
     },
     {
       "video_id": "EitU_41UHXk",
@@ -2712,7 +2932,8 @@
       "source": "innertube",
       "published_sh": "2013-03-12 01:43",
       "published_approx": true,
-      "carry": false
+      "carry": true,
+      "first_seen_run": "2026-11-11T03:21:31.783540+00:00"
     },
     {
       "video_id": "CBTyYmCHrI0",
@@ -2725,7 +2946,8 @@
       "source": "innertube",
       "published_sh": "2013-03-12 01:43",
       "published_approx": true,
-      "carry": false
+      "carry": true,
+      "first_seen_run": "2026-11-11T03:21:31.783540+00:00"
     },
     {
       "video_id": "6itlq9-NEbE",
@@ -2738,7 +2960,8 @@
       "source": "innertube",
       "published_sh": "2013-03-12 01:43",
       "published_approx": true,
-      "carry": false
+      "carry": true,
+      "first_seen_run": "2026-11-11T03:21:31.783540+00:00"
     },
     {
       "video_id": "HJgoMcynd5Y",
@@ -2751,7 +2974,8 @@
       "source": "innertube",
       "published_sh": "2013-03-12 01:43",
       "published_approx": true,
-      "carry": false
+      "carry": true,
+      "first_seen_run": "2026-11-11T03:21:31.783540+00:00"
     },
     {
       "video_id": "BOsbxcNYtYQ",
@@ -2764,7 +2988,8 @@
       "source": "innertube",
       "published_sh": "2013-03-12 01:43",
       "published_approx": true,
-      "carry": false
+      "carry": true,
+      "first_seen_run": "2026-11-11T03:21:31.783540+00:00"
     },
     {
       "video_id": "i0sy_Wy8BeQ",
@@ -2777,7 +3002,8 @@
       "source": "innertube",
       "published_sh": "2013-03-12 01:43",
       "published_approx": true,
-      "carry": false
+      "carry": true,
+      "first_seen_run": "2026-11-11T03:21:31.783540+00:00"
     },
     {
       "video_id": "C9TjTF-7kho",
@@ -2790,7 +3016,8 @@
       "source": "innertube",
       "published_sh": "2013-03-12 01:43",
       "published_approx": true,
-      "carry": false
+      "carry": true,
+      "first_seen_run": "2026-11-11T03:21:31.783540+00:00"
     },
     {
       "video_id": "l_C0hABUgj0",
@@ -2803,7 +3030,8 @@
       "source": "innertube",
       "published_sh": "2013-03-12 01:43",
       "published_approx": true,
-      "carry": false
+      "carry": true,
+      "first_seen_run": "2026-11-11T03:21:31.783540+00:00"
     },
     {
       "video_id": "oyrlWoLV9kg",
@@ -2816,7 +3044,8 @@
       "source": "innertube",
       "published_sh": "2013-03-12 01:43",
       "published_approx": true,
-      "carry": false
+      "carry": true,
+      "first_seen_run": "2026-11-11T03:21:31.783540+00:00"
     },
     {
       "video_id": "7IYtcOByZ1U",
@@ -2829,7 +3058,8 @@
       "source": "innertube",
       "published_sh": "2013-03-12 01:43",
       "published_approx": true,
-      "carry": false
+      "carry": true,
+      "first_seen_run": "2026-11-11T03:21:31.783540+00:00"
     },
     {
       "video_id": "TUrxh9YTTjs",
@@ -2842,7 +3072,8 @@
       "source": "innertube",
       "published_sh": "2013-03-12 01:43",
       "published_approx": true,
-      "carry": false
+      "carry": true,
+      "first_seen_run": "2026-11-11T03:21:31.783540+00:00"
     },
     {
       "video_id": "1c41ssi9A7o",
@@ -2855,7 +3086,8 @@
       "source": "innertube",
       "published_sh": "2013-03-12 01:43",
       "published_approx": true,
-      "carry": false
+      "carry": true,
+      "first_seen_run": "2026-11-11T03:21:31.783540+00:00"
     },
     {
       "video_id": "gbK4ok20EoQ",
@@ -2868,7 +3100,8 @@
       "source": "innertube",
       "published_sh": "2013-03-12 01:43",
       "published_approx": true,
-      "carry": false
+      "carry": true,
+      "first_seen_run": "2026-11-11T03:21:31.783540+00:00"
     },
     {
       "video_id": "ox57mk732S0",
@@ -2881,7 +3114,8 @@
       "source": "innertube",
       "published_sh": "2013-03-12 01:43",
       "published_approx": true,
-      "carry": false
+      "carry": true,
+      "first_seen_run": "2026-11-11T03:21:31.783540+00:00"
     },
     {
       "video_id": "3C87gispbY4",
@@ -2894,7 +3128,8 @@
       "source": "innertube",
       "published_sh": "2013-03-12 01:43",
       "published_approx": true,
-      "carry": false
+      "carry": true,
+      "first_seen_run": "2026-11-11T03:21:31.783540+00:00"
     },
     {
       "video_id": "-QVr_22ahNE",
@@ -2907,7 +3142,8 @@
       "source": "innertube",
       "published_sh": "2013-03-12 01:43",
       "published_approx": true,
-      "carry": false
+      "carry": true,
+      "first_seen_run": "2026-11-11T03:21:31.783540+00:00"
     },
     {
       "video_id": "r3SHAhm3Tsc",
@@ -2920,7 +3156,8 @@
       "source": "innertube",
       "published_sh": "2013-03-12 01:43",
       "published_approx": true,
-      "carry": false
+      "carry": true,
+      "first_seen_run": "2026-11-11T03:21:31.783540+00:00"
     },
     {
       "video_id": "-0g0BIwr8SI",
@@ -2933,7 +3170,8 @@
       "source": "innertube",
       "published_sh": "2013-03-12 01:43",
       "published_approx": true,
-      "carry": false
+      "carry": true,
+      "first_seen_run": "2026-11-11T03:21:31.783540+00:00"
     },
     {
       "video_id": "0dX6db8p5m4",
@@ -2946,7 +3184,8 @@
       "source": "innertube",
       "published_sh": "2013-03-12 01:43",
       "published_approx": true,
-      "carry": false
+      "carry": true,
+      "first_seen_run": "2026-11-11T03:21:31.783540+00:00"
     },
     {
       "video_id": "QJksvHvqF1I",
@@ -2959,7 +3198,8 @@
       "source": "innertube",
       "published_sh": "2013-03-12 01:43",
       "published_approx": true,
-      "carry": false
+      "carry": true,
+      "first_seen_run": "2026-11-11T03:21:31.783540+00:00"
     },
     {
       "video_id": "CNF3aL0g7LU",
@@ -2972,7 +3212,8 @@
       "source": "innertube",
       "published_sh": "2013-03-12 01:43",
       "published_approx": true,
-      "carry": false
+      "carry": true,
+      "first_seen_run": "2026-11-11T03:21:31.783540+00:00"
     },
     {
       "video_id": "p-yy8L_W214",
@@ -2985,7 +3226,8 @@
       "source": "innertube",
       "published_sh": "2013-03-12 01:43",
       "published_approx": true,
-      "carry": false
+      "carry": true,
+      "first_seen_run": "2026-11-11T03:21:31.783540+00:00"
     },
     {
       "video_id": "FEIYnEiEwwE",
@@ -2998,7 +3240,8 @@
       "source": "innertube",
       "published_sh": "2013-03-12 01:43",
       "published_approx": true,
-      "carry": false
+      "carry": true,
+      "first_seen_run": "2026-11-11T03:21:31.783540+00:00"
     },
     {
       "video_id": "sjHi7y9N2jw",
@@ -3011,7 +3254,8 @@
       "source": "innertube",
       "published_sh": "2013-03-12 01:43",
       "published_approx": true,
-      "carry": false
+      "carry": true,
+      "first_seen_run": "2026-11-11T03:21:31.783540+00:00"
     },
     {
       "video_id": "CNKFa3HjpGU",
@@ -3024,7 +3268,8 @@
       "source": "innertube",
       "published_sh": "2013-03-12 01:43",
       "published_approx": true,
-      "carry": false
+      "carry": true,
+      "first_seen_run": "2026-11-11T03:21:31.783540+00:00"
     },
     {
       "video_id": "OiMY7V8RaNA",
@@ -3037,7 +3282,8 @@
       "source": "innertube",
       "published_sh": "2013-03-12 01:43",
       "published_approx": true,
-      "carry": false
+      "carry": true,
+      "first_seen_run": "2026-11-11T03:21:31.783540+00:00"
     },
     {
       "video_id": "QuZ5fkO9P70",
@@ -3050,7 +3296,8 @@
       "source": "innertube",
       "published_sh": "2013-03-12 01:43",
       "published_approx": true,
-      "carry": false
+      "carry": true,
+      "first_seen_run": "2026-11-11T03:21:31.783540+00:00"
     },
     {
       "video_id": "-4qBhWPzNd8",
@@ -3063,7 +3310,8 @@
       "source": "innertube",
       "published_sh": "2013-03-12 01:43",
       "published_approx": true,
-      "carry": false
+      "carry": true,
+      "first_seen_run": "2026-11-11T03:21:31.783540+00:00"
     },
     {
       "video_id": "5E8CG-goQaE",
@@ -3076,7 +3324,8 @@
       "source": "innertube",
       "published_sh": "2013-03-12 01:43",
       "published_approx": true,
-      "carry": false
+      "carry": true,
+      "first_seen_run": "2026-11-11T03:21:31.783540+00:00"
     },
     {
       "video_id": "AQ4UcbvgDME",
@@ -3089,7 +3338,8 @@
       "source": "innertube",
       "published_sh": "2013-03-12 01:43",
       "published_approx": true,
-      "carry": false
+      "carry": true,
+      "first_seen_run": "2026-11-11T03:21:31.783540+00:00"
     },
     {
       "video_id": "GqjPLEwbeCo",
@@ -3102,7 +3352,8 @@
       "source": "innertube",
       "published_sh": "2013-03-12 01:43",
       "published_approx": true,
-      "carry": false
+      "carry": true,
+      "first_seen_run": "2026-11-11T03:21:31.783540+00:00"
     },
     {
       "video_id": "HMUA-jXfm7o",
@@ -3115,7 +3366,8 @@
       "source": "innertube",
       "published_sh": "2013-03-12 01:43",
       "published_approx": true,
-      "carry": false
+      "carry": true,
+      "first_seen_run": "2026-11-11T03:21:31.783540+00:00"
     },
     {
       "video_id": "obtXTSyfiOk",
@@ -3128,7 +3380,8 @@
       "source": "innertube",
       "published_sh": "2013-03-12 01:43",
       "published_approx": true,
-      "carry": false
+      "carry": true,
+      "first_seen_run": "2026-11-11T03:21:31.783540+00:00"
     },
     {
       "video_id": "Y9NOn2WZ-Cs",
@@ -3141,7 +3394,8 @@
       "source": "innertube",
       "published_sh": "2013-03-12 01:43",
       "published_approx": true,
-      "carry": false
+      "carry": true,
+      "first_seen_run": "2026-11-11T03:21:31.783540+00:00"
     },
     {
       "video_id": "QJo-OH_NgtM",
@@ -3154,7 +3408,8 @@
       "source": "innertube",
       "published_sh": "2013-03-12 01:43",
       "published_approx": true,
-      "carry": false
+      "carry": true,
+      "first_seen_run": "2026-11-11T03:21:31.783540+00:00"
     },
     {
       "video_id": "zH6hN8-AJcY",
@@ -3167,7 +3422,8 @@
       "source": "innertube",
       "published_sh": "2013-03-12 01:43",
       "published_approx": true,
-      "carry": false
+      "carry": true,
+      "first_seen_run": "2026-11-11T03:21:31.783540+00:00"
     },
     {
       "video_id": "bRcbBEiYLeY",
@@ -3180,7 +3436,8 @@
       "source": "innertube",
       "published_sh": "2013-03-12 01:43",
       "published_approx": true,
-      "carry": false
+      "carry": true,
+      "first_seen_run": "2026-11-11T03:21:31.783540+00:00"
     },
     {
       "video_id": "g7QLrAOw3II",
@@ -3193,7 +3450,8 @@
       "source": "innertube",
       "published_sh": "2013-03-12 01:43",
       "published_approx": true,
-      "carry": false
+      "carry": true,
+      "first_seen_run": "2026-11-11T03:21:31.783540+00:00"
     },
     {
       "video_id": "HmjaXVlWEKI",
@@ -3206,7 +3464,8 @@
       "source": "innertube",
       "published_sh": "2013-03-12 01:43",
       "published_approx": true,
-      "carry": false
+      "carry": true,
+      "first_seen_run": "2026-11-11T03:21:31.783540+00:00"
     },
     {
       "video_id": "9fJuwOx5N6c",
@@ -3219,7 +3478,8 @@
       "source": "innertube",
       "published_sh": "2013-03-12 01:43",
       "published_approx": true,
-      "carry": false
+      "carry": true,
+      "first_seen_run": "2026-11-11T03:21:31.783540+00:00"
     },
     {
       "video_id": "W-pkpLHG3us",
@@ -3232,7 +3492,8 @@
       "source": "innertube",
       "published_sh": "2013-03-12 01:43",
       "published_approx": true,
-      "carry": false
+      "carry": true,
+      "first_seen_run": "2026-11-11T03:21:31.783540+00:00"
     },
     {
       "video_id": "uibtmbz7y_I",
@@ -3245,7 +3506,8 @@
       "source": "innertube",
       "published_sh": "2013-03-12 01:43",
       "published_approx": true,
-      "carry": false
+      "carry": true,
+      "first_seen_run": "2026-11-11T03:21:31.783540+00:00"
     },
     {
       "video_id": "dvHKLcWvxM0",
@@ -3258,7 +3520,8 @@
       "source": "innertube",
       "published_sh": "2013-03-12 01:43",
       "published_approx": true,
-      "carry": false
+      "carry": true,
+      "first_seen_run": "2026-11-11T03:21:31.783540+00:00"
     },
     {
       "video_id": "msccbppNuRs",
@@ -3271,7 +3534,8 @@
       "source": "innertube",
       "published_sh": "2013-03-12 01:43",
       "published_approx": true,
-      "carry": false
+      "carry": true,
+      "first_seen_run": "2026-11-11T03:21:31.783540+00:00"
     },
     {
       "video_id": "mKK7XWLk6d8",
@@ -3284,7 +3548,8 @@
       "source": "innertube",
       "published_sh": "2013-03-12 01:43",
       "published_approx": true,
-      "carry": false
+      "carry": true,
+      "first_seen_run": "2026-11-11T03:21:31.783540+00:00"
     },
     {
       "video_id": "pR--s19YBAk",
@@ -3297,7 +3562,8 @@
       "source": "innertube",
       "published_sh": "2013-03-12 01:43",
       "published_approx": true,
-      "carry": false
+      "carry": true,
+      "first_seen_run": "2026-11-11T03:21:31.783540+00:00"
     },
     {
       "video_id": "nLHbciCngEU",
@@ -3310,7 +3576,8 @@
       "source": "innertube",
       "published_sh": "2013-03-12 01:43",
       "published_approx": true,
-      "carry": false
+      "carry": true,
+      "first_seen_run": "2026-11-11T03:21:31.783540+00:00"
     },
     {
       "video_id": "1Op_LFpw7tE",
@@ -3323,7 +3590,8 @@
       "source": "innertube",
       "published_sh": "2013-03-12 01:43",
       "published_approx": true,
-      "carry": false
+      "carry": true,
+      "first_seen_run": "2026-11-11T03:21:31.783540+00:00"
     },
     {
       "video_id": "N-xbHT532NI",
@@ -3336,7 +3604,8 @@
       "source": "innertube",
       "published_sh": "2013-03-12 01:43",
       "published_approx": true,
-      "carry": false
+      "carry": true,
+      "first_seen_run": "2026-11-11T03:21:31.783540+00:00"
     },
     {
       "video_id": "hK2-WUFnQmo",
@@ -3349,7 +3618,8 @@
       "source": "innertube",
       "published_sh": "2013-03-12 01:43",
       "published_approx": true,
-      "carry": false
+      "carry": true,
+      "first_seen_run": "2026-11-11T03:21:31.783540+00:00"
     },
     {
       "video_id": "IcbVUuO6BQU",
@@ -3362,7 +3632,8 @@
       "source": "innertube",
       "published_sh": "2013-03-12 01:43",
       "published_approx": true,
-      "carry": false
+      "carry": true,
+      "first_seen_run": "2026-11-11T03:21:31.783540+00:00"
     },
     {
       "video_id": "8hIGNq5r71Q",
@@ -3375,7 +3646,8 @@
       "source": "innertube",
       "published_sh": "2013-03-12 01:43",
       "published_approx": true,
-      "carry": false
+      "carry": true,
+      "first_seen_run": "2026-11-11T03:21:31.783540+00:00"
     },
     {
       "video_id": "VQKWOpeUCbw",
@@ -3388,7 +3660,8 @@
       "source": "innertube",
       "published_sh": "2013-03-12 01:43",
       "published_approx": true,
-      "carry": false
+      "carry": true,
+      "first_seen_run": "2026-11-11T03:21:31.783540+00:00"
     },
     {
       "video_id": "SHre2euYn5s",
@@ -3401,7 +3674,8 @@
       "source": "innertube",
       "published_sh": "2013-03-12 01:43",
       "published_approx": true,
-      "carry": false
+      "carry": true,
+      "first_seen_run": "2026-11-11T03:21:31.783540+00:00"
     },
     {
       "video_id": "VdzihV3fxPM",
@@ -3414,7 +3688,8 @@
       "source": "innertube",
       "published_sh": "2013-03-12 01:43",
       "published_approx": true,
-      "carry": false
+      "carry": true,
+      "first_seen_run": "2026-11-11T03:21:31.783540+00:00"
     },
     {
       "video_id": "02GwSL9QFhA",
@@ -3427,7 +3702,8 @@
       "source": "innertube",
       "published_sh": "2013-03-12 01:43",
       "published_approx": true,
-      "carry": false
+      "carry": true,
+      "first_seen_run": "2026-11-11T03:21:31.783540+00:00"
     },
     {
       "video_id": "951FcDee8Ns",
@@ -3440,7 +3716,8 @@
       "source": "innertube",
       "published_sh": "2013-03-12 01:43",
       "published_approx": true,
-      "carry": false
+      "carry": true,
+      "first_seen_run": "2026-11-11T03:21:31.783540+00:00"
     },
     {
       "video_id": "FXVjlyN07gw",
@@ -3453,7 +3730,8 @@
       "source": "innertube",
       "published_sh": "2013-03-12 01:43",
       "published_approx": true,
-      "carry": false
+      "carry": true,
+      "first_seen_run": "2026-11-11T03:21:31.783540+00:00"
     },
     {
       "video_id": "I40d4AA66ZQ",
@@ -3466,7 +3744,8 @@
       "source": "innertube",
       "published_sh": "2013-03-12 01:43",
       "published_approx": true,
-      "carry": false
+      "carry": true,
+      "first_seen_run": "2026-11-11T03:21:31.783540+00:00"
     },
     {
       "video_id": "Rpk4zG6_2pg",
@@ -3479,7 +3758,8 @@
       "source": "innertube",
       "published_sh": "2013-03-12 01:43",
       "published_approx": true,
-      "carry": false
+      "carry": true,
+      "first_seen_run": "2026-11-11T03:21:31.783540+00:00"
     },
     {
       "video_id": "VuFU4k1VGtA",
@@ -3492,7 +3772,8 @@
       "source": "innertube",
       "published_sh": "2013-03-12 01:43",
       "published_approx": true,
-      "carry": false
+      "carry": true,
+      "first_seen_run": "2026-11-11T03:21:31.783540+00:00"
     },
     {
       "video_id": "V528rvgPbCQ",
@@ -3505,7 +3786,8 @@
       "source": "innertube",
       "published_sh": "2013-03-12 01:43",
       "published_approx": true,
-      "carry": false
+      "carry": true,
+      "first_seen_run": "2026-11-11T03:21:31.783540+00:00"
     },
     {
       "video_id": "J5b_HoER0PY",
@@ -3518,7 +3800,8 @@
       "source": "innertube",
       "published_sh": "2013-03-12 01:43",
       "published_approx": true,
-      "carry": false
+      "carry": true,
+      "first_seen_run": "2026-11-11T03:21:31.783540+00:00"
     },
     {
       "video_id": "5Sraoa9sHbI",
@@ -3531,7 +3814,8 @@
       "source": "innertube",
       "published_sh": "2013-03-12 01:43",
       "published_approx": true,
-      "carry": false
+      "carry": true,
+      "first_seen_run": "2026-11-11T03:21:31.783540+00:00"
     },
     {
       "video_id": "vwduNHo-veE",
@@ -3544,7 +3828,8 @@
       "source": "innertube",
       "published_sh": "2013-03-12 01:43",
       "published_approx": true,
-      "carry": false
+      "carry": true,
+      "first_seen_run": "2026-11-11T03:21:31.783540+00:00"
     },
     {
       "video_id": "xYFDBj7r4Ws",
@@ -3557,7 +3842,8 @@
       "source": "innertube",
       "published_sh": "2013-03-12 01:43",
       "published_approx": true,
-      "carry": false
+      "carry": true,
+      "first_seen_run": "2026-11-11T03:21:31.783540+00:00"
     },
     {
       "video_id": "3yZKFrwgz5k",
@@ -3570,7 +3856,8 @@
       "source": "innertube",
       "published_sh": "2013-03-12 01:43",
       "published_approx": true,
-      "carry": false
+      "carry": true,
+      "first_seen_run": "2026-11-11T03:21:31.783540+00:00"
     },
     {
       "video_id": "sPND7R2CFvU",
@@ -3583,7 +3870,8 @@
       "source": "innertube",
       "published_sh": "2013-03-12 01:43",
       "published_approx": true,
-      "carry": false
+      "carry": true,
+      "first_seen_run": "2026-11-11T03:21:31.783540+00:00"
     },
     {
       "video_id": "zMNkrNZnjRc",
@@ -3596,7 +3884,8 @@
       "source": "innertube",
       "published_sh": "2013-03-12 01:43",
       "published_approx": true,
-      "carry": false
+      "carry": true,
+      "first_seen_run": "2026-11-11T03:21:31.783540+00:00"
     },
     {
       "video_id": "l70adQ4blrg",
@@ -3609,7 +3898,8 @@
       "source": "innertube",
       "published_sh": "2013-03-12 01:43",
       "published_approx": true,
-      "carry": false
+      "carry": true,
+      "first_seen_run": "2026-11-11T03:21:31.783540+00:00"
     },
     {
       "video_id": "YmVWwWqHGNk",
@@ -3622,7 +3912,8 @@
       "source": "innertube",
       "published_sh": "2013-03-12 01:43",
       "published_approx": true,
-      "carry": false
+      "carry": true,
+      "first_seen_run": "2026-11-11T03:21:31.783540+00:00"
     },
     {
       "video_id": "md99uGCWeC4",
@@ -3635,7 +3926,8 @@
       "source": "innertube",
       "published_sh": "2013-03-12 01:43",
       "published_approx": true,
-      "carry": false
+      "carry": true,
+      "first_seen_run": "2026-11-11T03:21:31.783540+00:00"
     },
     {
       "video_id": "ksYRNYTdf5U",
@@ -3648,7 +3940,8 @@
       "source": "innertube",
       "published_sh": "2013-03-12 01:43",
       "published_approx": true,
-      "carry": false
+      "carry": true,
+      "first_seen_run": "2026-11-11T03:21:31.783540+00:00"
     },
     {
       "video_id": "ChabUZuYy7g",
@@ -3661,7 +3954,8 @@
       "source": "innertube",
       "published_sh": "2013-03-12 01:43",
       "published_approx": true,
-      "carry": false
+      "carry": true,
+      "first_seen_run": "2026-11-11T03:21:31.783540+00:00"
     },
     {
       "video_id": "a8cJH9KkGXY",
@@ -3674,7 +3968,8 @@
       "source": "innertube",
       "published_sh": "2013-03-12 01:43",
       "published_approx": true,
-      "carry": false
+      "carry": true,
+      "first_seen_run": "2026-11-11T03:21:31.783540+00:00"
     },
     {
       "video_id": "w4vTnT-ERzI",
@@ -3687,7 +3982,8 @@
       "source": "innertube",
       "published_sh": "2013-03-12 01:43",
       "published_approx": true,
-      "carry": false
+      "carry": true,
+      "first_seen_run": "2026-11-11T03:21:31.783540+00:00"
     },
     {
       "video_id": "arqpbMqAf04",
@@ -3700,7 +3996,8 @@
       "source": "innertube",
       "published_sh": "2013-03-12 01:43",
       "published_approx": true,
-      "carry": false
+      "carry": true,
+      "first_seen_run": "2026-11-11T03:21:31.783540+00:00"
     },
     {
       "video_id": "bnrYPPWneTo",
@@ -3713,7 +4010,8 @@
       "source": "innertube",
       "published_sh": "2013-03-12 01:43",
       "published_approx": true,
-      "carry": false
+      "carry": true,
+      "first_seen_run": "2026-11-11T03:21:31.783540+00:00"
     },
     {
       "video_id": "TE3kEO0aBfQ",
@@ -3726,7 +4024,8 @@
       "source": "innertube",
       "published_sh": "2013-03-12 01:43",
       "published_approx": true,
-      "carry": false
+      "carry": true,
+      "first_seen_run": "2026-11-11T03:21:31.783540+00:00"
     },
     {
       "video_id": "xQzIzaKu98U",
@@ -3739,7 +4038,8 @@
       "source": "innertube",
       "published_sh": "2013-03-12 01:43",
       "published_approx": true,
-      "carry": false
+      "carry": true,
+      "first_seen_run": "2026-11-11T03:21:31.783540+00:00"
     },
     {
       "video_id": "chQDGGF47Ow",
@@ -3752,7 +4052,8 @@
       "source": "innertube",
       "published_sh": "2013-03-12 01:43",
       "published_approx": true,
-      "carry": false
+      "carry": true,
+      "first_seen_run": "2026-11-11T03:21:31.783540+00:00"
     },
     {
       "video_id": "cHrbsYhicV0",
@@ -3765,7 +4066,8 @@
       "source": "innertube",
       "published_sh": "2013-03-12 01:43",
       "published_approx": true,
-      "carry": false
+      "carry": true,
+      "first_seen_run": "2026-11-11T03:21:31.783540+00:00"
     },
     {
       "video_id": "Hc6GpBtpWbk",
@@ -3778,7 +4080,8 @@
       "source": "innertube",
       "published_sh": "2013-03-12 01:43",
       "published_approx": true,
-      "carry": false
+      "carry": true,
+      "first_seen_run": "2026-11-11T03:21:31.783540+00:00"
     },
     {
       "video_id": "lD5FxRyMgE0",
@@ -3791,16 +4094,15 @@
       "source": "innertube",
       "published_sh": "2013-03-12 01:43",
       "published_approx": true,
-      "carry": false
+      "carry": true,
+      "first_seen_run": "2026-11-11T03:21:31.783540+00:00"
     }
   ],
   "failures": [],
   "status": "ok",
-  "catchup": true,
+  "catchup": false,
   "sources": {
-    "rss_proxy": 1,
-    "innertube": 11,
-    "rss": 3
+    "rss": 15
   },
   "note": null,
   "webhook": {

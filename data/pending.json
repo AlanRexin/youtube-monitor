@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-11T03:21:31.783540+00:00",
-  "report_at": "2026-11-11T09:00:00+08:00",
+  "updated": "2026-11-12T02:21:16.873082+00:00",
+  "report_at": "2026-11-12T09:00:00+08:00",
   "items": {
     "9q78ZzNoTfs": {
       "first_seen_run": "2026-11-11T03:21:31.783540+00:00",
@@ -4655,6 +4655,22 @@
         "source": "innertube",
         "published_sh": "2013-03-12 01:43",
         "published_approx": true,
+        "carry": false
+      }
+    },
+    "I1hpNPQMPDU": {
+      "first_seen_run": "2026-11-12T02:21:16.873082+00:00",
+      "item": {
+        "video_id": "I1hpNPQMPDU",
+        "brand": "Fluke 福禄克",
+        "channel": "Fluke Corporation",
+        "channel_id": "UCR7ecClA4Ul6SDWFySBBLlQ",
+        "title": "Honoring Our Veterans | A Legacy of Service at Fluke | Veterans Day 2026",
+        "url": "https://www.youtube.com/watch?v=I1hpNPQMPDU",
+        "views": "148",
+        "source": "rss",
+        "published_sh": "2026-11-12 01:13",
+        "published_approx": false,
         "carry": false
       }
     }
