@@ -1,15 +1,54 @@
 {
-  "run_time": "2026-11-12T02:21:16.873082+00:00",
-  "run_time_sh": "2026-11-12 10:21",
-  "window_start_sh": "2026-11-11 09:21",
+  "run_time": "2026-11-16T01:13:53.466504+00:00",
+  "run_time_sh": "2026-11-16 09:13",
+  "window_start_sh": "2026-11-12 09:21",
   "channels_enabled": 15,
   "channels_ok": 15,
   "runner_count": 2,
-  "new_count": 292,
-  "fresh_count": 1,
-  "carry_count": 291,
-  "report_at_sh": "2026-11-12 09:00",
+  "new_count": 295,
+  "fresh_count": 3,
+  "carry_count": 292,
+  "report_at_sh": "2026-11-16 09:00",
   "videos": [
+    {
+      "video_id": "jgTsVWSimJI",
+      "brand": "Fluke 福禄克",
+      "channel": "Fluke Corporation",
+      "channel_id": "UCR7ecClA4Ul6SDWFySBBLlQ",
+      "title": "Fluke 28 II Ex",
+      "url": "https://www.youtube.com/shorts/jgTsVWSimJI",
+      "views": "2645",
+      "source": "rss",
+      "published_sh": "2026-11-14 02:52",
+      "published_approx": false,
+      "carry": false
+    },
+    {
+      "video_id": "1oF4sODotDw",
+      "brand": "Fluke 福禄克",
+      "channel": "Fluke Corporation",
+      "channel_id": "UCR7ecClA4Ul6SDWFySBBLlQ",
+      "title": "Fluke Day 2026 | Celebrating Our People Around the World",
+      "url": "https://www.youtube.com/watch?v=1oF4sODotDw",
+      "views": "298",
+      "source": "rss",
+      "published_sh": "2026-11-13 23:30",
+      "published_approx": false,
+      "carry": false
+    },
+    {
+      "video_id": "4eFnQYsZITY",
+      "brand": "Fluke 福禄克",
+      "channel": "Fluke Corporation",
+      "channel_id": "UCR7ecClA4Ul6SDWFySBBLlQ",
+      "title": "Fluke ii1030 and ii1050 | Find and Prioritize Leaks with LeakQ™ Mode",
+      "url": "https://www.youtube.com/watch?v=4eFnQYsZITY",
+      "views": "283",
+      "source": "rss",
+      "published_sh": "2026-11-12 22:30",
+      "published_approx": false,
+      "carry": false
+    },
     {
       "video_id": "I1hpNPQMPDU",
       "brand": "Fluke 福禄克",
@@ -21,7 +60,8 @@
       "source": "rss",
       "published_sh": "2026-11-12 01:13",
       "published_approx": false,
-      "carry": false
+      "carry": true,
+      "first_seen_run": "2026-11-12T02:21:16.873082+00:00"
     },
     {
       "video_id": "9q78ZzNoTfs",
@@ -4100,9 +4140,11 @@
   ],
   "failures": [],
   "status": "ok",
-  "catchup": false,
+  "catchup": true,
   "sources": {
-    "rss": 15
+    "rss": 13,
+    "innertube": 1,
+    "rss_proxy": 1
   },
   "note": null,
   "webhook": {
