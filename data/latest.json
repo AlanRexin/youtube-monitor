@@ -1,7 +1,7 @@
 {
-  "run_time": "2026-11-17T04:02:52.678912+00:00",
-  "run_time_sh": "2026-11-17 12:02",
-  "window_start_sh": "2026-11-16 08:13",
+  "run_time": "2026-11-17T05:23:24.104260+00:00",
+  "run_time_sh": "2026-11-17 13:23",
+  "window_start_sh": "2026-11-16 12:23",
   "channels_enabled": 15,
   "channels_ok": 15,
   "runner_count": 2,
@@ -12,7 +12,7 @@
   "videos": [],
   "failures": [],
   "status": "ok",
-  "catchup": true,
+  "catchup": false,
   "sources": {
     "rss": 15
   },
