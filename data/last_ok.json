@@ -1,6 +1,6 @@
 {
-  "run_time": "2026-11-18T02:59:40.028803+00:00",
-  "run_time_sh": "2026-11-18 10:59",
+  "run_time": "2026-11-18T04:50:55.239374+00:00",
+  "run_time_sh": "2026-11-18 12:50",
   "videos": [
     {
       "video_id": "v7QmoP6z__k",
@@ -13,7 +13,8 @@
       "source": "rss",
       "published_sh": "2026-11-18 08:25",
       "published_approx": false,
-      "carry": false
+      "carry": true,
+      "first_seen_run": "2026-11-18T02:59:40.028803+00:00"
     },
     {
       "video_id": "R_hnvhtYGzg",
@@ -26,7 +27,8 @@
       "source": "rss",
       "published_sh": "2026-11-18 00:17",
       "published_approx": false,
-      "carry": false
+      "carry": true,
+      "first_seen_run": "2026-11-18T02:59:40.028803+00:00"
     },
     {
       "video_id": "Qqyvux2OVUY",
@@ -39,7 +41,8 @@
       "source": "rss",
       "published_sh": "2026-11-17 22:51",
       "published_approx": false,
-      "carry": false
+      "carry": true,
+      "first_seen_run": "2026-11-18T02:59:40.028803+00:00"
     },
     {
       "video_id": "YrMEeTzjuGY",
@@ -52,7 +55,8 @@
       "source": "rss",
       "published_sh": "2026-11-17 22:30",
       "published_approx": false,
-      "carry": false
+      "carry": true,
+      "first_seen_run": "2026-11-18T02:59:40.028803+00:00"
     },
     {
       "video_id": "lz_vibyx5HM",
@@ -65,7 +69,8 @@
       "source": "rss",
       "published_sh": "2026-11-17 18:56",
       "published_approx": false,
-      "carry": false
+      "carry": true,
+      "first_seen_run": "2026-11-18T02:59:40.028803+00:00"
     }
   ],
   "channels_ok": 15
