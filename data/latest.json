@@ -1,15 +1,81 @@
 {
-  "run_time": "2026-11-17T05:23:24.104260+00:00",
-  "run_time_sh": "2026-11-17 13:23",
-  "window_start_sh": "2026-11-16 12:23",
+  "run_time": "2026-11-18T02:59:40.028803+00:00",
+  "run_time_sh": "2026-11-18 10:59",
+  "window_start_sh": "2026-11-17 09:59",
   "channels_enabled": 15,
   "channels_ok": 15,
   "runner_count": 2,
-  "new_count": 0,
-  "fresh_count": 0,
+  "new_count": 5,
+  "fresh_count": 5,
   "carry_count": 0,
-  "report_at_sh": "2026-11-17 09:00",
-  "videos": [],
+  "report_at_sh": "2026-11-18 09:00",
+  "videos": [
+    {
+      "video_id": "v7QmoP6z__k",
+      "brand": "Fluke 福禄克",
+      "channel": "Fluke Corporation",
+      "channel_id": "UCR7ecClA4Ul6SDWFySBBLlQ",
+      "title": "Day one at RE+",
+      "url": "https://www.youtube.com/shorts/v7QmoP6z__k",
+      "views": "21",
+      "source": "rss",
+      "published_sh": "2026-11-18 08:25",
+      "published_approx": false,
+      "carry": false
+    },
+    {
+      "video_id": "R_hnvhtYGzg",
+      "brand": "Fluke 福禄克",
+      "channel": "Fluke Corporation",
+      "channel_id": "UCR7ecClA4Ul6SDWFySBBLlQ",
+      "title": "Find us at RE+ at booth 7534",
+      "url": "https://www.youtube.com/shorts/R_hnvhtYGzg",
+      "views": "270",
+      "source": "rss",
+      "published_sh": "2026-11-18 00:17",
+      "published_approx": false,
+      "carry": false
+    },
+    {
+      "video_id": "Qqyvux2OVUY",
+      "brand": "Fluke 福禄克",
+      "channel": "Fluke Corporation",
+      "channel_id": "UCR7ecClA4Ul6SDWFySBBLlQ",
+      "title": "Day 1 at RE+ 2026",
+      "url": "https://www.youtube.com/shorts/Qqyvux2OVUY",
+      "views": "186",
+      "source": "rss",
+      "published_sh": "2026-11-17 22:51",
+      "published_approx": false,
+      "carry": false
+    },
+    {
+      "video_id": "YrMEeTzjuGY",
+      "brand": "Fluke 福禄克",
+      "channel": "Fluke Corporation",
+      "channel_id": "UCR7ecClA4Ul6SDWFySBBLlQ",
+      "title": "Introducing the Fluke TIC-122 | Non-Contact Voltage Detection",
+      "url": "https://www.youtube.com/watch?v=YrMEeTzjuGY",
+      "views": "545",
+      "source": "rss",
+      "published_sh": "2026-11-17 22:30",
+      "published_approx": false,
+      "carry": false
+    },
+    {
+      "video_id": "lz_vibyx5HM",
+      "brand": "WIKA 威卡",
+      "channel": "WIKA Group",
+      "channel_id": "UCzm89EssQbaLCtxS1oXNwpA",
+      "title": "Gravimetric level measurement for tanks and silos | WIKA",
+      "url": "https://www.youtube.com/watch?v=lz_vibyx5HM",
+      "views": "72",
+      "source": "rss",
+      "published_sh": "2026-11-17 18:56",
+      "published_approx": false,
+      "carry": false
+    }
+  ],
   "failures": [],
   "status": "ok",
   "catchup": false,
@@ -21,6 +87,6 @@
     "configured": false,
     "posted": false,
     "response": null,
-    "note": "无新视频，未推送"
+    "note": "未配置 FEISHU_WEBHOOK_URL，仅落盘"
   }
 }
