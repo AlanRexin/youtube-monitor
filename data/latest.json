@@ -1,14 +1,14 @@
 {
-  "run_time": "2026-11-20T04:32:28.907386+00:00",
-  "run_time_sh": "2026-11-20 12:32",
-  "window_start_sh": "2026-11-19 11:32",
+  "run_time": "2026-11-21T02:37:57.648778+00:00",
+  "run_time_sh": "2026-11-21 10:37",
+  "window_start_sh": "2026-11-20 09:37",
   "channels_enabled": 15,
   "channels_ok": 15,
   "runner_count": 2,
   "new_count": 3,
   "fresh_count": 0,
   "carry_count": 3,
-  "report_at_sh": "2026-11-20 09:00",
+  "report_at_sh": "2026-11-21 09:00",
   "videos": [
     {
       "video_id": "bEjL7Fp5hHM",
