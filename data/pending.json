@@ -1,54 +1,5 @@
 {
-  "updated": "2026-11-21T02:37:57.648778+00:00",
+  "updated": "2026-11-21T04:27:31.391500+00:00",
   "report_at": "2026-11-21T09:00:00+08:00",
-  "items": {
-    "bEjL7Fp5hHM": {
-      "first_seen_run": "2026-11-20T02:28:04.193021+00:00",
-      "item": {
-        "video_id": "bEjL7Fp5hHM",
-        "brand": "Fluke 福禄克",
-        "channel": "Fluke Corporation",
-        "channel_id": "UCR7ecClA4Ul6SDWFySBBLlQ",
-        "title": "Fluke ii1050 Acoustic Imager",
-        "url": "https://www.youtube.com/shorts/bEjL7Fp5hHM",
-        "views": "191",
-        "source": "rss",
-        "published_sh": "2026-11-20 00:17",
-        "published_approx": false,
-        "carry": false
-      }
-    },
-    "iCxNkbe-4yg": {
-      "first_seen_run": "2026-11-20T02:28:04.193021+00:00",
-      "item": {
-        "video_id": "iCxNkbe-4yg",
-        "brand": "Fluke 福禄克",
-        "channel": "Fluke Corporation",
-        "channel_id": "UCR7ecClA4Ul6SDWFySBBLlQ",
-        "title": "Fluke ii1050 Acoustic Camera | Detect and Assess Partial Discharge with PDQ Mode™",
-        "url": "https://www.youtube.com/watch?v=iCxNkbe-4yg",
-        "views": "181",
-        "source": "rss",
-        "published_sh": "2026-11-20 00:08",
-        "published_approx": false,
-        "carry": false
-      }
-    },
-    "DeOWr_jo3Lg": {
-      "first_seen_run": "2026-11-20T02:28:04.193021+00:00",
-      "item": {
-        "video_id": "DeOWr_jo3Lg",
-        "brand": "Fluke 福禄克",
-        "channel": "Fluke Corporation",
-        "channel_id": "UCR7ecClA4Ul6SDWFySBBLlQ",
-        "title": "You asked, Will and Elliot answered from the floor at RE+",
-        "url": "https://www.youtube.com/shorts/DeOWr_jo3Lg",
-        "views": "230",
-        "source": "rss",
-        "published_sh": "2026-11-20 00:02",
-        "published_approx": false,
-        "carry": false
-      }
-    }
-  }
+  "items": {}
 }
