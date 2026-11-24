@@ -1,6 +1,6 @@
 {
-  "run_time": "2026-11-24T05:24:18.559944+00:00",
-  "run_time_sh": "2026-11-24 13:24",
+  "run_time": "2026-11-24T07:14:34.932697+00:00",
+  "run_time_sh": "2026-11-24 15:14",
   "videos": [
     {
       "video_id": "58eAGISr8AA",
@@ -13,7 +13,8 @@
       "source": "rss",
       "published_sh": "2026-11-24 04:22",
       "published_approx": false,
-      "carry": false
+      "carry": true,
+      "first_seen_run": "2026-11-24T05:24:18.559944+00:00"
     },
     {
       "video_id": "ozjlP09R7Xo",
@@ -26,7 +27,8 @@
       "source": "rss",
       "published_sh": "2026-11-23 23:01",
       "published_approx": false,
-      "carry": false
+      "carry": true,
+      "first_seen_run": "2026-11-24T05:24:18.559944+00:00"
     }
   ],
   "channels_ok": 15
