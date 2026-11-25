@@ -1,44 +1,15 @@
 {
-  "run_time": "2026-11-24T07:14:34.932697+00:00",
-  "run_time_sh": "2026-11-24 15:14",
-  "window_start_sh": "2026-11-23 14:14",
+  "run_time": "2026-11-25T04:24:38.041654+00:00",
+  "run_time_sh": "2026-11-25 12:24",
+  "window_start_sh": "2026-11-24 11:24",
   "channels_enabled": 15,
   "channels_ok": 15,
   "runner_count": 2,
-  "new_count": 2,
+  "new_count": 0,
   "fresh_count": 0,
-  "carry_count": 2,
-  "report_at_sh": "2026-11-24 09:00",
-  "videos": [
-    {
-      "video_id": "58eAGISr8AA",
-      "brand": "Additel",
-      "channel": "Additel",
-      "channel_id": "UC-M9rFDKpqzFv8JWKbu1TRA",
-      "title": "How to Set Up The ADT710 Automated Gauge Reader",
-      "url": "https://www.youtube.com/watch?v=58eAGISr8AA",
-      "views": "30",
-      "source": "rss",
-      "published_sh": "2026-11-24 04:22",
-      "published_approx": false,
-      "carry": true,
-      "first_seen_run": "2026-11-24T05:24:18.559944+00:00"
-    },
-    {
-      "video_id": "ozjlP09R7Xo",
-      "brand": "Fluke 福禄克",
-      "channel": "Fluke Corporation",
-      "channel_id": "UCR7ecClA4Ul6SDWFySBBLlQ",
-      "title": "Fluke TIC-122 and 410A Hot Stick",
-      "url": "https://www.youtube.com/shorts/ozjlP09R7Xo",
-      "views": "453",
-      "source": "rss",
-      "published_sh": "2026-11-23 23:01",
-      "published_approx": false,
-      "carry": true,
-      "first_seen_run": "2026-11-24T05:24:18.559944+00:00"
-    }
-  ],
+  "carry_count": 0,
+  "report_at_sh": "2026-11-25 09:00",
+  "videos": [],
   "failures": [],
   "status": "ok",
   "catchup": false,
@@ -50,6 +21,6 @@
     "configured": false,
     "posted": false,
     "response": null,
-    "note": "未配置 FEISHU_WEBHOOK_URL，仅落盘"
+    "note": "无新视频，未推送"
   }
 }

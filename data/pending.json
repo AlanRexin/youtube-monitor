@@ -1,38 +1,5 @@
 {
-  "updated": "2026-11-24T07:14:34.932697+00:00",
-  "report_at": "2026-11-24T09:00:00+08:00",
-  "items": {
-    "58eAGISr8AA": {
-      "first_seen_run": "2026-11-24T05:24:18.559944+00:00",
-      "item": {
-        "video_id": "58eAGISr8AA",
-        "brand": "Additel",
-        "channel": "Additel",
-        "channel_id": "UC-M9rFDKpqzFv8JWKbu1TRA",
-        "title": "How to Set Up The ADT710 Automated Gauge Reader",
-        "url": "https://www.youtube.com/watch?v=58eAGISr8AA",
-        "views": "30",
-        "source": "rss",
-        "published_sh": "2026-11-24 04:22",
-        "published_approx": false,
-        "carry": false
-      }
-    },
-    "ozjlP09R7Xo": {
-      "first_seen_run": "2026-11-24T05:24:18.559944+00:00",
-      "item": {
-        "video_id": "ozjlP09R7Xo",
-        "brand": "Fluke 福禄克",
-        "channel": "Fluke Corporation",
-        "channel_id": "UCR7ecClA4Ul6SDWFySBBLlQ",
-        "title": "Fluke TIC-122 and 410A Hot Stick",
-        "url": "https://www.youtube.com/shorts/ozjlP09R7Xo",
-        "views": "453",
-        "source": "rss",
-        "published_sh": "2026-11-23 23:01",
-        "published_approx": false,
-        "carry": false
-      }
-    }
-  }
+  "updated": "2026-11-25T04:24:38.041654+00:00",
+  "report_at": "2026-11-25T09:00:00+08:00",
+  "items": {}
 }
