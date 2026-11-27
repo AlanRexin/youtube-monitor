@@ -1,6 +1,6 @@
 {
-  "run_time": "2026-11-27T03:42:24.258833+00:00",
-  "run_time_sh": "2026-11-27 11:42",
+  "run_time": "2026-11-27T05:32:22.990543+00:00",
+  "run_time_sh": "2026-11-27 13:32",
   "videos": [
     {
       "video_id": "aLK_yqWPioE",
@@ -13,7 +13,8 @@
       "source": "rss",
       "published_sh": "2026-11-26 22:30",
       "published_approx": false,
-      "carry": false
+      "carry": true,
+      "first_seen_run": "2026-11-27T03:42:24.258833+00:00"
     }
   ],
   "channels_ok": 15
