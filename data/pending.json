@@ -1,35 +1,19 @@
 {
-  "updated": "2026-11-26T05:38:49.268130+00:00",
-  "report_at": "2026-11-26T09:00:00+08:00",
+  "updated": "2026-11-27T03:42:24.258833+00:00",
+  "report_at": "2026-11-27T09:00:00+08:00",
   "items": {
-    "E2dls-ulkrQ": {
-      "first_seen_run": "2026-11-26T03:41:36.772284+00:00",
+    "aLK_yqWPioE": {
+      "first_seen_run": "2026-11-27T03:42:24.258833+00:00",
       "item": {
-        "video_id": "E2dls-ulkrQ",
+        "video_id": "aLK_yqWPioE",
         "brand": "Fluke 福禄克",
         "channel": "Fluke Corporation",
         "channel_id": "UCR7ecClA4Ul6SDWFySBBLlQ",
-        "title": "Fluke ii1050 Acoustic Imager Unboxing | What's in the Box?",
-        "url": "https://www.youtube.com/watch?v=E2dls-ulkrQ",
-        "views": "203",
+        "title": "Fluke ii1050 Acoustic Camera | Detect Mechanical Issues Early with MECQ™ Mode",
+        "url": "https://www.youtube.com/watch?v=aLK_yqWPioE",
+        "views": "139",
         "source": "rss",
-        "published_sh": "2026-11-25 23:00",
-        "published_approx": false,
-        "carry": false
-      }
-    },
-    "7Y868kjX5Ao": {
-      "first_seen_run": "2026-11-26T03:41:36.772284+00:00",
-      "item": {
-        "video_id": "7Y868kjX5Ao",
-        "brand": "WIKA 威卡",
-        "channel": "WIKA Group",
-        "channel_id": "UCzm89EssQbaLCtxS1oXNwpA",
-        "title": "DTG-30 Dichte- und Temperatursensor | Wasserstoffbeimischung in Erdgas",
-        "url": "https://www.youtube.com/watch?v=7Y868kjX5Ao",
-        "views": "46",
-        "source": "rss",
-        "published_sh": "2026-11-25 17:32",
+        "published_sh": "2026-11-26 22:30",
         "published_approx": false,
         "carry": false
       }
