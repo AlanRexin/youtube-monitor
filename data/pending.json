@@ -1,22 +1,5 @@
 {
-  "updated": "2026-11-27T05:32:22.990543+00:00",
-  "report_at": "2026-11-27T09:00:00+08:00",
-  "items": {
-    "aLK_yqWPioE": {
-      "first_seen_run": "2026-11-27T03:42:24.258833+00:00",
-      "item": {
-        "video_id": "aLK_yqWPioE",
-        "brand": "Fluke 福禄克",
-        "channel": "Fluke Corporation",
-        "channel_id": "UCR7ecClA4Ul6SDWFySBBLlQ",
-        "title": "Fluke ii1050 Acoustic Camera | Detect Mechanical Issues Early with MECQ™ Mode",
-        "url": "https://www.youtube.com/watch?v=aLK_yqWPioE",
-        "views": "139",
-        "source": "rss",
-        "published_sh": "2026-11-26 22:30",
-        "published_approx": false,
-        "carry": false
-      }
-    }
-  }
+  "updated": "2026-11-28T03:24:33.614885+00:00",
+  "report_at": "2026-11-28T09:00:00+08:00",
+  "items": {}
 }
